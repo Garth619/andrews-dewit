@@ -99,10 +99,42 @@ get_header(); ?>
 		 	
 	 	</div><!-- section2_right -->
 	 	
-	 	
-	 	
-	 	
- 	</div><!-- section2_top -->
+	 </div><!-- section2_top -->
+	 
+	 
+	 <div class="section2_bottom">
+		 
+		 <div class="press_wrapper">
+			 
+			 
+			 <div class="press_top_wrapper">
+			 
+			 	<div class="meet_press_wrapper">
+				 
+				 	<img src="<?php bloginfo('template_directory');?>/images/nbc.png"/>
+				 
+			 	</div><!-- meet_press_wrapper -->
+			 
+			 	<div class="mywhite_line"></div><!-- white_line -->
+			 
+			 </div><!-- press_top_wrapper -->
+			 
+			 <div class="press_bottom_wrapper">
+				 
+				 <span>Featured On</span>
+				 
+				 <div class="sixty_min_wrapper">
+					 
+					 <img src="<?php bloginfo('template_directory');?>/images/60minutes.png"/>
+					 
+				 </div><!-- 60_min_wrapper -->
+				 
+			 </div><!-- press_bottom_wrapper -->
+			 
+		 </div><!-- press_wrapper -->
+		 
+		 
+	 </div><!-- section2_bottom -->
  	
  	
  	
