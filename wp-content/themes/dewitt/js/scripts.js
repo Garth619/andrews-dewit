@@ -47,9 +47,11 @@
 	 
 	var myController = new ScrollMagic.Controller();
 	 
-	var BannerTextTween = TweenMax.staggerTo("#banner h1 span", 0, {className:"+=active"}, 0.3);
-	var BannerDotsTween = TweenMax.to("#banner-subtitle", 0, {className:"+=active"});
-	var BannerButtonTween = TweenMax.to("#banner-button", 0, {className:"+=active"});
+/*
+var BannerTextTween = TweenMax.staggerTo("#banner h1 span", 0, {className:"+=active"}, 0.3);
+var BannerDotsTween = TweenMax.to("#banner-subtitle", 0, {className:"+=active"});
+var BannerButtonTween = TweenMax.to("#banner-button", 0, {className:"+=active"});
+*/
 	var Section1TextTween = TweenMax.to("#section1-text", 0, {className:"+=active"});
 	var Section1CaptionTween = TweenMax.to("#section1-image figcaption", 0, {className:"+=active"});
 	var Section2TitleTween = TweenMax.staggerTo("#section2 h2 span", 0, {className:"+=active"}, 0.2);

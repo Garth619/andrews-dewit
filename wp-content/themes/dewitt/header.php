@@ -69,20 +69,44 @@
               <!-- desktop header -->
         
         		<div id="header-desktop" class="visible-md visible-lg">
-                    <div id="logo">
-                        <a href="<?php echo site_url(); ?>">
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png" />
-                        </a>
-                    </div>
-					<div id="header-phone">
-						<div class="phone-number">
-							<a href="tel: +1<?php echo preg_replace("/[^0-9]/",'', get_field('header_phone_number', 'options')); ?>"><?php the_field('header_phone_number', 'options');?></a>
-						</div>
-					</div>
-					<div id="main-nav">
-						<?php wp_nav_menu(array('theme_location' => 'main', 'menu_class'  => 'nav',)); ?>
-					</div>
-                </div>
+                    
+               <div id="logo">
+                  
+                  <a href="<?php echo site_url(); ?>">
+                     
+                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png" />
+                 	
+                 	</a>
+               
+               </div> <!-- logo -->
+               
+               
+               <div class="my_header_col">
+               
+               
+               		<div id="main-nav">
+						
+										<?php wp_nav_menu(array('theme_location' => 'main', 'menu_class'  => 'nav',)); ?>
+					
+									</div><!-- main-nav -->
+					
+					
+									<div id="header-phone">
+							 	
+							 			<div class="phone-number">
+							 		
+							 				<a href="tel: +1<?php echo preg_replace("/[^0-9]/",'', get_field('header_phone_number', 'options')); ?>"><?php the_field('header_phone_number', 'options');?></a>
+						
+										</div><!-- phone-number -->
+					
+					
+									</div><!-- header-phone -->
+								
+								
+									</div><!-- my_header_col -->
+
+              
+              </div><!-- header-phone -->
                 
                 <!-- desktop header ends  -->
                 
