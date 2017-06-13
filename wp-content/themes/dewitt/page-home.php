@@ -60,6 +60,53 @@ get_header(); ?>
 </script>
   
 <section id="section2" class="content-block">
+ 	
+ 	
+ 	
+ 	<div class="section2_top">
+	 	
+	 	<div class="section2_left">
+	 	
+	 		<h1>California Personal Injury Lawyers</h1>
+	 	
+	 	</div><!-- section2_header_wrapper -->
+	 	
+	 	<div class="section2_right">
+		 	
+		 	<div class="section2_video_wrapper">
+			 	
+			 	<div class="video_title"><span>Press play</span> to learn why you should choose us</div><!-- video_title -->
+			 	
+			 	<div class="video_image_wrapper">
+				 	
+				 	<img class="video_thumb" src="<?php bloginfo('template_directory');?>/images/video_img.jpg"/>
+				 	
+				 	<div class="new_play_button">
+					 	
+					 	<img src="<?php bloginfo('template_directory');?>/images/new-play.png"/>
+					 	
+				 	</div><!-- new_play_button -->
+				 	
+			 	</div><!-- video_image_wrapper -->
+			 	
+		 	</div><!-- section2_video_wrapper -->
+		 	
+		 	<div class="top_content">
+			 	
+			 	<p>In California and elsewhere, the law allows you to claim monetary compensation for your damages if they were the fault of another person, individual, or entity, whether in an accident caused by that party’s negligence, or by their willful act or failure to act as required. We completely understand that money can never truly compensate you for the loss of your health or the death of a loved one; but is the best the legal system can do to achieve the closest approximation of justice for those who have been injured or bereaved.</p>
+			 	
+		 	</div><!-- top_content -->
+		 	
+	 	</div><!-- section2_right -->
+	 	
+	 	
+	 	
+	 	
+ 	</div><!-- section2_top -->
+ 	
+ 	
+ 	
+<!--
  	<div id="section2-row1" class="content-row">
 		<?php if( get_field('section2_text1_title') ): ?>
 			<div class="content-title" id="section2-title">
@@ -82,6 +129,11 @@ get_header(); ?>
 			</div>
 		</div>
 	</div>
+	
+	
+	
+	
+	
 	<div id="section2-row2" class="content-row">
 		<figure class="content-image" id="section2-image">
 			<div id="featured-meet-the-press" class="featured">
@@ -109,7 +161,16 @@ get_header(); ?>
 			<?php endif; ?>
 		</div>
 	</div>
-</section>
+-->
+
+
+
+
+
+
+
+
+</section><!-- section2 -->
   
 <section id="section3" class="content-block">
     <div id="section3-case-results-desktop" class="content-case-results hidden-sm hidden-xs">

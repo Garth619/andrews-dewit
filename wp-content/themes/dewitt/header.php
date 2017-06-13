@@ -22,7 +22,7 @@
 <?php the_field('header_tags', 'options');?>
 </head>
 
-</head>
+
 	<body <?php body_class(); ?> >
     
     <div id="page">

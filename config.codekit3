@@ -7358,6 +7358,12 @@
 		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro\/wp-migrate-db-pro.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/dewitt-old.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/dewitt-old.zip",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/dewitt\/archive.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -7717,6 +7723,17 @@
 		"iS": 4857,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/images\/nbc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/themes\/dewitt\/images\/new-play.png": {
+		"ft": 32768,
+		"iS": 3619,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/dewitt\/images\/new-play.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8090,16 +8107,6 @@
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/dewitt\/single.php",
 		"oF": 0
-		},
-	"\/wp-content\/themes\/dewitt\/style copy.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/dewitt\/style copy-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/wp-content\/themes\/dewitt\/style.css": {
 		"aP": 1,
