@@ -2995,7 +2995,8 @@ opacity: 0;
 	line-height: 63px;
 	font-family: "Vidaloka", serif;
 	float: left;
-	width: 344px;
+	max-width: 344px;
+	width: 50%;
 	margin: 0;
 	padding: 0 0px 0 0;
 }
@@ -3207,8 +3208,12 @@ opacity: 0;
 	background-size: 130px auto;
 	padding: 127px 10% 133px 15%;
 	overflow: hidden;
+	width: 97%;
+	float:right;
+	
 }
 #section2:before {
+/*
 	content: '';
 	width: 3.6%;
 	height: 1890px;
@@ -3217,6 +3222,7 @@ opacity: 0;
 	left: 0px;
 	background: #FFF;
 	z-index: 2;
+*/
 }
 
 
@@ -3990,7 +3996,7 @@ opacity: 0;
 #section3 .case-result {
 	float: left;
 	width: 25%;
-	padding: 370px 5% 0;
+	padding: 363px 5% 0;
 	text-align: center;
 	height: 900px;
 	margin: 0;
@@ -4025,7 +4031,7 @@ opacity: 0;
 	transform: rotate(90deg);
 	position: absolute;
 	top: 162px;
-	right: -67px;
+	right: -56px;
 	text-transform: uppercase;
 	width: 200px;
 	font-weight: 700;
@@ -4044,11 +4050,12 @@ opacity: 0;
 #section3 .case-result-info .case-result-vs {
 	color: #1c1a21;
 	font-size: 15.99px;
-	margin: 0 0 5px;
-	line-height: 32.99px;
+	margin: 10px 0 5px;
+	line-height: 27px;
 	letter-spacing: 0px;
 	font-weight: 500;
 	clear: both;
+	padding-top: 7px;
 }
 #section3 .case-result-info .case-result-vs strong {
 	color: #b57d54;
@@ -4070,8 +4077,10 @@ opacity: 0;
 }
 #section3 .case-result.active .case-result-hover {
 	opacity: 1;
-	height: 930px;
-	padding: 130px 12% 0;
+	height: 980px;
+	padding: 178px 14% 0;
+	top:-35px;
+	background: #efefef;
 }
 #section3 .case-result-hover .case-result-amount {
 	color: #2970e2;
@@ -4104,6 +4113,7 @@ opacity: 0;
 	letter-spacing: 2px;
 	clear: both;
 	margin: 0 0 40px;
+	text-transform: uppercase;
 	opacity:0;
 	transition: opacity 0.5s 0.1s cubic-bezier(0.77, 0, 0.175, 1);
 }
@@ -4116,8 +4126,8 @@ opacity: 0;
 	text-align: center;
 	letter-spacing: 0;
 	font-weight: 500;
-	margin: 0 0 20px;
-	padding: 95px 0 0;
+	margin: 0 0 0px;
+	padding: 109px 0 0;
 	position: relative;
 	opacity:0;
 	transition: opacity 0.7s 0.4s cubic-bezier(0.77, 0, 0.175, 1);
@@ -4157,6 +4167,14 @@ opacity: 0;
 	text-align: center;
 	letter-spacing: 0;
 }
+
+.mybutton_wrapper {
+	width:100%;
+	position: absolute;
+	bottom:100px;
+	left:0;
+}
+
 #section3 .case-result-hover .button {
 	font-size: 12px;
 	color: #FFF;
@@ -4164,13 +4182,13 @@ opacity: 0;
 	height: 56px;
 	line-height: 56px;
 	padding: 0px;
-	margin: 0 0 0 -140px;
-	display: table;
-	max-width: 280px;
-	width: 100%;
-	position:absolute;
+	margin: 0 auto;
+// 	display: table;
+	max-width: 340px;
+	width:100%;
+// 	position:absolute;
 	bottom:40px;
-	left:50%;
+// 	left:50%;
 }
 #section3 .case-result-hover .button:hover {
 }

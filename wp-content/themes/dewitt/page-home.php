@@ -247,7 +247,10 @@ get_header(); ?>
 					<div class="case-result-text">
 						<?php the_sub_field('description'); ?>
 					 </div>
-					 <a href="#" class="button">View All Case Results</a>
+					 
+					 <div class="mybutton_wrapper"><a href="#" class="button">View All Case Results</a></div>
+					 
+					 
 				</div>
 			</div>
 
