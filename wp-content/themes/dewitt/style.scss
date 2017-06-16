@@ -1614,7 +1614,7 @@ opacity: 0;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #footer-form-text h4 {
-	padding: 0 0 0 75px;
+	padding: 0 0 0 55px;
 	font-family: "Heebo", san-serif;
 	color: #b57d54;
 	font-weight: 300;
@@ -1627,7 +1627,7 @@ opacity: 0;
 	font-size: 15px;
 	line-height: 30px;
 	font-weight: 300;
-	padding: 0 0 0 75px;
+	padding: 0 0 0 55px;
 	margin: 0;
 }
 #footer-form-fields {
@@ -3289,6 +3289,10 @@ opacity: 0;
 			font-size:23px;
 		line-height: 42px;
 		letter-spacing: 0.2px;
+		strong {
+			font-weight: 100;
+			color:#b57d54;
+		}
 		}
 	}
 }
@@ -3365,7 +3369,7 @@ opacity: 0;
 		font-size:61px;
 		color:#b57d54;
 		font-family: "Vidaloka",serif;
-		line-height: 61px;
+		line-height: 57px;
 		letter-spacing: 1.2px;
 		span.bottom_header {
 			display: block;
@@ -3378,6 +3382,7 @@ opacity: 0;
 		padding-left:9%;
 		p {
 			color:#fff;
+			font-weight: 500;
 		}
 	}
 }
@@ -4256,13 +4261,15 @@ opacity: 0;
 	letter-spacing: 2px;
 	background: none;
 	padding: 0 15%;
+	
 }
 #section3 .case-result-text p {
 	font-size: 13.54px;
-	color: #15182b;
+	
 	line-height: 27.94px;
 	text-align: center;
 	letter-spacing: 0;
+	font-weight:400;
 }
 #section3 .button {
 	position: absolute;
@@ -4357,7 +4364,7 @@ opacity: 0;
 #main #section4 {
 	background: url(images/content_2_bg.jpg) top center no-repeat;
 	background-size: cover;
-	padding: 230px 0 215px;
+	padding: 230px 0 97px;
 }
 #main #section4 .container {
 	max-width: 1140px;
@@ -4469,9 +4476,10 @@ opacity: 0;
 #main #section4-text {
 	position: relative;
 	z-index: 3;
-	padding: 0 0 0 24.5%;
+	padding: 0 0 0 22.5%;
 	opacity:0;
 	transition: opacity 0.7s 1.6s cubic-bezier(0.77, 0, 0.175, 1);
+	 max-width: 960px;
 }
 #section4.active #section4-text {
 	opacity:1;
@@ -4480,6 +4488,7 @@ opacity: 0;
 	color: #FFF;
 	font-size: 16px;
 	line-height: 33px;
+	font-weight: 400
 }
 
 @media (max-width: 1099px) {
@@ -4797,16 +4806,24 @@ opacity: 0;
 /* ===== HOME SECTION6 ===== */
 
 #section6 {
-	padding: 145px 0 130px;
+	padding: 250px 0 130px;
 	height: 1120px;
 }
 #section6-title {
+/*
 	position: absolute;
 	width: 28.7%;
 	right: 0;
+*/
+
+width:30%;
+float:right;
 }
 #section6-posts {
-	padding: 0 31.3% 0 0;
+// 	padding: 0 31.3% 0 0;
+width:78%;
+float:left;
+margin-left: -230px;
 }
 #section6-title p {
 	font-size: 20px;
@@ -4868,6 +4885,7 @@ opacity: 0;
 #section6-slider .entry {
     padding: 0 10px 20px;
     overflow: visible;
+    margin:0 10px;
 }
 #section6-slider .entry-content {
 }

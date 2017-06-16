@@ -93,7 +93,7 @@ get_header(); ?>
 		 	
 		 	<div class="top_content">
 			 	
-			 	<p>In California and elsewhere, the law allows you to claim monetary compensation for your damages if they were the fault of another person, individual, or entity, whether in an accident caused by that party’s negligence, or by their willful act or failure to act as required. We completely understand that money can never truly compensate you for the loss of your health or the death of a loved one; but is the best the legal system can do to achieve the closest approximation of justice for those who have been injured or bereaved.</p>
+			 	<p>In California and elsewhere, the law allows you to claim monetary compensation for your damages if they were the fault of another person, individual, or entity, whether in an accident caused by that party’s negligence, or by their willful act or failure to act as required. <strong>We completely understand that money can never truly compensate you for the loss of your health or the death of a loved one;</strong> but is the best the legal system can do to achieve the closest approximation of justice for those who have been injured or bereaved.</p>
 			 	
 		 	</div><!-- top_content -->
 		 	
