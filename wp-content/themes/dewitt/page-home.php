@@ -134,6 +134,30 @@ get_header(); ?>
 		 </div><!-- press_wrapper -->
 		 
 		 
+		 <div class="section2_content">
+			 
+			 
+			 <span class="large_header">First & foremost, 
+           <span class="bottom_header"> we are the real deal.</span><!-- bottom_header -->
+        </span><!-- large_header -->
+        
+        <div class="section2_inner_content">
+	        
+	        <p>An injury or wrongful death accident can occur without warning. Your comfortable life can disappear in a flash. Your credit score may be taking a nosedive as your medical bills mount up. You may desperately want to return to work, but your condition won’t allow it. With rising bills and falling earnings, complicated by pain, suffering, disability, and mental anguish, you may be wondering how you can possibly go on.</p>
+	        
+	        <p>Unexpected injuries happen in so many ways: in motor vehicle accidents, trip and fall accidents, accidents in the workplace or on someone else’s premises, medical errors, injuries caused by defective products, and many, many more.</p>
+
+					<p>Sometimes, an accident is just that—an accident.  It may be the result of your own carelessness or simply “an act of God.” But many times, it is someone else’s negligence or wrongdoing that is to blame for your suffering.</p>
+
+					<p>In a just world, why should you be forced to suffer for something someone else did to harm you? While there is no such thing as perfect justice, we have laws in place that, when properly applied, can go a long way toward achieving the greatest possible degree of justice for those who have suffered damages that another individual, company, or other entity caused. That’s where having a good personal injury lawyer can make all the difference. With the right attorney behind you, justice is within your reach.</p>
+	        
+        </div><!-- section2_inner_content -->
+			 
+			 
+		 </div><!-- section2_content -->
+		 
+		 <div style="clear:both"></div>
+		 
 	 </div><!-- section2_bottom -->
  	
  	
