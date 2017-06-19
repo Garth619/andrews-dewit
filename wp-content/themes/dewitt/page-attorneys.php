@@ -21,7 +21,7 @@ get_header(); ?>
 				<?php } ?>
        	
 				<div class="attorney">
-					<a href="#" class="attorney-image" style="background:url(<?php the_sub_field('image'); ?>"></a>
+					<a href="#" class="attorney-image" style="background:url(<?php the_sub_field('image'); ?>)"></a>
 					<div class="attorney-name"><a href="#"><?php the_sub_field('name'); ?></a></div>
 					<a href="<?php the_sub_field('link_url'); ?>" class="button">View Profile</a>
 				</div>

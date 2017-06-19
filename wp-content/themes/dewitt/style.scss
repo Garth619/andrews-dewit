@@ -1488,9 +1488,9 @@ opacity: 0;
 }
 #footer-side {
 	width: 74px;
-	height: 100%;
+	height: 95%;
 	position: absolute;
-	bottom: 0px;
+	top: 0px;
 	left: 0px;
 	background: #FFF;
 	z-index: 4;
@@ -1551,13 +1551,13 @@ opacity: 0;
 #footer-form-text {
 	float: left;
 	width: 50%;
-	padding: 158px 20px 0 170px;
+	padding: 158px 20px 0 136px;
 }
 #footer-form-text h3 {
 	color: #FFF;
 	font-size: 105px;
 	line-height: 0.98;
-	margin: 0 0 80px;
+	 margin: 0 0 58px;
 	font-family: 'Vidaloka', serif;
 }
 #footer-form-text h3 span {
@@ -1614,28 +1614,189 @@ opacity: 0;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #footer-form-text h4 {
-	padding: 0 0 0 55px;
+	padding: 0 0 0 78px;
 	font-family: "Heebo", san-serif;
 	color: #b57d54;
 	font-weight: 300;
-	margin: 0 0 35px;
+	margin: 0 0 27px;
 	font-size: 20px;
 	line-height: 28px;
+	max-width: 570px;
+	letter-spacing: 0;
 }
 #footer-form-text p {
 	color: #FFF;
 	font-size: 15px;
 	line-height: 30px;
-	font-weight: 300;
-	padding: 0 0 0 55px;
+	font-weight: 400;
+	padding: 0 0 0 78px;
 	margin: 0;
+	max-width: 570px;
 }
 #footer-form-fields {
 	float: left;
 	width: 50%;
-	padding: 416px 0 185px;
+	padding: 378px 0 0px;
 	position: relative;
 }
+
+
+
+
+
+
+/* New Form */
+
+
+
+
+
+ul#gform_fields_1 {
+	list-style: none;
+	li {
+		width:49.35%;
+		margin-bottom:10px;
+		position: relative;
+		&:nth-of-type(1n + 1) {
+			float:left;
+		}
+		&:nth-of-type(2n + 2) {
+			float:right;
+		}
+		label {
+			display: none;
+		}
+		input, textarea {
+			background: #15182b;
+			border:#434248 1px solid;
+			color:#fff;
+			text-transform: uppercase;
+			font-size:13px;
+			font-weight: bold;
+			letter-spacing: 1px;
+			padding:13px 45px;
+			width:100%;
+			
+		}
+		textarea {
+    resize: none;
+    height:230px;
+    padding:13px 95px 13px 45px;
+}
+	}
+	li#field_1_5 {
+		width:100%;
+		margin-bottom: 0;
+		.gfield_description, .validation_message {
+			position: absolute;
+			bottom:-33px;
+			left:0;
+		}
+		.ginput_container {
+			height:230px;
+		}
+	}
+}
+
+
+.gfield_description, .validation_message {
+	color:	#2970e2;
+	font-size:12px;
+	text-transform: uppercase;
+	font-family: "Heebo",sans-serif;
+	font-weight: 500;
+	margin-left:45px;
+}
+
+
+
+
+ul#gform_fields_1 li ::-webkit-input-placeholder {
+  color: #fff;
+ }
+      
+      ul#gform_fields_1 li ::-moz-placeholder {
+        color: #fff; }
+      ul#gform_fields_1 li :-moz-placeholder {
+        color: #fff; }
+      ul#gform_fields_1 li :-ms-input-placeholder {
+        color: #fff; }
+      ul#gform_fields_1 li ::-moz-placeholder {
+        opacity: 1; }
+
+
+
+
+#footer-form-required {
+	color:#2970e2;
+	font-size:12px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	display: block;
+	margin-bottom:28px;
+	font-weight: 500;
+	letter-spacing: 1.5px;
+}
+
+
+.gform_body {
+	overflow: hidden;
+}
+
+.gform_footer {
+	float:right;
+	width:71px;
+	height:230px;
+	position: relative;
+	top:-230px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#296fe1+0,1951a6+100 */
+	background: #296fe1;
+	transition: all .2s ease-in-out;
+	background: linear-gradient(to bottom, #296fe1 0%,#1951a6 100%);
+	
+	&:before {
+		content:"";
+		background:url(images/footer_send_icon.svg) top center no-repeat;
+		width:38px;
+		height:33px;
+		display: block;
+		margin:0 auto;
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+		
+	}
+	&:hover {
+		background: #b57d54;
+	}
+	input {
+		background:transparent;
+		border: none;
+		text-indent: -9999px; 
+		position: absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		padding:0;
+		&:hover {
+			background: transparent;
+		}
+	}
+}
+
+
+
+.validation_error {
+	display: none;
+}
+
+
+
+
+
+
+/*
 #footer-form-fields form {
 	position: relative;
 }
@@ -1669,6 +1830,15 @@ opacity: 0;
 #footer-form label {
 	display: none;
 }
+
+
+.ginput_container:after {
+	content:"*";
+	display: inline-block;
+	color:#2970e2;
+}
+
+
 #footer-form input[type="text"] {
 	float: left;
 	width: 100% !important;
@@ -2038,6 +2208,7 @@ opacity: 0;
     transform: matrix(1, 0, 0, 1, 0, 0) !important;
 }
 }
+*/
 /* ===== FOOTER MAIN ===== */
 
 #footer-main {
@@ -2046,6 +2217,7 @@ opacity: 0;
 	padding: 85px 54px 0px 0;
 	background: #15182b;
 	position: relative;
+	margin-top:-53px;
 }
 #footer-main .container {
 	max-width: 1480px;
@@ -2066,7 +2238,7 @@ opacity: 0;
 	font-size: 40px;
 	font-weight: 400;
 	margin: 0;
-	padding: 56px 0 0 0;
+	padding: 45px 0 0 0;
 	position:relative;
 }
 #footer-contact h2:before {
@@ -2116,7 +2288,7 @@ opacity: 0;
 	font-weight: 400;
 	margin: 0;
 	position:relative;
-	padding: 56px 0 0 0;
+	padding: 45px 0 0 0;
 	transition: opacity 1.5s cubic-bezier(0.47, 0, 0.745, 0.715);
 }
 #footer-location h2:before {
@@ -2126,7 +2298,7 @@ opacity: 0;
 	background: url(images/footer_2.svg) 0px 0px no-repeat;
 	background-size: 52px auto;
 	position:absolute;
-	top:0px;
+	top:-10px;
 	left:0px;
 	opacity:0;
 	transition: opacity 1.5s cubic-bezier(0.47, 0, 0.745, 0.715);
@@ -2441,6 +2613,7 @@ opacity: 0;
 	font-size: 12px;
 	letter-spacing: 0px;
 	float: left;
+	font-weight: 500;
 }
 #footer-bottom p a {
 	color: #434248;
@@ -5230,15 +5403,18 @@ margin-left: -230px;
 /* ===== ATTORNEY PAGE ===== */
 
 .page-template-page-attorney-php #main #page-content {
-	padding: 125px 0;
+	padding: 125px 0 0;
 }
 .page-template-page-attorney-php #secondary {
 	width: 50%;
 	float: right;
-	padding: 95px 4% 0;
+	padding: 95px 4% 105px;
 	position: relative;
+	background: #efefef;
+	margin-top: 244px;
 }
 .page-template-page-attorney-php #secondary:before {
+/*
 	content: '';
 	background: #efefef;
 	width: 100%;
@@ -5246,16 +5422,17 @@ margin-left: -230px;
 	top: 145px;
 	left: 0px;
 	height: 100%;
+*/
 }
 .page-template-page-attorney-php #primary {
-	width: 50%;
+	width: 48%;
 	float: left;
 	padding: 0 5%;
 }
 .page-template-page-attorney-php #page-content #page-title {
 	border-bottom: 0px;
 	padding: 0 0 0 130px;
-	margin: 0 0 120px;
+	margin: 0 0 93px;
 	font-size: 85px;
 	line-height: 85.63px;
 	text-transform: uppercase;
@@ -5278,11 +5455,11 @@ margin-left: -230px;
 	top: 40px;
 }
 .page-template-page-attorney-php #page-content #attorney-contact {
-	margin: 0 0 20px;
+	 margin: 0 0 64px;
 	font-size: 14px;
 	color: #15182b;
 	font-weight: 700;
-	padding: 0 0 50px;
+	padding: 0 0 46px;
 	border-bottom: 4px solid #f1f1f1;
 	letter-spacing: 1.2px;
 	text-transform: uppercase;
@@ -5292,8 +5469,13 @@ margin-left: -230px;
 }
 .page-template-page-attorney-php #page-content #attorney-contact span {
 	display: inline-block;
-	padding: 0 20px;
+	padding: 0 5%;
 	margin: 0 0 0 -4px;
+	border-right:2px solid #d1d0d0;
+	line-height: 1;
+	&:last-of-type {
+		border:none;
+	}
 }
 .page-template-page-attorney-php #page-content #attorney-contact span strong {
 	color: #2970e2;
@@ -5301,6 +5483,7 @@ margin-left: -230px;
 .page-template-page-attorney-php #page-content #attorney-contact span a {
 	color: #2970e2;
 	font-weight: 700;
+	
 }
 .page-template-page-attorney-php #page-content #attorney-contact span a:hover {
 	color: #b57d54;
@@ -5311,15 +5494,14 @@ margin-left: -230px;
 }
 .page-template-page-attorney-php #page-content #attorney-image {
 	position: relative;
-	z-index: 3;
-	margin: 0 0 135px;
+	margin: -247px 0 135px;
 }
 .page-template-page-attorney-php #page-content #attorney-image img {
 }
 .page-template-page-attorney-php #page-content #attorney-image figcaption {
 	color: #b57d54;
 	font-size: 55.54px;
-	line-height: 55.58px;
+	line-height: 62px;
 	font-family: 'Vidaloka', serif;
 	position: absolute;
 	bottom: 100px;
@@ -5360,6 +5542,10 @@ margin-left: -230px;
 	text-align: left;
 	width: 100%;
 	font-weight: 300;
+}
+
+.page-template-page-attorney-php #page-content #attorney-info li strong {
+	font-weight: 500;
 }
 
 @media (max-width: 1499px) {

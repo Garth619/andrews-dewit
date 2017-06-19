@@ -23,11 +23,12 @@
 			<div id="footer-form-text">
 				<h3><span><b><i>Get legal </i></b></span><span><b><i>help today</i></b></span></h3>
 				<h4>Our cases are taken on a contingency fee basis, which means you do not pay attorney fees unless we obtain compensation for you.</h4>
-				<p>Too many individuals chose the wrong law firm or elect not to pursue a personal injury claim, wrongful death claim or medical malpractice case for a multitude of wrong reasons. We encourage you to allow us to review your case and provide a straightforward assessment at no charge.</p>
+				<p>When you are dealing with your own health issues or the loss of a family member, you may not feel ready to handle the legal complexities of pursuing an injury or wrongful death claim. Nor should you ever try to do this on your own. A skilled, professional, and compassionate personal injury attorney can relieve you of the burden and stress of handling a legal action, while offering you the best likelihood of seeing a significantly larger damage award than you would typically get by attempting to negotiate your claim directly with the insurance company.</p>
 			</div>
 			<div id="footer-form-fields">
-				<?php echo do_shortcode('[gravityform id="1" name="Request Free Consultation" title="false" description="false"]'); ?>
-				<div id="footer-form-required">Information required</div>
+				<div id="footer-form-required">Information required *</div>
+				<?php // echo do_shortcode('[gravityform id="1" name="Request Free Consultation" title="false" description="false"]'); ?>
+				<?php gravity_form(1, false, false, false, '', true, 12); ?>
 			</div>
 		</div>
     </section>

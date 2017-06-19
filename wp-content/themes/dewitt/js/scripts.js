@@ -1,4 +1,12 @@
  jQuery(document).ready(function () {
+	 
+	 
+
+	 
+	 
+	 
+	 
+	 
 	$("#mobile-nav li.menu-item-has-children > a").append("<span></span>");
 	$("#mobile-nav li.menu-item-has-children > a").click(function(e) {
 		e.preventDefault();
@@ -19,6 +27,7 @@
 	});
 	
 	  
+/*
 	var el = $('input[type=text], textarea');
     el.focus(function(e) {
         if (e.target.value == e.target.defaultValue)
@@ -28,6 +37,7 @@
         if (e.target.value == '')
             e.target.value = e.target.defaultValue;
     });
+*/
 	
 	
 	$( "#section3 .case-result" ).hover(
@@ -207,5 +217,11 @@ $(window).resize(function (){
     $( '#section3 .case-result-on p' ).each(function() {
 		  $( this ).center();
 	 });
-});
+}); // Document Ready
+
+
+
+
+
+
 
