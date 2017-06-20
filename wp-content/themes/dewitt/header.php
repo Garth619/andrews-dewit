@@ -131,7 +131,59 @@
 							</div>
 						<?php } else { ?>
 							<div id="banner-title">
-								<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>
+								
+								
+								
+								<?php if(is_page_template( 'page-contact.php') ):?>
+								
+									<h1>Use the contact form below to <strong>make an appointment</strong></h1>
+									
+								<?php endif;?>
+									
+									
+								<?php if(is_page_template( 'page-home.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
+									
+															
+									<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>
+								
+								
+								<?php endif;?>
+								
+								
+								<?php $classes = get_body_class();
+									
+									if (in_array('page-template-default',$classes)):?>
+   
+								
+									<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>
+									
+									
+									
+									<?php endif;?> 
+									
+									
+									<?php if(is_home() || is_single()):?>
+									
+									
+										<h1>personal injury blog</h1>
+									
+									
+									<?php endif;?>
+									
+									
+									<?php if(is_archive()):?>
+									
+									
+										<h1><?php single_cat_title();?></h1>
+									
+									
+									<?php endif;?>
+								
+								
+								
+								
+								
+								
 							</div>
 						<?php } ?>
 						<div id="banner-button">

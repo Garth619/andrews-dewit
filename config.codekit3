@@ -8631,6 +8631,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/themes\/dewitt\/images\/blue-internal.png": {
+		"ft": 32768,
+		"iS": 3549,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/dewitt\/images\/blue-internal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/wp-content\/themes\/dewitt\/images\/content_2_bg.jpg": {
 		"ft": 16384,
 		"iS": 641038,
@@ -8690,6 +8701,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/wp-content\/themes\/dewitt\/images\/gold-internal.png": {
+		"ft": 32768,
+		"iS": 3577,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/dewitt\/images\/gold-internal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/wp-content\/themes\/dewitt\/images\/header_bg.jpg": {
 		"ft": 16384,
@@ -8920,6 +8942,17 @@
 		"iS": 3715,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/images\/play_button_hover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/themes\/dewitt\/images\/play_button_hover_gold.png": {
+		"ft": 32768,
+		"iS": 3649,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/dewitt\/images\/play_button_hover_gold.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

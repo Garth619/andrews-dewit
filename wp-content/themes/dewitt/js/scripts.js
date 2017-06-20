@@ -1,9 +1,30 @@
  jQuery(document).ready(function () {
 	 
 	 
+// About Play Button
+
+
+
 
 	 
+	 $('.button-video').mouseenter(function(){
+	 	
+	 	$('img.myplay_reg').fadeOut(100);
+	 	
+	 	$('img.myplay_hover').fadeIn(100);
+	 	
+	 	
+	 });
 	 
+	 
+	 $('.button-video').mouseleave(function(){
+	 	
+	 	$('img.myplay_reg').fadeIn(100);
+	 	
+	 	$('img.myplay_hover').fadeOut(300);
+	 	
+	 	
+	 });
 	 
 	 
 	 

@@ -19,7 +19,20 @@ get_header(); ?>
 		<?php if( get_field('about_video_caption') ): ?>
 			<p><?php the_field('about_video_caption');?></p>
 		<?php endif; ?>
-		<div class="button-video"></div>
+		<div class="button-video">
+			
+			<a href="">
+			
+			<div class="myplay_wrapper">
+				
+				<img class="myplay_reg" src="<?php bloginfo('template_directory');?>/images/blue-internal.png"/>
+				<img class="myplay_hover" src="<?php bloginfo('template_directory');?>/images/gold-internal.png"/>
+				
+			</div><!-- myplay_wrapper -->
+			
+			</a>
+			
+		</div><!-- button-video -->
 	</div>
 </section>
 <section id="section2" class="content-block">
