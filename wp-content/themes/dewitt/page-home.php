@@ -5,7 +5,11 @@ Template Name: Home
 get_header(); ?>
 
 <?php wp_reset_query(); if (have_posts()) : while (have_posts()) : the_post(); ?>
-              
+ 
+ 
+ 
+ 
+             
 <section id="section1" class="content-block">
   	<figure id="section1-image" class="content-image">
   		<div id="section1-image-mask">

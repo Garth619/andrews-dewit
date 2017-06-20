@@ -9324,6 +9324,42 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/uploads\/gravity_forms\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/.htaccess",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/gravity_forms\/1-16f36c13149aa9396f70bf7fece351c9\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/1-16f36c13149aa9396f70bf7fece351c9\/index.html",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/gravity_forms\/1-16f36c13149aa9396f70bf7fece351c9\/tmp\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/1-16f36c13149aa9396f70bf7fece351c9\/tmp\/index.html",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/gravity_forms\/1-7528c488afe7c3f2bcc11b4cfc41c712\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/1-7528c488afe7c3f2bcc11b4cfc41c712\/index.html",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/gravity_forms\/1-7528c488afe7c3f2bcc11b4cfc41c712\/tmp\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/1-7528c488afe7c3f2bcc11b4cfc41c712\/tmp\/index.html",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/gravity_forms\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/index.html",
+		"oF": 0
+		},
 	"\/wp-content\/uploads\/wp-migrate-db\/index.php": {
 		"ft": 8192,
 		"oA": 2,

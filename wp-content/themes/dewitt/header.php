@@ -131,7 +131,7 @@
 							</div>
 						<?php } else { ?>
 							<div id="banner-title">
-								<h1><span><b><i>The personal </i></b></span><span><b><i>injury law firm where</i></b></span><span><b><i><strong>you come first</strong></i></b></span></h1>
+								<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>
 							</div>
 						<?php } ?>
 						<div id="banner-button">
