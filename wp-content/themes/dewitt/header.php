@@ -123,13 +123,9 @@
 								</div>
 							</div>
 						<?php endif; ?>
-						<?php if( get_field('banner_title') ) { ?>
-							<div id="banner-title">
-								<div id="banner-mask">
-									<h1><?php the_field('banner_title');?></h1>
-								</div>
-							</div>
-						<?php } else { ?>
+
+						
+
 							<div id="banner-title">
 								
 								
@@ -171,21 +167,24 @@
 									<?php endif;?>
 									
 									
+									
+									
+									
 									<?php if(is_archive()):?>
 									
-									
-										<h1><?php single_cat_title();?></h1>
-									
+										<h1 class="mycat"><?php single_cat_title();?></h1>
+										
+										<h1 class="myarchive">Archive</h1>
 									
 									<?php endif;?>
+									
+									
+									
 								
-								
-								
-								
-								
+
 								
 							</div>
-						<?php } ?>
+						
 						<div id="banner-button">
 							<div id="banner-button-mask">
 								<a class="button">Start your free case evaluation</a>

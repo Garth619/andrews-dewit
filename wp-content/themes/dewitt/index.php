@@ -33,11 +33,8 @@
 		</ul>
 	</nav>
 </div>
-<div id="secondary">
-    <div id="sidebar">
-    	<?php dynamic_sidebar( 'blog' ); ?>
-    </div>
-</div>
+
+<?php include('sidebar.php');?>
 
 
 <?php get_footer();?>
