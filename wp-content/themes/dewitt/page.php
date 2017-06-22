@@ -14,10 +14,6 @@ get_header(); ?>
 		<?php endif; ?>
     </div> 
 </div>
-<div id="secondary">
-    <div id="sidebar">
-    	<?php dynamic_sidebar( 'main' ); ?>
-    </div>
-</div>
+<?php include('sidebar.php');?>
     
 <?php get_footer(); ?>

@@ -122,7 +122,7 @@ h4 {
 }
 p {
 	font-size: 17px;
-	line-height: 32px;
+	line-height: 30px;
 	letter-spacing: 0;
 	color: #15182b;
 	margin: 0 0 40px;
@@ -2377,10 +2377,59 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	float: right;
 	width: 65%;
 	margin: 0;
-	padding: 110px 6.5%;
+	padding: 101px 6.5%;
 	position: relative;
 }
 
+
+
+#inner_posts {
+	margin-top:0px;
+	margin-bottom:425px;
+	.mysingle_post {
+		border-bottom: 4px solid #f1f1f1;
+		padding-bottom: 55px;
+		margin-bottom:54px;
+		a.button {
+			transition: all .2s ease-in-out;
+			&:hover {
+				
+			}
+		}
+		p {
+			margin-bottom: 32px !important;
+		}
+		.entry-meta {
+			text-transform: uppercase;
+			font-size:12px;
+			font-weight:bold;
+			letter-spacing: 1px;
+			margin-bottom:65px;
+			a {
+				color:#b57d54;
+				
+			}
+			span {
+					color:#b57d54;
+				}
+		}
+		h2 {
+			font-size:50px;
+			line-height: 55px;
+			margin: 0 0 25px;
+			color:#2970e2;
+			a {
+				transition: all .2s ease-in-out;
+				
+				&:hover {
+					text-decoration: none;
+				}
+			}
+		
+			
+		}
+	}
+}
 
 
 
@@ -2393,6 +2442,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	margin: -65px 0 0 0;
 	position: relative;
 	padding: 0;
+	margin-bottom:425px;
 	
 }
 #primary #content {
@@ -2582,8 +2632,18 @@ body.page-template-default, body.blog, body.single, body.archive {
 
 
 body img.gform_ajax_spinner {
-	display: none!important;
+	display: none !important;
 }
+
+
+
+
+
+
+
+
+
+
 
 /*
 #sidebar {
@@ -6459,6 +6519,32 @@ margin-left: -230px;
 	padding: 70px 14.6% 100px 18%;
 	position: relative;
 }
+
+
+
+
+
+.inner_form_main {
+	margin-bottom:50px;
+}
+
+
+.main_sidebar {
+	.widget h3 {
+		display: none;
+	}
+	ul {
+		li {
+			margin-bottom:23px !important;
+			a {
+				
+			}
+		}
+	}
+}
+
+
+
 .widget h3 {
 	width: 100%;
 	clear: both;

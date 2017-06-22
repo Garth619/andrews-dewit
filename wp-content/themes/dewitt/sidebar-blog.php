@@ -1,5 +1,5 @@
 <div id="secondary">
-	<div class="inner_form_wrapper inner_form_main">
+	<div class="inner_form_wrapper">
 		
 		<div class="myblueline"></div><!-- myblueline -->
 		
@@ -14,7 +14,7 @@
 		</div><!-- inner_form -->
 		
 	</div><!-- inner_form_wrapper -->
-    <div id="sidebar" class="main_sidebar">
-    	<?php dynamic_sidebar( 'main' ); ?>
+    <div id="sidebar">
+    	<?php dynamic_sidebar( 'blog' ); ?>
     </div>
 </div>

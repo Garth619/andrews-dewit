@@ -1,10 +1,15 @@
 <?php get_header();?>
 
 <div id="primary">
-    <div id="posts">
+    <div id="inner_posts">
     	<?php wp_reset_query(); if (have_posts()) : while (have_posts()) : the_post(); ?>
-			<article class="entry post">
-				<h2 class="entry-title">
+			
+			
+			
+			<div class="mysingle_post">
+			
+			
+				<h2>
 					<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
 						<?php the_title(); ?>
 					</a>
@@ -14,14 +19,27 @@
 				$categories = get_the_category($post->ID);
 				$cat_link = get_category_link($category[0]->cat_ID);
 				echo '<a href="'.$cat_link.'">'.$categories[0]->cat_name.'</a>'
-				?> on <?php the_time('l, F j, Y'); ?>.
+				?> on <span><?php the_time('l, F j, Y'); ?>.</span>
 				</div>
 				<div class="entry-content"><?php echo get_the_excerpt(); ?></div>
 				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="button">Read Full Post</a>
-			</article>
+		
+		
+		
+		
+		</div><!-- mysingle_post -->
+		
+		
+		
+		
+		
+		
+		
 		<?php endwhile; else: ?>
 		<?php endif; ?>
-    </div> 
+    </div> <!-- inner posts -->
+    
+    
     <nav class="posts-nav">
 		<ul>
 			<li class="prev-link">
@@ -34,7 +52,7 @@
 	</nav>
 </div>
 
-<?php include('sidebar.php');?>
+<?php include('sidebar-blog.php');?>
 
 
 <?php get_footer();?>
