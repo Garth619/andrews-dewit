@@ -548,6 +548,25 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 }
 }
 
+
+
+
+@media screen and (max-width: 1230px) {
+	
+	#header-phone {
+		 max-width: 126px;
+	}
+	
+	#header-phone .phone-number a {
+		font-size:18px;
+	}
+	
+	
+	
+} /* Media Query */
+
+
+
 @media (max-width: 1099px) {
 #masthead {
 }
@@ -763,10 +782,13 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	
 
 #header-phone {
-  max-width: 158px;
+//   max-width: 158px;
 }
 
-
+#header-desktop {
+    
+    padding: 0 0 0 14px;
+   }
 
 
 	
@@ -1480,19 +1502,19 @@ opacity: 0;
 }
 #banner-button {
 	height: 40px;
-	width: 230px;
+	width: 310px
 }
 #banner-button-mask {
 	height: 40px;
 }
 #banner-button.active #banner-button-mask {
-	width: 230px;
+	width: 310px
 }
 #banner-button .button {
 	height: 40px;
 	line-height: 40px;
-	font-size: 8.21px;
-	width: 230px;
+	font-size: 11px;
+	width: 310px;
 }
 #banner-side {
 }
@@ -3283,7 +3305,7 @@ body img.gform_ajax_spinner {
 }
 }
 
-@media (max-width: 1099px) {
+@media (max-width: 1330px) {
 #section1 {
 	height: 572px;
 }
@@ -3333,7 +3355,7 @@ body img.gform_ajax_spinner {
 #section1-selling-points .slick-dots {
 	left: auto;
 	right: 0px;
-	text-align: right;
+// 	text-align: right;
 }
 #section1-selling-points .slick-dots li {
 	padding: 0 25px 0 0;
@@ -3348,6 +3370,21 @@ body img.gform_ajax_spinner {
 	color: #b57d54;
 }
 }
+
+
+
+@media screen and (max-width: 1095px) {
+	
+	#section1-selling-points .slick-dots {
+		
+		text-align: right;
+		
+	}
+	
+} /* Media Query */
+
+
+
 
 @media (max-width: 767px) {
 #section1 {
