@@ -3619,10 +3619,81 @@ body img.gform_ajax_spinner {
 
 
 
+@media screen and (max-width: 1830px) {
+	
+	
+	.section2_left {
+		width: 697px;
+		h1 {
+			font-size:115px;
+			line-height: 121px;
+		}
+	}
+	
+	
+	.section2_right {
+    width: calc(100% - 707px);
+	}
+	
+	
+	
+	
+} /* Media Query */
+
+
+@media screen and (max-width: 1700px) {
+	
+	
+	#section2 {
+		padding-left:10%;
+		padding-right:7%;
+	}
+	
+	.section2_left {
+		width: 587px;
+		h1 {
+			font-size:100px;
+			line-height: 101px;
+		}
+	}
+	
+	
+	.section2_right {
+    width: calc(100% - 587px);
+	}
+	
+	
+	
+	
+} /* Media Query */
 
 
 
-
+@media screen and (max-width: 1390px) {
+	
+	
+	#section2 {
+		padding-left:10%;
+		padding-right:7%;
+	}
+	
+	.section2_left {
+		width: 532px;
+		h1 {
+			font-size:90px;
+			line-height: 91px;
+		}
+	}
+	
+	
+	.section2_right {
+    width: calc(100% - 534px);
+	}
+	
+	
+	
+	
+} /* Media Query */
 
 
 
