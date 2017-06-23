@@ -21,6 +21,12 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
+	"\/dewitt-migrate-20170623230208.sql.gz": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dewitt-migrate-20170623230208.sql.gz",
+		"oF": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
