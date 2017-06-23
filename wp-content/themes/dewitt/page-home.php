@@ -142,7 +142,7 @@ get_header(); ?>
 			 
 			 
 			 <span class="large_header">First & foremost, 
-           <span class="bottom_header"> we are the real deal.</span><!-- bottom_header -->
+           <span class="bottom_header"> we are the real&nbsp;deal.</span><!-- bottom_header -->
         </span><!-- large_header -->
         
         <div class="section2_inner_content">
