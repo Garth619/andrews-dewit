@@ -2492,12 +2492,13 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 #footer-bottom svg {
 	float: right;
 	width: 238px;
+	margin-top:3px;
 }
 #footer-bottom path {
 	fill: #FFF;
 }
 
-@media (max-width: 1099px) {
+@media (max-width: 1230px) {
 #footer-bottom {
 	padding: 20px 60px 30px;
 }
