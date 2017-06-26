@@ -15,7 +15,7 @@ get_header(); ?>
   		<div id="section1-image-mask">
   			<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/selling_points_img.jpg" />
 		</div>
-		<figcaption class="hidden-xs">Southern California</figcaption>
+		<figcaption>Southern California</figcaption>
 	</figure>
 	<div class="content-text" id="section1-text">
 		<div id="section1-text-mask"></div>
