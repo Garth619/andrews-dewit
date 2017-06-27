@@ -8,9 +8,7 @@ get_header(); ?>
 	<div class="container">
         <div id="primary">
         	<?php if( get_field('photo') ): ?>
-        		<figure id="attorney-image-mobile" class="visible-xs">
-					<img src="<?php the_field('photo');?>" />
-				</figure>
+        		
 			<?php endif; ?>
        		<h1 id="page-title"><?php the_field('name');?></h1>
 			<div id="attorney-contact">
@@ -29,12 +27,15 @@ get_header(); ?>
 			</div>
           </h1>
           <div id="attorney-bio">
+	          <div id="attorney-image-mobile">
+					<img src="<?php the_field('photo');?>" />
+				</div>
 				<?php the_field('bio');?>
 		  </div>
         </div>
         <div id="secondary">
         	<?php if( get_field('photo') ): ?>
-        		<figure id="attorney-image" class="hidden-xs">
+        		<figure id="attorney-image">
 					<img src="<?php the_field('photo');?>" />
 					<figcaption><?php the_field('caption');?></figcaption>
 				</figure>
