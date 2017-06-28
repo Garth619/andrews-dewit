@@ -313,6 +313,21 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 }
 /* ===== MOBILE HEADER ===== */
 
+
+.banner-phone {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
 #header-mobile {
 	background: #15182b;
 	border: 0px;
@@ -400,7 +415,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	display: none;
 }
 
-@media(max-width:768px) {
+@media(max-width:760px) {
 #header-mobile {
 	border: 0px;
 	margin: 0;
@@ -418,6 +433,8 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	display: inline-block;
 }
 #mobile-phone {
+	top:-16px !important;
+/*
 	font-size: 29.71px;
 	position: absolute;
 	top: 84px;
@@ -430,7 +447,21 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	bottom: auto;
 	letter-spacing: 1px;
 	text-align: center;
+*/
 }
+
+
+.mytablet-phone {
+	display: none;
+	right:0;
+}
+
+.banner-phone {
+	display: block;
+	right:25px !important;
+	top:0 !important;
+}
+
 #mobile-phone .phone-number {
 	margin: 0;
 	float: none;
@@ -862,8 +893,12 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 /* ===== MOBILE NAV ===== */
 
 #mobile-nav-wrap {
-	position: relative;
+	position: fixed;
+	width:100%;
 	z-index: 4;
+	z-index:1000;
+	top:0;
+	left:0;
 }
 #mobile-nav {
 	padding: 45px 0 15px;
@@ -1105,6 +1140,10 @@ body.category {
 			padding-left: 25px;
 			padding-right:25px;  
 		}
+	}
+	
+	#banner {
+	
 	}
 	
 	
@@ -1584,6 +1623,7 @@ opacity: 0;
 @media (max-width: 1099px) {
 #banner {
 	padding-right:0;
+	margin-top:74px;
 }
 .home #banner {
 }
@@ -1712,6 +1752,20 @@ opacity: 0;
 	overflow: visible;
 	margin: 0;
 }
+
+
+@media screen and (max-width: 1099px) {
+	
+	
+	
+	#main {
+		z-index:0;
+	}
+	
+	
+} /* Media Query */
+
+
 /* ===== FOOTER FORM ===== */
 
 #colophon {

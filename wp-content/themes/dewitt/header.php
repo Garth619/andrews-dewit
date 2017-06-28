@@ -42,11 +42,17 @@
 		                            <img class="img-responsive center-block visible-sm" src="<?php echo get_stylesheet_directory_uri(); ?>/images/tablet_logo.png" />
 		                        </a>
 		                    </div>
-		                    <div id="mobile-phone">
+		                    
+		                    
+		                    
+		                    <div id="mobile-phone" class="mytablet-phone">
 		                        <div class="phone-number">
 		                        	<a href="tel: +1<?php echo preg_replace("/[^0-9]/",'', get_field('header_phone_number', 'options')); ?>"><?php the_field('header_phone_number', 'options');?></a>
-		                        </div>
-		                    </div>
+		                        </div><!-- phone-number -->
+		                    </div><!-- mobile-phone -->
+		                   
+		                   
+		                   
 		                    <div id="mobile-toggle" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-nav">
                             	<span class="icon-bar">
                                 </span>
@@ -113,6 +119,16 @@
                 <!-- banner -->
         
 				<section id="banner">
+					
+					
+						<div id="mobile-phone" class="banner-phone">
+		          <div class="phone-number">
+		             <a href="tel: +1<?php echo preg_replace("/[^0-9]/",'', get_field('header_phone_number', 'options')); ?>"><?php the_field('header_phone_number', 'options');?></a>
+		          </div><!-- phone-number -->
+		        </div><!-- mobile-phone -->
+					
+					
+					
 					<div id="banner-text">
 						<?php if( get_field('banner_subtitle') ): ?>
 							<div id="banner-subtitle">
