@@ -6827,6 +6827,7 @@ margin-left: -230px;
 	width: 100%;
 }
 #practice-areas li {
+	margin-bottom: 0px;
 }
 #page-content #practice-areas li a {
 	color: #15182b;
@@ -6836,7 +6837,7 @@ margin-left: -230px;
 	padding: 24px 0;
 	text-transform: uppercase;
 	border-bottom: 1px solid #dcdddf;
-	float: left;
+	display: block;
 	width: 100%;
 	font-weight: 700;
 	letter-spacing: 1.2px;
@@ -6845,6 +6846,26 @@ margin-left: -230px;
 	color: #3b78ff;
 	background: none;
 }
+
+
+
+
+@media screen and (max-width: 1400px) {
+	
+	
+	#practice-areas .widget {
+	
+		width: 47%;
+	
+}
+	
+	
+	
+	
+	
+} /* Media Query */
+
+
 
 @media (max-width: 767px) {
 #practice-areas .widget {

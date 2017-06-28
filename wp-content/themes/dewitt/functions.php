@@ -29,6 +29,7 @@ add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
 register_nav_menus( array(
 	'main' => 'Main',
 	'mobile' => 'Mobile',
+	'practiceareas' => 'Practice Areas',
 ) );
 
 /* Dynamic Sidebars
@@ -53,6 +54,7 @@ if(function_exists('register_sidebars')){
 		'before_title'  => '<h3 class="widgettitle">',
 		'after_title'   => '</h3>'
 	));
+/*
 	register_sidebar(array(
 		'name'          => 'Practice Areas',
 		'id'            => 'practice-areas',
@@ -62,6 +64,7 @@ if(function_exists('register_sidebars')){
 		'before_title'  => '<h3 class="widgettitle">',
 		'after_title'   => '</h3>'
 	));
+*/
 }
 
 /* Add Options Page
