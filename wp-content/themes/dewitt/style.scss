@@ -2251,6 +2251,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 			font-size:17px;
 			padding-left:0;
 			line-height: 23px;
+			margin-bottom:17px;
 		}
 		p {
 			padding-left:0;
@@ -2262,6 +2263,51 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	#footer-form-fields {
 		margin-top: 105px;
 	}
+	
+	
+	#gform_wrapper_1 ul#gform_fields_1 li {
+		margin-bottom: 10px;
+	}
+	
+	
+	
+	#gform_wrapper_1 ul#gform_fields_1 li input, #gform_wrapper_1 ul#gform_fields_1 li textarea {
+		font-size:12px;
+		padding: 9px 25px;
+	}
+	
+	 #gform_wrapper_1 ul#gform_fields_1 li textarea {
+		 height:179px;
+	 }
+	 
+	 
+	 
+	 #gform_wrapper_1 .gform_footer {
+		 top:-52px;
+		 width:100%;
+		 height: 52px;
+		 
+	 }
+	
+	
+	
+	#footer-main {
+		margin-top: 0;
+	}
+	
+	
+	#footer-form-content {
+		min-height: 1167px;
+	}
+	
+	
+	#footer-form {
+		padding: 0 18px;
+	}
+	
+	
+	 
+	
 	
 	
 	
