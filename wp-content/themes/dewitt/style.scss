@@ -1827,7 +1827,7 @@ opacity: 0;
 	position: absolute;
 	top: 127px;
 	left: -55px;
-	opacity:0;
+	opacity:1;
 	text-transform: uppercase;
 	transition: all 1s linear;
 }
@@ -1835,18 +1835,18 @@ opacity: 0;
 	content: '';
 	background: #795846;
 	height: 1px;
-	width: 1px;
+	width: 325px;
 	position: absolute;
 	bottom: 0px;
 	left: 0px;
-	transition: width 0.3s 1.5s cubic-bezier(.60,.70,.90,0.3);
+
 }
 #colophon.active #footer-form-title {
 	top:227px;
 	opacity:1;
 }
 #colophon.active #footer-form-title:after {
-	width: 325px;
+
 }
 #footer-form-text {
 	float: left;
@@ -1864,11 +1864,11 @@ opacity: 0;
     display: block;
     position: relative;
     overflow: hidden;
-    opacity: 0;
-    transition: opacity 1.3s cubic-bezier(0.47, 0, 0.745, 0.715);
+    opacity: 1;
+//     transition: opacity 1.3s cubic-bezier(0.47, 0, 0.745, 0.715);
 }
 #footer-form-text h3 span:last-child {
-    transition: opacity 1.5s 0.6s cubic-bezier(0.47, 0, 0.745, 0.715);
+//     transition: opacity 1.5s 0.6s cubic-bezier(0.47, 0, 0.745, 0.715);
 }
 #colophon.active #footer-form-text h3 span {
     opacity: 1;
@@ -1880,18 +1880,22 @@ opacity: 0;
     width: 100%;
     height: 100%;
     overflow: hidden;
+/*
     -webkit-transform: translate3d(-160%,0,0);
     transform: translate3d(-160%,0,0);
     transition: transform 1s cubic-bezier(0.39, 0.575, 0.565, 1);
     transition: -webkit-transform 1s cubic-bezier(0.39, 0.575, 0.565, 1);
+*/
 }
 #footer-form-text h3 span:last-child b {
+/*
     transition: transform 1s 1s cubic-bezier(0.39, 0.575, 0.565, 1);
     transition: -webkit-transform 1s 0.6s cubic-bezier(0.39, 0.575, 0.565, 1);
+*/
 }
 #colophon.active #footer-form-text h3 b {
     opacity: 1;
-    transform: matrix(1, 0, 0, 1, 0, 0);
+//     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #footer-form-text h3 i {
     display: block;
@@ -1900,18 +1904,22 @@ opacity: 0;
     height: 100%;
     font-style: normal;
     padding: 0 0 8px;
+/*
     -webkit-transform: translate3d(165%,0,0);
     transform: translate3d(165%,0,0);
     transition: transform 1s cubic-bezier(0.39, 0.575, 0.565, 1);
     transition: -webkit-transform 1s cubic-bezier(0.39, 0.575, 0.565, 1);
+*/
 }
 #footer-form-text h3 span:last-child i {
+/*
     transition: transform 1s 1s cubic-bezier(0.39, 0.575, 0.565, 1);
     transition: -webkit-transform 1s 0.6s cubic-bezier(0.39, 0.575, 0.565, 1);
+*/
 }
 #colophon.active #footer-form-text h3 b i {
     opacity: 1;
-    transform: matrix(1, 0, 0, 1, 0, 0);
+//     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #footer-form-text h4 {
 	padding: 0 0 0 78px;
@@ -3125,7 +3133,9 @@ body img.gform_ajax_spinner {
 
 
 
-
+ul#menu-practice-areas-directory {
+	padding-left:24%;
+}
 
 
 
@@ -3250,6 +3260,18 @@ body img.gform_ajax_spinner {
 @media screen and (max-width: 1381px) {
 	
 	
+	
+	
+	
+	
+ul#menu-practice-areas-directory {
+	padding-left:12%;
+	
+}
+
+
+	
+	
 	.inner_form_wrapper {
 		padding:65px 8% ;
 	}
@@ -3287,6 +3309,23 @@ body img.gform_ajax_spinner {
 
 
 
+
+
+ul#menu-practice-areas-directory {
+	padding-left:5%;
+	overflow: hidden;
+	width:100%;
+	li {
+		width:50% !important;
+		float:left !important;
+		clear:none !important;
+		
+	}
+}
+
+
+
+
 #inner_posts {
 	margin-bottom:157px;
 }
@@ -3316,6 +3355,22 @@ body img.gform_ajax_spinner {
 }
 
 @media (max-width: 767px) {
+	
+	
+	
+	ul#menu-practice-areas-directory {
+		padding-left:20px;
+		padding-right:20px;
+		li {
+			width:100% !important;
+		}
+	}
+	
+	
+	
+	
+	
+	
 #main #page-content {
 }
 #page-content #page-title {
@@ -5770,7 +5825,7 @@ width: 185px;
 	width: 65px;
 	height: 65px;
 	margin: 0 auto 55px;
-	opacity:0;
+	opacity:1;
 	transition: opacity 0.3s 0.5 cubic-bezier(0.77, 0, 0.175, 1);
 }
 #section5-practice-areas .practice-area-icon img {
@@ -5791,7 +5846,7 @@ width: 185px;
 	margin-bottom: 0;
 	color: #FFF;
 	font-family: "Vidaloka", serif;
-	opacity:0;
+	opacity:1;
 	transition: opacity 0.3s cubic-bezier(0.77, 0, 0.175, 1);
 }
 #section5-practice-areas .practice-area.on .practice-area-title {
@@ -5828,7 +5883,7 @@ width: 185px;
 	margin: 0;
 	text-align: center;
 	padding: 88px 0 0;
-	opacity:0;
+	opacity:1;
 	transition: opacity 0.5s cubic-bezier(0.77, 0, 0.175, 1);
 }
 #section5-practice-areas .practice-area.active .practice-area-hover .practice-area-title {

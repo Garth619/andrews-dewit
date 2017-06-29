@@ -15,6 +15,7 @@
 		
 	</div><!-- inner_form_wrapper -->
     <div id="sidebar" class="main_sidebar">
-    	<?php dynamic_sidebar( 'main' ); ?>
+<!--     	<?php dynamic_sidebar( 'main' ); ?> -->
+<?php wp_nav_menu(array('theme_location' => 'practiceareas', 'menu_class'  => 'prac',)); ?>
     </div>
 </div>

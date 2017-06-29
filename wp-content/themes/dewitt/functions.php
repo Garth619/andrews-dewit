@@ -27,7 +27,7 @@ add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
 -------------------------------------------------------------- */
 
 register_nav_menus( array(
-	'main' => 'Main',
+// 	'main' => 'Main',
 	'mobile' => 'Mobile',
 	'practiceareas' => 'Practice Areas',
 ) );
