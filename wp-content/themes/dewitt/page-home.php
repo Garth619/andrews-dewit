@@ -37,31 +37,7 @@ get_header(); ?>
 	</div>
 </section>
   
-<script>
-	jQuery(document).ready(function () {
-		$('#section1-selling-points').on('init', function(event, slick){
-			var myNum = 0;
-			$('#section1-selling-points .selling-point').each(function() {
-			  
-			  var myTitle = $( this ).find('.selling-point-title').text();
-			  var myNumber = myNum +1;
-			  $('#section1-selling-points .slick-dots li:nth-child('+myNumber+')').append('<span class="slick-title hidden-sm hidden-xs">'+myTitle+'</span>');
-			  myNum++;
-			});
-		});
-		$('#section1-selling-points').slick({
-		  dots: true,
-		  arrows: false,
-		  autoplay: true,
-		  autoplaySpeed: 5000,
-		  pauseOnHover: false,
-		  infinite: true,
-		  speed: 500,
-		  fade: true,
-		  cssEase: 'linear'
-		});
-	});
-</script>
+
   
 <section id="section2" class="content-block">
  	
@@ -252,7 +228,7 @@ get_header(); ?>
 						<?php the_sub_field('description'); ?>
 					 </div>
 					 
-					 <div class="mybutton_wrapper"><a href="#" class="button">View All Case Results</a></div>
+					 <div class="mybutton_wrapper"><a href="<?php bloginfo('url');?>/verdicts-settlements" class="button">View All Case Results</a></div>
 					 
 					 
 				</div>
@@ -280,24 +256,7 @@ get_header(); ?>
 		
 </section>
   
-<script>
-	jQuery(document).ready(function () {
-		$( "#section3 .case-result" ).hover(
-		  function() {
-			$(this).addClass("active");
-		 }, function() {
-			$(this).removeClass("active");
-		  }
-		);
-		$('#section3-slider').slick({
-		  dots: false,
-		  infinite: true,
-		  speed: 500,
-		  fade: true,
-		  cssEase: 'linear'
-		});
-	});
-</script>
+
   
 <section id="section4" class="content-block">
   <div class="container">
@@ -354,17 +313,7 @@ get_header(); ?>
 	</div>
 </section>
  
-<script>
-	jQuery(document).ready(function () {
-		$( "#section5 .practice-area" ).hover(
-		  function() {
-			$(this).addClass("active");
-		 }, function() {
-			$(this).removeClass("active");
-		  }
-		);
-	});
-</script>
+
   
 <section id="section6" class="content-block">
  	<?php if( get_field('section6_title') ): ?>
@@ -469,34 +418,7 @@ get_header(); ?>
 	</div>
 	<div id="section6-arrows"></div>
 </section>
-  
-<script>
-	jQuery(document).ready(function () {
-		$('#section6-slider').on('init', function(event, slick){
-			$( '#section6-slider .entry-content' ).matchHeight();
-		});
-		$('#section6-slider').slick({
-		  dots: false,
-		  infinite: true,
-		  slidesToShow: 3,
-		  slidesToScroll: 1,
-		  rtl: true,
-		  appendArrows:'#section6-arrows',
-		  speed: 500,
-		  fade: false,
-		  cssEase: 'linear',
-			responsive: [
-				{
-				  breakpoint: 1099,
-				  settings: {
-					slidesToShow: 1,
-					slidesToScroll: 1
-				  }
-				}
-			  ]
-		});
-	});
-</script>
+
    
 <?php endwhile; else: ?>
 <?php endif; ?>

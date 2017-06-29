@@ -153,7 +153,7 @@
 								<?php endif;?>
 									
 									
-								<?php if(is_page_template( 'page-home.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
+								<?php if(is_page_template( 'page-home.php') || is_page_template( 'page-practice-areas.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
 									
 															
 									<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>

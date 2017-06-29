@@ -1,6 +1,90 @@
  jQuery(document).ready(function () {
 	 
 	 
+
+$('#section1-selling-points').on('init', function(event, slick){
+			var myNum = 0;
+			$('#section1-selling-points .selling-point').each(function() {
+			  
+			  var myTitle = $( this ).find('.selling-point-title').text();
+			  var myNumber = myNum +1;
+			  $('#section1-selling-points .slick-dots li:nth-child('+myNumber+')').append('<span class="slick-title hidden-sm hidden-xs">'+myTitle+'</span>');
+			  myNum++;
+			});
+		});
+		$('#section1-selling-points').slick({
+		  dots: true,
+		  arrows: false,
+		  autoplay: true,
+		  autoplaySpeed: 5000,
+		  pauseOnHover: false,
+		  infinite: true,
+		  speed: 500,
+		  fade: true,
+		  cssEase: 'linear'
+		});
+		
+		
+		
+		
+		
+		
+		
+		$( "#section3 .case-result" ).hover(
+		  function() {
+			$(this).addClass("active");
+		 }, function() {
+			$(this).removeClass("active");
+		  }
+		);
+		$('#section3-slider').slick({
+		  dots: false,
+		  infinite: true,
+		  speed: 500,
+		  fade: true,
+		  cssEase: 'linear'
+		});
+		
+		
+		
+		
+		$( "#section5 .practice-area" ).hover(
+		  function() {
+			$(this).addClass("active");
+		 }, function() {
+			$(this).removeClass("active");
+		  }
+		);
+		
+		
+		
+		$('#section6-slider').on('init', function(event, slick){
+			$( '#section6-slider .entry-content' ).matchHeight();
+		});
+		$('#section6-slider').slick({
+		  dots: false,
+		  infinite: true,
+		  slidesToShow: 3,
+		  slidesToScroll: 1,
+		  rtl: true,
+		  appendArrows:'#section6-arrows',
+		  speed: 500,
+		  fade: false,
+		  cssEase: 'linear',
+			responsive: [
+				{
+				  breakpoint: 1099,
+				  settings: {
+					slidesToShow: 1,
+					slidesToScroll: 1
+				  }
+				}
+			  ]
+		});
+
+
+
+
 // About Play Button
 
 
@@ -78,26 +162,39 @@
 	 
 	var myController = new ScrollMagic.Controller();
 	 
+/*
 	var BannerTextTween = TweenMax.staggerTo("#banner h1 span", 0, {className:"+=active"}, 0.3);
 	var BannerDotsTween = TweenMax.to("#banner-subtitle", 0, {className:"+=active"});
 	var BannerButtonTween = TweenMax.to("#banner-button", 0, {className:"+=active"});
+*/
+/*
 	var Section1TextTween = TweenMax.to("#section1-text", 0, {className:"+=active"});
 	var Section1CaptionTween = TweenMax.to("#section1-image figcaption", 0, {className:"+=active"});
 	var Section2TitleTween = TweenMax.staggerTo("#section2 h2 span", 0, {className:"+=active"}, 0.2);
+*/
+/*
 	var Section2VideoTween = TweenMax.to("#section2-video", 0, {className:"+=active"});
 	var Section2Text1Tween = TweenMax.to("#section2-text1", 0, {className:"+=active"});
 	var Section2Featured1Tween = TweenMax.to("#featured-meet-the-press", 0, {className:"+=active"});
 	var Section2Featured2Tween = TweenMax.to("#featured-60-minutes", 0, {className:"+=active"});
 	var Section2ImageTween = TweenMax.to("#section2-image", 0, {className:"+=active"});
 	var Section2Text2Tween = TweenMax.to("#section2-text2", 0, {className:"+=active"});
+*/
+/*
 	var Section4TitleTween = TweenMax.staggerTo("#section4-title span", 0, {className:"+=active"}, 0.3);
 	var Section4Tween = TweenMax.to("#section4", 0, {className:"+=active"});
 	var Section5PracticeAreasTween = TweenMax.staggerTo("#section5 .practice-area", 0, {className:"+=on"}, 0);
+*/
+/*
 	var FooterFormTween = TweenMax.to("#colophon", 0, {className:"+=active"});
 	var FooterMainTween = TweenMax.to("#footer-main", 0, {className:"+=active"});
+*/
+/*
 	var StickyTween = TweenMax.to("#sticky", 0, {className:"+=active"});
 	var AboutTween = TweenMax.to("#main", 0, {className:"+=active"});
+*/
 	 
+/*
 	var BannerTextScene = new ScrollMagic.Scene({
 	triggerElement: "#banner"
 	})
@@ -118,7 +215,9 @@
 	.setTween(BannerButtonTween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
+/*
 	var Section1TextScene = new ScrollMagic.Scene({
 	triggerElement: "#section1", offset: -100
 	})
@@ -132,7 +231,9 @@
 	.setTween(Section1CaptionTween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
+/*
 	var Section2TitleScene = new ScrollMagic.Scene({
 	triggerElement: "#section2"
 	})
@@ -181,7 +282,9 @@
 	.setTween(Section2Text2Tween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
+/*
 	var Section4TitleScene = new ScrollMagic.Scene({
 	triggerElement: "#section4", offset: 200
 	})
@@ -195,14 +298,18 @@
 	.setTween(Section4Tween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
+/*
 	var Section5PracticeAreasScene = new ScrollMagic.Scene({
 	triggerElement: "#section5", offset: 200
 	})
 	.setTween(Section5PracticeAreasTween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
+/*
 	var FooterFormScene = new ScrollMagic.Scene({
 	triggerElement: "#colophon"
 	})
@@ -216,6 +323,7 @@
 	.setTween(FooterMainTween)
 	.reverse(false)
 	.addTo(myController);
+*/
 	 
 	var StickyScene = new ScrollMagic.Scene({
 	triggerElement: "#main"

@@ -16,7 +16,7 @@ get_header(); ?>
 					<span><?php the_field('job_title');?></span>
 				<?php endif; ?>
 				<?php if( get_field('phone_number') ): ?>
-					<span><strong>P</strong> <?php the_field('phone_number');?></span>
+					<span><strong>P</strong> <a href="tel:<?php the_field('phone_number');?>"><?php the_field('phone_number');?></a></span>
 				<?php endif; ?>
 				<?php if( get_field('fax_number') ): ?>
 					<span><strong>F</strong> <?php the_field('fax_number');?></span>
