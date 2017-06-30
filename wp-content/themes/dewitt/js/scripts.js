@@ -1,6 +1,55 @@
+ 
  jQuery(document).ready(function () {
 	 
 	 
+
+
+
+/*
+var waypoint = new Waypoint({
+  element: document.getElementById('section1'),
+  handler: function(direction) {
+    console.log('Scrolled to waypoint!')
+  }
+})
+*/
+
+
+
+
+
+/*
+
+function createWaypoint (triggerElementId, animatedElement, className, offsetVal, functionName) {
+        var waypoint = new Waypoint({
+            element: document.getElementById(triggerElementId),
+            handler: function(direction) {
+                if (direction === 'down') {
+                    jQuery(animatedElement).addClass(className);
+
+                    if(typeof functionName === 'function') {
+                        functionName.call();
+                    }
+
+                    this.destroy();
+                }
+            },
+            offset: offsetVal
+        });
+    }
+
+
+
+
+createWaypoint("section1", ".content-block", "garrett", 500, null);
+*/
+
+
+  
+
+
+
+
 
 $('#section1-selling-points').on('init', function(event, slick){
 			var myNum = 0;
@@ -160,7 +209,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 
 	$( '#case-results .case-result' ).matchHeight();
 	 
-	var myController = new ScrollMagic.Controller();
+// 	var myController = new ScrollMagic.Controller();
 	 
 /*
 	var BannerTextTween = TweenMax.staggerTo("#banner h1 span", 0, {className:"+=active"}, 0.3);
@@ -325,20 +374,25 @@ $('#section1-selling-points').on('init', function(event, slick){
 	.addTo(myController);
 */
 	 
+/*
 	var StickyScene = new ScrollMagic.Scene({
 	triggerElement: "#main"
 	})
 	.setTween(StickyTween)
 	.addTo(myController);
+*/
 	 
+/*
 	var AboutScene = new ScrollMagic.Scene({
 	triggerElement: ".page-template-page-about #main"
 	})
 	.setTween(AboutTween)
 	.addTo(myController);
+*/
 	 
 }); 
 
+/*
 $(window).resize(function (){
 	$( '#section1 .selling-point-hover-content' ).each(function() {
 		  $( this ).center();
@@ -346,7 +400,14 @@ $(window).resize(function (){
     $( '#section3 .case-result-on p' ).each(function() {
 		  $( this ).center();
 	 });
-}); // Document Ready
+
+
+
+
+
+
+}); 
+*/
 
 
 

@@ -10,13 +10,17 @@ function theme_name_scripts() {
 	wp_enqueue_style( 'animate.css', get_template_directory_uri() . '/css/animate.css' );
 	wp_enqueue_style( 'style.css', get_template_directory_uri() . '/style.css' );
 	
+	
+	
+	wp_enqueue_script( 'waypoints.js', get_template_directory_uri() . '/js/waypoints/lib/jquery.waypoints.min.js' );
+	
 	wp_enqueue_script( 'jquery.js', get_template_directory_uri() . '/js/jquery.min.js' );
 	wp_enqueue_script( 'bootstrap.js', get_template_directory_uri() . '/js/bootstrap.min.js' );
-	wp_enqueue_script( 'tweenmax.js', get_template_directory_uri() . '/js/TweenMax.min.js' );
-	wp_enqueue_script( 'scrollmagic.js', get_template_directory_uri() . '/js/ScrollMagic.min.js' );
-	wp_enqueue_script( 'animation.gsap.js', get_template_directory_uri() . '/js/animation.gsap.min.js' );
+// 	wp_enqueue_script( 'tweenmax.js', get_template_directory_uri() . '/js/TweenMax.min.js' );
+// 	wp_enqueue_script( 'scrollmagic.js', get_template_directory_uri() . '/js/ScrollMagic.min.js' );
+// 	wp_enqueue_script( 'animation.gsap.js', get_template_directory_uri() . '/js/animation.gsap.min.js' );
 	wp_enqueue_script( 'slick.js', get_template_directory_uri() . '/js/slick.min.js' );
-	wp_enqueue_script( 'jquery.center.js', get_template_directory_uri() . '/js/jquery.center.js' );
+// 	wp_enqueue_script( 'jquery.center.js', get_template_directory_uri() . '/js/jquery.center.js' );
 	wp_enqueue_script( 'matchheight.js', get_template_directory_uri() . '/js/jquery.matchHeight-min.js' );
  	wp_enqueue_script( 'scripts.js', get_template_directory_uri() . '/js/scripts.js' );
 }
@@ -36,6 +40,7 @@ register_nav_menus( array(
 -------------------------------------------------------------- */
 
 if(function_exists('register_sidebars')){
+/*
 	register_sidebar(array(
 		'name'          => 'Main',
 		'id'            => 'main',
@@ -45,6 +50,7 @@ if(function_exists('register_sidebars')){
 		'before_title'  => '<h3 class="widgettitle">',
 		'after_title'   => '</h3>'
 	));
+*/
 	register_sidebar(array(
 		'name'          => 'Blog',
 		'id'            => 'blog',
