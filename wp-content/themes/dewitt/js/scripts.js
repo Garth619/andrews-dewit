@@ -1,21 +1,81 @@
+  
+  var createWaypoint = function(selector, offsetVal, customFunc, reverse) {
+     reverse = typeof reverse !== 'undefined' ? reverse: false
+     offsetVal = typeof offsetVal !== 'undefined' ? offsetVal: "50%"
+     selector.waypoint({
+         handler: function(direction) {
+             if (reverse === true) {
+ 
+                 if ( direction === 'down' ) {
+                     selector.addClass('visible')
+                     if(typeof customFunc === 'function' && customFunc) {
+                         customFunc.call(this);
+                     }
+                 } else {
+                     selector.removeClass('visible')
+                 }
+ 
+             } else {
+ 
+                 if ( direction === 'down' ) {
+                     selector.addClass('visible')
+                     if(typeof customFunc === 'function' && customFunc) {
+                         customFunc.call(this);
+                     }
+                     this.destroy()
+                 }
+ 
+             }
+         },
+         offset: offsetVal
+     })
+ }
+ 
+ 
+ 
+ 	 // document ready
+ 
  
  jQuery(document).ready(function () {
 	 
 	 
+	 
+	 
+	 
+	 $('#banner').addClass('reg-state visible');
+	 
+
+
+ 	  var waypoint = window.createWaypoint
+ 
+     var footerImage = $('#section1')
+ 
+     waypoint(footerImage, '70%')
+ 	 
+
+
+
+
 
 
 
 /*
-var waypoint = new Waypoint({
-  element: document.getElementById('section1'),
-  handler: function(direction) {
-    console.log('Scrolled to waypoint!')
-  }
-})
+ingleLetters($('.cd-headline.letters').find('b'));
+ 
+function singleLetters($words) {
+	$words.each(function(){
+		var word = $(this),
+			letters = word.text().split(''),
+			selected = word.hasClass('is-visible');
+		for (i in letters) {
+			letters[i] = (selected) ? '<i class="in">' + letters[i] + '</i>': '<i>' + letters[i] + '</i>';
+		}
+	    var newLetters = letters.join('');
+	    word.html(newLetters);
+	});
+}
 */
-
-
-
+	 
 
 
 /*
@@ -43,6 +103,7 @@ function createWaypoint (triggerElementId, animatedElement, className, offsetVal
 
 createWaypoint("section1", ".content-block", "garrett", 500, null);
 */
+
 
 
   

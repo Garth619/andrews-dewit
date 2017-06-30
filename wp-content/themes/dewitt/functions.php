@@ -3,29 +3,45 @@
 /* Enqueue Scripts and Styles
 -------------------------------------------------------------- */
 
-function theme_name_scripts() {
-	
-	wp_enqueue_style( 'bootstrap.css', get_template_directory_uri() . '/css/bootstrap.min.css' );
-	wp_enqueue_style( 'slick.css', get_template_directory_uri() . '/css/slick.css' );
-	wp_enqueue_style( 'animate.css', get_template_directory_uri() . '/css/animate.css' );
-	wp_enqueue_style( 'style.css', get_template_directory_uri() . '/style.css' );
-	
-	
-	
-	wp_enqueue_script( 'waypoints.js', get_template_directory_uri() . '/js/waypoints/lib/jquery.waypoints.min.js' );
-	
-	wp_enqueue_script( 'jquery.js', get_template_directory_uri() . '/js/jquery.min.js' );
-	wp_enqueue_script( 'bootstrap.js', get_template_directory_uri() . '/js/bootstrap.min.js' );
-// 	wp_enqueue_script( 'tweenmax.js', get_template_directory_uri() . '/js/TweenMax.min.js' );
-// 	wp_enqueue_script( 'scrollmagic.js', get_template_directory_uri() . '/js/ScrollMagic.min.js' );
-// 	wp_enqueue_script( 'animation.gsap.js', get_template_directory_uri() . '/js/animation.gsap.min.js' );
-	wp_enqueue_script( 'slick.js', get_template_directory_uri() . '/js/slick.min.js' );
-// 	wp_enqueue_script( 'jquery.center.js', get_template_directory_uri() . '/js/jquery.center.js' );
-	wp_enqueue_script( 'matchheight.js', get_template_directory_uri() . '/js/jquery.matchHeight-min.js' );
- 	wp_enqueue_script( 'scripts.js', get_template_directory_uri() . '/js/scripts.js' );
+
+
+
+
+
+//jQuery Insert From Google
+if (!is_admin()) add_action("wp_enqueue_scripts", "my_jquery_enqueue", 11);
+function my_jquery_enqueue() {
+   wp_deregister_script('jquery');
+   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js", false, null);
+   wp_enqueue_script('jquery');
 }
 
-add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
+
+ function load_my_styles_scripts() {
+    
+     wp_enqueue_style( 'bootstrap.css', get_template_directory_uri() . '/css/bootstrap.min.css' );
+		 wp_enqueue_style( 'slick.css', get_template_directory_uri() . '/css/slick.css' );
+		 wp_enqueue_style( 'animate.css', get_template_directory_uri() . '/css/animate.css' );
+     wp_enqueue_style( 'styles', get_stylesheet_uri(), '', 2, 'all' ); 
+
+     wp_enqueue_script( 'waypoints.js', get_template_directory_uri() . '/js/waypoints/lib/jquery.waypoints.min.js' );
+     wp_enqueue_script( 'bootstrap.js', get_template_directory_uri() . '/js/bootstrap.min.js', array('jquery') );
+     wp_enqueue_script( 'slick.js', get_template_directory_uri() . '/js/slick.min.js', array('jquery') );
+     wp_enqueue_script( 'matchheight.js', get_template_directory_uri() . '/js/jquery.matchHeight-min.js', array('jquery') );
+     wp_enqueue_script( 'jquery-addon', get_template_directory_uri() . '/js/scripts.js', array('jquery'));
+ }
+ 
+ add_action( 'wp_enqueue_scripts', 'load_my_styles_scripts', 20 );
+
+
+
+
+
+
+
+
+
+
 
 /* Register Nav-Menus
 -------------------------------------------------------------- */

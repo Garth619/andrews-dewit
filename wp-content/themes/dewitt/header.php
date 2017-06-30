@@ -156,7 +156,16 @@
 								<?php if(is_page_template( 'page-home.php') || is_page_template( 'page-practice-areas.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
 									
 															
-									<h1><span><b><i>The personal </i></b></span> <span><b><i>injury law firm where</i></b></span> <span><b><i><strong>you come first</strong></i></b></span></h1>
+									<h1>
+										
+<!-- 										<span class="top_line"><span class="letter-span">T</span><span class="letter-span">h</span><span class="letter-span">e</span> personal</span> -->
+										
+										<span class="top_line">The personal</span>
+										
+										<span class="middle_line">injury law firm where</span> 
+										
+										
+										<span class="bottom_line"><strong>you come first</strong></span></h1>
 								
 								
 								<?php endif;?>
