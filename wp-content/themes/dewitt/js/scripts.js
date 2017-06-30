@@ -39,7 +39,16 @@
  jQuery(document).ready(function () {
 	 
 	 
-	 
+	$('.top_line').each(function (index) {
+    var characters = $(this).text().split("");
+    
+    $this = $(this);
+    $this.empty();
+    $.each(characters, function (i, el) {
+    $this.append("<span class='letter-span'>" + el + "</span");
+    });
+
+});
 	 
 	 
 	 $('#banner').addClass('reg-state visible');
