@@ -86,9 +86,12 @@ $('.bottom_line').each(function (index) {
 
  	  var waypoint = window.createWaypoint
  
-     var footerImage = $('#section1')
+     var section1 = $('#section1')
  
-     waypoint(footerImage, '70%')
+     waypoint(section1, '250px')
+     
+     
+     
  	 
 
 
