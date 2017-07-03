@@ -1,3 +1,5 @@
+  // waypoints
+  
   
   var createWaypoint = function(selector, offsetVal, customFunc, reverse) {
      reverse = typeof reverse !== 'undefined' ? reverse: false
@@ -76,19 +78,25 @@ $('.bottom_line').each(function (index) {
 });
 	 
 	 
-	 $('#banner').addClass('reg-state visible');
+	 $('#banner').addClass('visible');
 	 
 	 
 	 
 	 
 	 
-
+// waypoints
 
  	  var waypoint = window.createWaypoint
  
      var section1 = $('#section1')
  
      waypoint(section1, '250px')
+     
+     
+     
+     var section2 = $('#section2')
+ 
+     waypoint(section2, '250px')
      
      
      

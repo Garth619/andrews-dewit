@@ -4282,7 +4282,7 @@ ul#menu-practice-areas-directory {
 	height: 847px;
 	top: -51px;
 	left: 0px;
-	opacity: 0;
+
 
 }
 #section1-image-mask {
@@ -4290,7 +4290,7 @@ ul#menu-practice-areas-directory {
 	width: 0;
 	height: 847px;
 	width:100%;
-
+opacity: 0;
 	
 	
 }
@@ -4315,7 +4315,7 @@ ul#menu-practice-areas-directory {
 
 
 
-#section1.visible #section1-image {
+#section1.visible #section1-image-mask {
 	animation-name: section1img_fadein, section1img_move;
   animation-duration: 400ms, 2500ms;
   animation-fill-mode: both;
@@ -4366,10 +4366,7 @@ ul#menu-practice-areas-directory {
   animation-timing-function:cubic-bezier(0,.32,.1,.97);
   animation-delay: 0s;
   overflow: hidden;
-/*
-  max-width: 100%;
-  height: auto;
-*/
+
 }
 
 
@@ -4396,33 +4393,13 @@ ul#menu-practice-areas-directory {
 	opacity: 1;
 	
 }
-#section1-image figcaption {
-	color: #2970e2;
-	font-size: 12px;
-	font-weight: 700;
-	letter-spacing: 3px;
-	position: absolute;
-	-ms-transform: rotate(-90deg);
-	-webkit-transform: rotate(-90deg);
-	transform: rotate(-90deg);
-	z-index: 3;
-	text-transform: uppercase;
-	bottom: -100px;
-	left: 3%;
-	padding: 0 0 15px 0;
-	opacity:1;
-	transition: all 1s linear;
-}
-#section1-image figcaption:after {
-	content: '';
-	background: #765544;
-	width: 1px;
-	height: 1px;
-	position: absolute;
-	bottom: 0px;
-	left: 0px;
-	transition: width 0.3s 1.5s cubic-bezier(.60,.70,.90,0.3);
-}
+
+
+
+
+/*
+
+
 #section1-image figcaption.active {
 	bottom: -226px;
 	opacity:1;
@@ -4430,6 +4407,7 @@ ul#menu-practice-areas-directory {
 #section1-image figcaption.active:after {
 	width: 305px;
 }
+*/
 #section1-text {
 	position: absolute;
 	width: 68.1%;
@@ -4437,7 +4415,7 @@ ul#menu-practice-areas-directory {
 	top: 0px;
 	padding: 110px 8.6%;
 	opacity: 1;
-	transition: opacity 0.5s 0.5s cubic-bezier(.60,.70,.90,0.3);
+	
 }
 
 
@@ -4713,6 +4691,7 @@ ul#menu-practice-areas-directory {
 	overflow: hidden;
 	width: 97%;
 	float:right;
+	position: relative;
 	
 }
 #section2:before {
@@ -4727,6 +4706,97 @@ ul#menu-practice-areas-directory {
 	z-index: 2;
 */
 }
+
+.mycaption_wrapper {
+	position: absolute;
+	transform: rotate(-90deg);
+	z-index: 3;
+	left: -300px;
+	top:0px;
+	width:795px;
+	
+	.mycaption {
+		color: #2970e2;
+		font-size: 12px;
+		font-weight: 700;
+		letter-spacing: 3px;
+		text-transform: uppercase;
+		padding: 0 0 15px 0;
+		position: relative;
+		opacity: 0;
+		&:after {
+			content: '';
+			background: #765544;
+			width: 800px;
+			height: 1px;
+			display: block;
+			bottom: 0px;
+			right: 0px;
+			position: absolute;
+			opacity: 0;
+		}
+	}
+}
+
+
+
+
+
+ #section2.visible .mycaption_wrapper .mycaption {
+		animation-name: section2_caption_fadein, section2_caption_move;
+		animation-duration: 2000ms, 2000ms;
+		animation-fill-mode: both;
+		animation-timing-function:ease,cubic-bezier(0,.32,.1,.97);;
+ }
+
+@keyframes section2_caption_fadein {
+  from {
+    opacity: 0;
+   }
+
+  to {
+    opacity: 1;
+    
+  }
+}
+
+
+@keyframes section2_caption_move {
+  from {
+    transform:translateX(-300px);
+		
+	}
+
+  to {
+    transform:translateX(0px);
+		
+  }
+}
+
+
+
+
+#section2.visible .mycaption_wrapper .mycaption:after {
+		animation-name: section2_caption_width;
+		animation-duration: 2000ms;
+		animation-fill-mode: both;
+		animation-timing-function:cubic-bezier(0,.32,.1,.97);;
+ }
+ 
+ 
+ @keyframes section2_caption_width {
+  from {
+    width:0;
+    opacity: 0;
+   }
+
+  to {
+    width:800px;
+    opacity: 1;
+    
+  }
+}
+
 
 
 
@@ -5260,7 +5330,7 @@ ul#menu-practice-areas-directory {
 }
 	
 	#section1-image figcaption {
-		display: none;
+// 		display: none;
 	}
 	
 	.section2_bottom {
