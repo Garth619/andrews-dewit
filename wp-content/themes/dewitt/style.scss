@@ -1244,49 +1244,428 @@ span.letter-span {
 }
 
 
+
 #banner.visible h1 span.top_line {
-	
-	animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line, color-top-line;
-	animation-duration: 2000ms, 2000ms, 1000ms, 600ms;
+	animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line;
+	animation-duration: 2000ms, 2000ms, 1000ms;
   animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease, linear;
-  
-  
-  
+  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease;
 }
 
 
-// https://codepen.io/anon/pen/NgYWPJ
+#banner.visible h1 span.middle_line {
+	animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line;
+	animation-duration: 2000ms, 2000ms, 1000ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease;
+  animation-delay:500ms;
+ }
+
+
+
+#banner.visible h1 span.bottom_line {
+	animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line;
+	animation-duration: 2000ms, 2000ms, 1000ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease;
+  animation-delay:900ms;
+ }
+
 
 
 #banner.visible h1 span.top_line span.letter-span {
-	
-	
-	
-	animation-name: single-letters;
-	animation-duration: 2000ms;
+	animation-name: single-letters, color-top-line;
+	animation-duration: 300ms, 1050ms;
   animation-fill-mode: both;
   animation-timing-function:linear;
-  
  }
+ 
+ #banner.visible h1 span.middle_line span.letter-span {
+	animation-name: single-letters, color-top-line;
+	animation-duration: 300ms, 1050ms;
+  animation-fill-mode: both;
+  animation-timing-function:linear;
+ }
+ 
+ #banner.visible h1 span.bottom_line span.letter-span {
+	animation-name: single-letters, color-bottom-line;
+	animation-duration: 300ms, 1050ms;
+  animation-fill-mode: both;
+  animation-timing-function:linear;
+ }
+ 
+ 
+
+
 
 #banner.visible h1 span.top_line span.letter-span:nth-of-type(1) {
 	
-	animation-delay: 2000ms;
+	animation-delay: 200ms;
   
  }
 
 #banner.visible h1 span.top_line span.letter-span:nth-of-type(2) {
 	
-	animation-delay: 2000ms;
+	animation-delay: 225ms;
   
  }
  
 #banner.visible h1 span.top_line span.letter-span:nth-of-type(3) {
 	
+	animation-delay: 250ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(4) {
+	
+	animation-delay: 275ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(5) {
+	
+	animation-delay: 300ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(6) {
+	
+	animation-delay: 325ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(7) {
+	
+	animation-delay: 350ms;
+  
+
+}
+
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(8) {
+	
+	animation-delay: 375ms;
+  
+
+}
+
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(9) {
+	
+	animation-delay: 400ms;
+  
+
+}
+
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(10) {
+	
+	animation-delay: 425ms;
+  
+
+}
+
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(11) {
+	
+	animation-delay: 450ms;
+  
+
+}
+
+
+#banner.visible h1 span.top_line span.letter-span:nth-of-type(12) {
+	
+	animation-delay: 475ms;
+ 
+ }
+ 
+ 
+// Middle
+
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(1) {
+	
+	animation-delay: 500ms;
+  
+ }
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(2) {
+	
+	animation-delay: 525ms;
+  
+ }
+ 
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(3) {
+	
+	animation-delay: 550ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(4) {
+	
+	animation-delay: 575ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(5) {
+	
+	animation-delay: 600ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(6) {
+	
+	animation-delay: 625ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(7) {
+	
+	animation-delay: 650ms;
+  
+
+}
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(8) {
+	
+	animation-delay: 675ms;
+  
+
+}
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(9) {
+	
+	animation-delay: 700ms;
+  
+
+}
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(10) {
+	
+	animation-delay: 725ms;
+  
+
+}
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(11) {
+	
+	animation-delay: 750ms;
+  
+
+}
+
+
+#banner.visible h1 span.middle_line span.letter-span:nth-of-type(12) {
+	
+	animation-delay: 775ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(13) {
+	
+	animation-delay: 800ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(14) {
+	
+	animation-delay: 825ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(15) {
+	
+	animation-delay: 850ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(16) {
+	
+	animation-delay: 875ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(17) {
+	
+	animation-delay: 900ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(18) {
+	
+	animation-delay: 925ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(19) {
+	
+	animation-delay: 950ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(20) {
+	
+	animation-delay: 1000ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(21) {
+	
+	animation-delay: 1025ms;
+ 
+ }
+ 
+ #banner.visible h1 span.middle_line span.letter-span:nth-of-type(22) {
+	
+	animation-delay: 1050ms;
+ 
+ }
+ 
+ 
+ // Bottom
+ 
+ 
+ #banner.visible h1 span.bottom_line span.letter-span:nth-of-type(1) {
+	
+	animation-delay: 900ms;
+  
+ }
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(2) {
+	
+	animation-delay: 925ms;
+  
+ }
+ 
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(3) {
+	
+	animation-delay: 950ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(4) {
+	
+	animation-delay: 975ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(5) {
+	
+	animation-delay: 1000ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(6) {
+	
+	animation-delay: 1025ms;
+  
+
+}
+
+
+ 
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(7) {
+	
+	animation-delay: 1050ms;
+  
+
+}
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(8) {
+	
+	animation-delay: 1075ms;
+  
+
+}
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(9) {
+	
 	animation-delay: 2000ms;
   
 
+}
+
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(10) {
+	
+	animation-delay: 1025ms;
+  
+
+}
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(11) {
+	
+	animation-delay: 1050ms;
+  
+
+}
+
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(12) {
+	
+	animation-delay: 1075ms;
+  
+
+}
+
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(13) {
+	
+	animation-delay: 1080ms;
+  
+
+}
+
+
+#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(14) {
+	
+	animation-delay: 1085ms;
+  
+
+}
+
+
+
+ 
+
+@keyframes letter-steps-top-line {
+  from {
+   letter-spacing: 15px;
+ 	}
+
+  to {
+ 	  letter-spacing: 0;
+   }
 }
 
 
@@ -1304,57 +1683,39 @@ span.letter-span {
 
 
 
-#banner.visible h1 span.middle_line {
-	
-	animation-name: letter-steps-middle-line, title-move-middle-line, title_opactiy-middle-line, color-middle-line;
-	animation-duration: 2000ms, 2000ms, 2000ms, 1200ms;
-  animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease;
-	animation-delay: 100ms;
-  
-  
-}
-
-
-
-#banner.visible h1 span.bottom_line {
-	
-	animation-name: letter-steps-bottom-line, title-move-bottom-line, title_opactiy-bottom-line;
-	animation-duration: 2000ms, 2000ms, 2000ms;
-  animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(.17,.66,.34,.98), cubic-bezier(.17,.66,.34,.98), ease;
-	animation-delay: 300ms;
-  
-  
-}
-
-
-
-
-
-@keyframes letter-steps-top-line {
-  from {
-//     letter-spacing: 25px;
- 	}
-
-  to {
-// 	  letter-spacing: 0;
-   }
-}
-
-
-
 @keyframes title-move-top-line {
   from {
-//     transform: translateX(600px);
-transform: translateX(200px);
+		transform: translateX(300px);
  	}
 
   to {
-// 	  transform: translateX(0px);
-transform: translateX(0px);
+ 	  transform: translateX(0px);
    }
 }
+
+
+@keyframes title-move-middle-line {
+  from {
+		transform: translateX(300px);
+ 	}
+
+  to {
+ 	  transform: translateX(0px);
+   }
+}
+
+
+
+@keyframes title-move-bottom-line {
+  from {
+		transform: translateX(300px);
+ 	}
+
+  to {
+ 	  transform: translateX(0px);
+   }
+}
+
 
 
 @keyframes title_opactiy-top-line {
@@ -1371,7 +1732,7 @@ transform: translateX(0px);
 
 @keyframes color-top-line {
   from {
-    color:#b57d54;
+    color:#2970e2;
  	}
 
   to {
@@ -1380,93 +1741,20 @@ transform: translateX(0px);
 }
 
 
-
-
-
-
-
-@keyframes letter-steps-middle-line {
+@keyframes color-bottom-line {
   from {
-//     letter-spacing: 25px;
+    color:#2970e2;
  	}
 
   to {
-// 	  letter-spacing: 0;
+	  color:#b57d54;
    }
 }
 
 
 
-@keyframes title-move-middle-line {
-  from {
-//     transform: translateX(600px);
-transform: translateX(200px);
- 	}
+ 
 
-  to {
-// 	  transform: translateX(0px);
-transform: translateX(0px);
-   }
-}
-
-
-@keyframes title_opactiy-middle-line {
-  from {
-    opacity: 0;
- 	}
-
-  to {
-	  opacity: 1;
-   }
-}
-
-
-@keyframes color-middle-line {
-  from {
-    color:#b57d54;
- 	}
-
-  to {
-	  color:#fff;
-   }
-}
-
-
-
-@keyframes letter-steps-bottom-line {
-  from {
-//     letter-spacing: 25px;
- 	}
-
-  to {
-// 	  letter-spacing: 0;
-   }
-}
-
-
-
-@keyframes title-move-bottom-line {
-  from {
-//     transform: translateX(600px);
-transform: translateX(200px);
- 	}
-
-  to {
-// 	  transform: translateX(0px);
-transform: translateX(0px);
-   }
-}
-
-
-@keyframes title_opactiy-bottom-line {
-  from {
-    opacity: 0;
- 	}
-
-  to {
-	  opacity: 1;
-   }
-}
 
 
 
