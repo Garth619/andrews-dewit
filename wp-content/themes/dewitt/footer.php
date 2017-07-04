@@ -19,7 +19,12 @@
 			</div>
 		</div>
 		<div id="footer-form-content">
-	        <h2 id="footer-form-title" class="hidden-xs">Free Case Evaluation</h2>
+	       <div class="footer_form_wrapper">
+	       
+	       	<h2 id="footer-form-title">Free Case Evaluation</h2>
+	      
+	       </div><!--footer_form_wrapper -->
+	       
 			<div id="footer-form-text">
 				<h3><span><b><i>Get legal </i></b></span><span><b><i>help today</i></b></span></h3>
 				<h4>Our cases are taken on a contingency fee basis, which means you do not pay attorney fees unless we obtain compensation for you.</h4>

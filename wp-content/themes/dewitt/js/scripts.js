@@ -1,3 +1,7 @@
+
+  
+  
+  
   // waypoints
   
   
@@ -122,6 +126,11 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      var section6 = $('#section6')
  
      waypoint(section6, '350px')
+     
+     
+     var footer = $('#colophon')
+ 
+     waypoint(footer, '350px')
      
      
      
@@ -328,6 +337,10 @@ $('#section1-selling-points').on('init', function(event, slick){
 			scrollTop: targetOffset
 		}, 700);
 	});
+	
+	
+	
+	
 	
 	  
 /*

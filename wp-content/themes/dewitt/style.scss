@@ -2528,36 +2528,114 @@ opacity: 0;
 	overflow: hidden;
 	min-height: 952px;
 }
-#footer-form-title {
-	text-align: left;
-	line-height: 1;
-	margin: 0;
-	padding: 0 0 15px;
-	letter-spacing: 3px;
-	font-weight: 700;
-	font-family: 'Heebo', sans-serif;
-	color: #FFF;
-	font-size: 12px;
-	-ms-transform: rotate(-90deg);
-	-webkit-transform: rotate(-90deg);
-	transform: rotate(-90deg);
+
+
+
+.footer_form_wrapper {
 	position: absolute;
 	top: 127px;
-	left: -55px;
-	opacity:1;
-	text-transform: uppercase;
-	transition: all 1s linear;
-}
-#footer-form-title:after {
-	content: '';
-	background: #795846;
-	height: 1px;
-	width: 325px;
-	position: absolute;
-	bottom: 0px;
-	left: 0px;
+	width:470px;
+	left: -195px;
+	transform: rotate(-90deg);
+	#footer-form-title {
+		text-align: left;
+		line-height: 1;
+		left:0;
+		top:0;
+		margin: 0;
+		padding: 0 0 15px;
+		letter-spacing: 3px;
+		font-weight: 700;
+		font-family: 'Heebo', sans-serif;
+		color: #FFF;
+		font-size: 14px;
+		opacity:0;
+		text-transform: uppercase;
+		transition: all 1s linear;
+		position: relative;
+	}
+	#footer-form-title:after {
+		content: '';
+		display: block;
+		background: #795846;
+		height: 1px;
+		width: 0px;
+		position: absolute;
+		top:27px;
+		right:0;
+	}
 
 }
+
+
+
+
+#colophon.visible .footer_form_wrapper #footer-form-title {
+	animation-name: footer_fade, footer_move;
+  animation-duration: 700ms,2200ms;
+  animation-fill-mode: both;
+  animation-timing-function: ease, cubic-bezier(0,.32,.1,.97);
+}
+
+
+
+@keyframes footer_fade {
+  from {
+    opacity: 0;
+ 		
+ 		
+  }
+
+  to {
+    opacity: 1;
+    
+    
+  }
+}
+
+
+
+@keyframes footer_move {
+  from {
+    transform: translateX(-90px);
+ 		
+ 		
+  }
+
+  to {
+    transform: translateY(0px);
+    
+    
+  }
+  
+ }
+
+#colophon.visible .footer_form_wrapper #footer-form-title:after {
+	animation-name: footer_line_move;
+  animation-duration: 1500ms;
+  animation-fill-mode: both;
+  animation-timing-function: ease;
+}
+
+
+
+@keyframes footer_line_move {
+  from {
+    width:0;
+ 		
+ 		
+  }
+
+  to {
+    width:100%;
+    
+    
+  }
+  
+ }
+
+
+
 #colophon.active #footer-form-title {
 	top:227px;
 	opacity:1;
@@ -9451,6 +9529,7 @@ margin-left: -230px;
 .page-template-page-contact #contact-location .contact-location .button {
 	color: #b57d54;
 	font-weight: 800;
+	transition: all .2s ease-in-out;
 }
 .page-template-page-contact #contact-location .contact-location .button:hover {
 	background: #b57d54;
