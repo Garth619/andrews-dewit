@@ -99,6 +99,16 @@ $('.bottom_line').each(function (index) {
      waypoint(section2, '250px')
      
      
+     var section2_bottom = $('.section2_bottom')
+ 
+     waypoint(section2_bottom, '350px')
+     
+     
+     var section3 = $('#section3')
+ 
+     waypoint(section3, '350px')
+     
+     
      
  	 
 
@@ -187,15 +197,29 @@ $('#section1-selling-points').on('init', function(event, slick){
 		
 		
 		
+
 		
 		
-		$( "#section3 .case-result" ).hover(
-		  function() {
+		$( "#section3 .case-result" ).hover(function() {
+			
+			
 			$(this).addClass("active");
 		 }, function() {
 			$(this).removeClass("active");
 		  }
+		
+		
+		
 		);
+		
+
+		
+		
+		
+		
+		
+		
+		
 		$('#section3-slider').slick({
 		  dots: false,
 		  infinite: true,
@@ -304,18 +328,22 @@ $('#section1-selling-points').on('init', function(event, slick){
 */
 	
 	
+/*
 	$( "#section3 .case-result" ).hover(
 	function() {
 	$(this).toggleClass("open");
 	}
 	);
+*/
 
 	$( '#section1 .selling-point-hover-content' ).each(function() {
 	  $( this ).center();
 	});
+/*
 	$( '#section3 .case-result-on p' ).each(function() {
 	  $( this ).center();
 	});
+*/
 
 	$( '#case-results .case-result' ).matchHeight();
 	 
