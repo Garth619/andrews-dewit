@@ -2597,7 +2597,7 @@ opacity: 0;
 
 @keyframes footer_move {
   from {
-    transform: translateX(-90px);
+    transform: translateX(-130px);
  		
  		
   }
@@ -3680,6 +3680,46 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 	text-transform: none;
 	font-weight: 400;
 }
+
+#page-title:before {
+	
+	opacity: 0;
+}
+
+
+
+
+#main.visible #page-title:before {
+	animation-name: internal_line_fade;
+  animation-duration: 2800ms;
+  animation-fill-mode: both;
+  animation-timing-function:ease;
+}
+
+
+
+
+@keyframes internal_line_fade {
+  from {
+    opacity: 0;
+ 	
+ 		
+  }
+
+  to {
+    opacity: 1;
+   
+    
+  }
+}
+
+
+
+
+
+
+
+
 #full {
 	float: left;
 	width: 100%;
@@ -3954,10 +3994,12 @@ body img.gform_ajax_spinner {
 
 
 
+body.page-template-default {
 
+	ul#menu-practice-areas-directory {
+		padding-left:24%;
+	}
 
-ul#menu-practice-areas-directory {
-	padding-left:24%;
 }
 
 
@@ -4084,12 +4126,14 @@ ul#menu-practice-areas-directory {
 	
 	
 	
-	
+	body.page-template-default {
 	
 	
 ul#menu-practice-areas-directory {
 	padding-left:12%;
 	
+}
+
 }
 
 
@@ -4132,7 +4176,7 @@ ul#menu-practice-areas-directory {
 
 
 
-
+body.page-template-default {
 
 ul#menu-practice-areas-directory {
 	padding-left:5%;
@@ -4144,6 +4188,8 @@ ul#menu-practice-areas-directory {
 		clear:none !important;
 		
 	}
+}
+
 }
 
 
@@ -4179,7 +4225,7 @@ ul#menu-practice-areas-directory {
 
 @media (max-width: 767px) {
 	
-	
+	body.page-template-default {
 	
 	ul#menu-practice-areas-directory {
 		padding-left:20px;
@@ -4189,7 +4235,7 @@ ul#menu-practice-areas-directory {
 		}
 	}
 	
-	
+	}
 	
 	
 	
@@ -8312,9 +8358,68 @@ margin-left: -230px;
 .page-template-page-attorney-php #page-content #attorney-image {
 	position: relative;
 	margin: -247px 0 135px;
+	
 }
+
+
+
+
+
 .page-template-page-attorney-php #page-content #attorney-image img {
+
+
+
+opacity: 0;
+
+
+
 }
+
+
+
+.page-template-page-attorney-php #main.visible #attorney-image img {
+	animation-name: attorney_img_fade, attorney_img_move;
+  animation-duration: 2200ms, 2200ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0,.32,.1,.97);
+ 
+}
+
+
+
+
+@keyframes attorney_img_fade {
+  from {
+    opacity: 0;
+ 		
+ 		
+  }
+
+  to {
+    opacity: 1;
+    
+    
+  }
+}
+
+
+
+@keyframes attorney_img_move {
+  from {
+   transform:translateX(100px) translateY(100px);
+ 		
+ 		
+  }
+
+  to {
+    transform: translateX(0px) translateY(0px);
+    
+    
+  }
+}
+
+
+
 .page-template-page-attorney-php #page-content #attorney-image figcaption {
 	color: #b57d54;
 	font-size: 55.54px;
@@ -8323,7 +8428,53 @@ margin-left: -230px;
 	position: absolute;
 	bottom: 100px;
 	left: 250px;
+	opacity: 0;
 }
+
+
+
+.page-template-page-attorney-php #main.visible #attorney-image figcaption {
+	animation-name: attorney_caption_fade, attorney_caption_move;
+  animation-duration: 2200ms, 2800ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(.17,.66,.34,.98);
+  animation-delay: 700ms;
+}
+
+
+
+@keyframes attorney_caption_fade {
+  from {
+    opacity: 0;
+ 		
+ 		
+  }
+
+  to {
+    opacity: 1;
+    
+    
+  }
+}
+
+
+
+@keyframes attorney_caption_move {
+  from {
+   transform:translateX(130px) translateY(-100px);
+ 		
+ 		
+  }
+
+  to {
+    transform: translateX(0px) translateY(0px);
+    
+    
+  }
+}
+
+
+
 .page-template-page-attorney-php #page-content #attorney-info {
 	position: relative;
 	z-index: 3;
@@ -8999,7 +9150,7 @@ margin-left: -230px;
 }
 .page-template-page-about #page-title:before {
 	content: '';
-	width: 0px;
+	width: 220px;
 	height: 1px;
 	background: #d3b198;
 	position: absolute;

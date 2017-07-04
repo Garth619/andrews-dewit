@@ -133,7 +133,13 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      waypoint(footer, '350px')
      
      
+     var pagecontent = $('#main')
+ 
+     waypoint(pagecontent, '250px')
      
+     
+     
+    
  	 
 
 
