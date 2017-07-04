@@ -1088,7 +1088,7 @@ body:not(.page-template-page-home) {
 
 
 
-body.blog {
+body.blog, body.single {
 	#banner {
 		min-height: auto;
 		height:450px;
@@ -1236,7 +1236,7 @@ body.category {
 } /* Media Query */
 
 
-#banner h1 span {
+body.page-template-page-home #banner h1 span {
 	opacity: 0;
 }
 
@@ -1810,6 +1810,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 	text-align: center;
 	text-transform: none;
 	font-weight: 400;
+	position: relative;
 }
 .home #banner h1 {
 	font-size: 127.99px;
@@ -1828,7 +1829,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 #banner h1 > span {
 	display: block;
 	position: relative;
-	
+
 // 	opacity:1;
 
 }
@@ -2069,7 +2070,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
 
-#banner-button {
+body.page-template-page-home #banner-button {
 	animation-name: button_fade, button_move;
   animation-duration: 1000ms, 2200ms;
   animation-fill-mode: both;
