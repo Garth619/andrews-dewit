@@ -40,13 +40,13 @@
 			    	<?php if( get_field('toll_free_number', 'options') ): ?>
 						<div class="footer-number">
 							<label>Toll Free</label> 
-							<span><?php the_field('toll_free_number', 'options');?></span>
+							<span><a href="tel:<?php the_field('toll_free_number', 'options');?>"><?php the_field('toll_free_number', 'options');?></a></span>
 						</div>
 			   		<?php endif; ?>
 			   		<?php if( get_field('phone_number', 'options') ): ?>
 						<div class="footer-number">
 							<label>Phone</label> 
-							<span><?php the_field('phone_number', 'options');?></span>
+							<span><a href="tel:<?php the_field('phone_number', 'options');?>"><?php the_field('phone_number', 'options');?></a></span>
 						</div>
 			   		<?php endif; ?>
 			   		<?php if( get_field('fax_number', 'options') ): ?>

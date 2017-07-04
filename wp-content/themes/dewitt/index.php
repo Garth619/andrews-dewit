@@ -21,7 +21,7 @@
 				echo '<a href="'.$cat_link.'">'.$categories[0]->cat_name.'</a>'
 				?> on <span><?php the_time('l, F j, Y'); ?>.</span>
 				</div>
-				<div class="entry-content"><?php echo get_the_excerpt(); ?></div>
+				<div class="entry-content"><p><?php echo wp_trim_words( get_the_content(), 89, '...' );?></p></div>
 				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="button">Read Full Post</a>
 		
 		

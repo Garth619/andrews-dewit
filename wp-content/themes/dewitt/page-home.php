@@ -326,7 +326,9 @@ get_header(); ?>
 <section id="section6" class="content-block">
  	<?php if( get_field('section6_title') ): ?>
 		<div id="section6-title" class="content-title">	
-			<p><strong>02</strong> | 05</p>
+			<p>
+				<strong>02 | 05</strong>
+			</p>
 			<h2><?php the_field('section6_title');?></h2>
 		</div>
 	<?php endif; ?>

@@ -41,7 +41,7 @@
  jQuery(document).ready(function () {
 	 
 	 
-	$('.top_line').each(function (index) {
+	$('body.page-template-page-home .top_line').each(function (index) {
     var characters = $(this).text().split("");
     
     $this = $(this);
@@ -54,7 +54,7 @@
 
 
 
-$('.middle_line').each(function (index) {
+$('body.page-template-page-home .middle_line').each(function (index) {
     var characters = $(this).text().split("");
     
     $this = $(this);
@@ -66,7 +66,7 @@ $('.middle_line').each(function (index) {
 });
 
 
-$('.bottom_line').each(function (index) {
+$('body.page-template-page-home .bottom_line').each(function (index) {
     var characters = $(this).text().split("");
     
     $this = $(this);
@@ -90,7 +90,7 @@ $('.bottom_line').each(function (index) {
  
      var section1 = $('#section1')
  
-     waypoint(section1, '250px')
+     waypoint(section1, '350px')
      
      
      
@@ -107,6 +107,21 @@ $('.bottom_line').each(function (index) {
      var section3 = $('#section3')
  
      waypoint(section3, '350px')
+     
+     
+     var section4 = $('#section4')
+ 
+     waypoint(section4, '350px')
+     
+     
+     var section5 = $('#section5')
+ 
+     waypoint(section5, '350px')
+     
+     
+     var section6 = $('#section6')
+ 
+     waypoint(section6, '350px')
      
      
      
