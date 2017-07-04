@@ -3825,7 +3825,25 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 
 
 
+@media screen and (max-width: 1099px) {
+	
+	
+	#page-title:before {
+	
+	opacity: 1;
+}
 
+
+
+
+#main.visible #page-title:before {
+	animation-name: none;
+ 
+}
+	
+	
+	
+} /* Media Query */
 
 
 
