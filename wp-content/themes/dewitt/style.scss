@@ -3113,6 +3113,32 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	
 	
 	
+	
+#colophon.visible .footer_form_wrapper #footer-form-title {
+	animation-name:none;
+}
+
+
+
+
+
+#colophon.visible .footer_form_wrapper #footer-form-title:after {
+	animation-name:none;
+}
+
+
+
+	.footer_form_wrapper #footer-form-title {
+		opacity: 1;
+	}
+	
+	
+	.footer_form_wrapper #footer-form-title::after {
+		width:100%;
+	}
+	
+	
+	
 } /* Media Query */
 
 
@@ -3121,7 +3147,11 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 
 @media screen and (max-width: 760px) {
 	
+	.footer_form_wrapper #footer-form-title {
+		display: none;
+	}
 	
+
 	
 	#footer-form-text {
 		padding:68px 0 0;
@@ -7275,12 +7305,7 @@ padding-top:0px;
     height: 100%;
     overflow: hidden;
      width: 100%;
-/*
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    transition: width 0.7s 1.5s cubic-bezier(0.77, 0, 0.175, 1);
-*/
+
 }
 #section4.active #section4-image-mask {
     width: 100%;
@@ -7290,11 +7315,7 @@ padding-top:0px;
 	height:479px;
 	max-width:515px;
 	max-height:479px;
-/*
-	position:absolute;
-	top:0px;
-	left:0px;
-*/
+
 }
 
 
@@ -7517,6 +7538,97 @@ padding-top:0px;
 #main #section4-text p:last-child {
 	margin: 0;
 }
+
+
+
+
+#main #section4:before {
+	content: "";
+	background: rgba(0, 0, 0, 0) url(images/content_2_bg.jpg) no-repeat scroll center top / cover ;
+  display: block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  transform: scale(1);
+   }
+
+
+#main #section4.visible:before {
+	animation-name: none;
+}
+
+
+
+
+
+#main #section4.visible #section4-image:before {
+	animation-name: none;
+	
+}
+
+
+
+
+
+/*
+
+#main #section4-image-mask {
+    height: 100%;
+    overflow: hidden;
+     width: 100%;
+
+}
+#section4.active #section4-image-mask {
+    width: 100%;
+}
+#main #section4-image img {
+	width:515px;
+	height:479px;
+	max-width:515px;
+	max-height:479px;
+
+}
+*/
+
+
+
+#main #section4.visible #section4-image {
+	
+	animation-name: none;
+	
+}
+
+
+
+
+
+
+#main #section4 #section4-image img {
+	transform: scale(1);
+}
+
+
+
+#main #section4.visible #section4-image img {
+	animation-name: none;
+}
+
+
+
+
+#main #section4-image {
+	opacity: 1;
+}
+
+
+#main #section4-image::before {
+	width:185px;
+	opacity: 1;
+}
+
+
 }
 
 @media (max-width: 767px) {
@@ -8219,6 +8331,44 @@ margin-left: -230px;
 	#section6-slider .entry:hover .button {
 
 	}
+	
+	
+	
+	
+	#section6-title p strong {
+	
+	opacity: 1;
+}
+
+
+#section6.visible #section6-title p strong {
+	animation-name: none;
+ 
+}
+
+
+
+
+
+#section6-title p:after {
+	
+  opacity: 1;
+}
+
+
+#section6.visible #section6-title p:after {
+animation-name: none;
+}
+
+
+
+
+	
+	
+	
+	
+	
+	
 }
 
 @media(max-width:767px) {
