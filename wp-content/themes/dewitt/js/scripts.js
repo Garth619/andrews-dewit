@@ -138,6 +138,16 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      waypoint(pagecontent, '250px')
      
      
+     var aboutimage = $('.page-template-page-about #section2')
+ 
+     waypoint(aboutimage, '250px')
+     
+     
+     var aboutimage = $('.page-template-page-about #section3')
+ 
+     waypoint(aboutimage, '250px')
+     
+     
      
     
  	 
