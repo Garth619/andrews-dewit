@@ -64,10 +64,21 @@
 		                    </div>
 		                </div>
 		            </div>   
+		            
+		            
+		            
 		            <div id="mobile-nav" class="collapse navbar-collapse">
+			            
 			            <div id="mobile-close" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-nav">					</div>
 		                <?php wp_nav_menu(array('theme_location' => 'mobile', 'menu_class'  => 'nav',)); ?>
 		            </div>
+		      
+		      
+		      
+		      
+		      
+		      
+		      
 		       </div>
 		           
 		       <!-- mobile header ends  -->

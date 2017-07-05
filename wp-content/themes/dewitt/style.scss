@@ -893,6 +893,12 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 */
 /* ===== MOBILE NAV ===== */
 
+
+.menu-main-container {
+	overflow: hidden;
+}
+
+
 #mobile-nav-wrap {
 	position: fixed;
 	width:100%;
@@ -905,6 +911,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 45px 0 15px;
 	width: 100%;
 	position: absolute;
+// 	height:1000px;
 	border: 0px;
 	top: 0px;
 	border: 0px;
@@ -927,7 +934,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	border-top: 0px;
 }
 #mobile-nav .nav > li {
-	float: left;
+// 	float: left;
 	clear: both;
 	width: 100%;
 	border-radius: 0px;
@@ -942,7 +949,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 15px 0 15px;
 	text-align: center;
 	width: 100%;
-	float: left;
+// 	float: left;
 	font-weight: 700;
 	letter-spacing: 2px;
 	background: #15182b;
@@ -962,7 +969,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	height: 0;
 	overflow: hidden;
 	margin: 0;
-	float: left;
+// 	float: left;
 	width: 100%;
 }
 .nav-collapse .nav > li > a {
@@ -979,7 +986,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 #mobile-nav .sub-menu {
 	padding: 0;
 	width: 100%;
-	float: left;
+// 	float: left;
 	clear: both;
 	margin: 0;
 	max-height: 0px;
@@ -993,7 +1000,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	max-height: 900px;
 }
 #mobile-nav .sub-menu li {
-	float: left;
+// 	float: left;
 	clear: both;
 	width: 100%;
 	border-radius: 0px;
@@ -4720,6 +4727,11 @@ opacity: 0;
 	background:transparent;
 	z-index: 3;
 	transition: width 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+	
+	
+	display: none;
+	
+	
 }
 #section1-text.active #section1-text-mask {
 	width:0px;
@@ -4877,7 +4889,7 @@ opacity: 0;
 	font-size: 57.55px;
 	line-height: 60.25px;
 	width: 50%;
-	padding: 0 5%;
+	padding: 0 5% 0 0;
 }
 #section1-selling-points .selling-point-text {
 	width: 50%;
@@ -5800,7 +5812,8 @@ opacity: 0;
 		margin-left: auto;
     margin-right: auto;
     padding-right:0;
-    width:88%;
+//     width:70%;
+width:88%;
     max-width:100%;
 //     opacity: 0;
 
@@ -5884,6 +5897,13 @@ opacity: 0;
 	}
 	
 	
+.section2_bottom.visible {
+// 	background:#15182b;
+	animation-name: none;
+  	
+}
+	
+	
 
 	
 	
@@ -5895,7 +5915,7 @@ opacity: 0;
 	
 	
 	#section2 {
-	
+		padding-bottom: 30px;
 		padding-top:80px;
 	}
 	
@@ -6023,6 +6043,11 @@ opacity: 0;
 .section2_bottom.visible .press_wrapper .press_top_wrapper .mywhite_line {
 	animation-name: none;
 }
+
+
+
+
+
 
 
 
@@ -9960,7 +9985,7 @@ body.page-template-page-about {
 
 
 .page-template-page-about #section2 .content-text h2 {
-	margin-left: -70px;
+	margin-left: -88px;
 }
 
 
@@ -10096,7 +10121,7 @@ body.page-template-page-about {
 	bottom: 0px;
 }
 .page-template-page-about #section3 .content-text:first-child h2 span {
-	margin: 0 0 0 -85px;
+	margin: 0 0 0 -8px;
 }
 .page-template-page-about #section3 .content-text:first-child:after {
 	content: '';
@@ -10167,7 +10192,7 @@ body.page-template-page-about {
 .page-template-page-about #section2 .content-attorneys {
     float: left;
     width: 30%;
-    padding: 260px 3% 120px 5%;
+    padding: 275px 3% 120px 5%;
     position: relative;
 }
 .page-template-page-about #section2 .content-attorneys h3 {
@@ -10184,6 +10209,7 @@ body.page-template-page-about {
     float: right;
     width: 70%;
     padding: 90px 10% 90px 0;
+    
 }
 .page-template-page-about #section2 .content-text h2 {
 }
@@ -10199,6 +10225,7 @@ body.page-template-page-about {
 }
 .page-template-page-about #section3 .content-text:first-child h2 {
     font-size: 40px;
+    margin:0 0 0 -55px;
 }
 .page-template-page-about #section3 .content-text:first-child h2:before {
 }
@@ -10207,6 +10234,7 @@ body.page-template-page-about {
 .page-template-page-about #section3 .content-text:first-child:after {
 }
 .page-template-page-about #section3 .content-text:first-child p {
+	margin-top:50px;
 }
 .page-template-page-about #section3 .content-text:last-child {
 }
