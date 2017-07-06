@@ -287,7 +287,23 @@ get_header(); ?>
 </section>
  
 <section id="section5" class="content-block">
+	
+	
+	<div class="new_pa_wrapper">
+			
+			<span class="new_pa_title">Practice Areas</span><!-- new_pa_title -->
+			
+		</div><!-- new_pa_wrapper -->
+	
+	
+	
+	
 	<div class="container">
+		
+		
+		
+		
+		
  		<?php if( get_field('section5_content') ): ?>
 			<div id="section5-title" class="content-title hidden-sm hidden-xs">
 				<h2><?php the_field('section5_content');?></h2>
