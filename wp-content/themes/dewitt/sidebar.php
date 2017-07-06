@@ -15,7 +15,14 @@
 		
 	</div><!-- inner_form_wrapper -->
     <div id="sidebar" class="main_sidebar">
-<!--     	<?php dynamic_sidebar( 'main' ); ?> -->
-<?php wp_nav_menu(array('theme_location' => 'practiceareas', 'menu_class'  => 'prac',)); ?>
+		
+		<div class="pa_title_wrapper">
+			
+			<span class="practice_area_title">Practice Areas</span><!-- practice_area_title -->
+		
+		</div><!-- pa_title_wrapper -->
+		
+		<?php wp_nav_menu(array('theme_location' => 'practiceareas', 'menu_class'  => 'prac',)); ?>
+    
     </div>
 </div>

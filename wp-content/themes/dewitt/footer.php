@@ -80,7 +80,7 @@
 	    </div>
 	    <div id="footer-up" class="animated infiniteUp fadeInUp">
 		    <div id="footer-up-text">
-		    	Back to Top
+		    	<a href="#page">Back to Top</a>
 	    	</div>
 	    </div>
 	    <div id="footer-social" class="visible-sm visible-xs">

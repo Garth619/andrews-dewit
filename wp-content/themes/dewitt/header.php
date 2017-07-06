@@ -34,8 +34,13 @@
 			<!-- mobile header -->
             
 		        <div id="mobile-nav-wrap" class="visible-xs visible-sm">
+		            
+		            
 		            <div id="header-mobile" class="navbar navbar-inverse visible-xs visible-sm">
 		                <div class="container">
+		                    
+		                    
+		                    
 		                    <div id="mobile-logo">
 		                        <a href="<?= get_home_url(); ?>">
 		                            <img class="img-responsive center-block visible-xs" src="<?php echo get_stylesheet_directory_uri(); ?>/images/mobile_logo.png" />
@@ -235,7 +240,7 @@
 						
 						<div id="banner-button">
 							<div id="banner-button-mask">
-								<a class="button">Start your free case evaluation</a>
+								<a href="#colophon" class="button">Start your free case evaluation</a>
 							</div>
 						</div>
 					</div>
