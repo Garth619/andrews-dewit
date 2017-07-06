@@ -36,7 +36,18 @@ get_header(); ?>
         <div id="secondary">
         	<?php if( get_field('photo') ): ?>
         		<figure id="attorney-image">
-					<img src="<?php the_field('photo');?>" />
+					
+					
+					
+					<?php $attorneyimage = wp_get_attachment_image_src(get_field('photo'), 'attorneyimage'); ?>
+            
+					
+					
+					
+					<img src="<?php echo $attorneyimage[0]; ?>" />
+					
+					
+					
 					<figcaption><?php the_field('caption');?></figcaption>
 				</figure>
 			<?php endif; ?>

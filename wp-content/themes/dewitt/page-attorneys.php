@@ -21,9 +21,16 @@ get_header(); ?>
 				<?php } ?>
        	
 				<div class="attorney">
-					<a href="#" class="attorney-image" style="background:url(<?php the_sub_field('image'); ?>)"></a>
-					<div class="attorney-name"><a href="#"><?php the_sub_field('name'); ?></a></div>
-					<a href="<?php the_sub_field('link_url'); ?>" class="button">View Profile</a>
+					
+					<?php $attorneyimagetwo = wp_get_attachment_image_src(get_sub_field('image'), 'attorneyimage'); ?>
+					
+					
+					<a href="<?php the_sub_field('link _url');?>" class="attorney-image" style="background:url(<?php echo $attorneyimagetwo[0]; ?>)"></a>
+					
+					
+					
+					<div class="attorney-name"><a href="<?php the_sub_field('link _url');?>"><?php the_sub_field('name'); ?></a></div>
+					<a href="<?php the_sub_field('link _url');?>" class="button">View Profile</a>
 				</div>
 				
 				<?php if($c==3) { ?>

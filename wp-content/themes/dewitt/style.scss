@@ -526,19 +526,19 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	max-width: 282px;
 	height: 115px;
 	line-height: 115px;
-	background: #FFF;
+	background: #2970e2 ;
 	 max-width: 280px;
     width: 100%;
 }
 #header-phone .phone-number {
-	color: #2970e2;
+	color: #fff;
 	font-size: 33.88px;
 	margin: 0;
 	line-height: 115px;
 	font-family: "Vidaloka", serif;
 }
 #header-phone .phone-number a {
-	color: #2970e2;
+	color: #fff;
 	font-size: 33px;
 	margin: 0;
 	line-height: 115px;
@@ -1071,6 +1071,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 
 body:not(.page-template-page-home) {
 	#banner {
+		display: none;
 		min-height: 450px;
 		#banner-text {
 // 			padding: 88px 0 79px;
@@ -9451,6 +9452,8 @@ opacity: 0;
 	width:22%;
 	float:left;
 	margin-right:4%;
+	height:90px;
+	border-bottom: 1px solid #dcdddf;
 	&:nth-of-type(4n + 4) {
 		margin-right:0;
 	}
@@ -9460,13 +9463,20 @@ opacity: 0;
 	text-align: left;
 	font-size: 12px;
 	line-height: 1.5;
-	padding: 24px 0;
+// 	padding: 24px 0;
 	text-transform: uppercase;
-	border-bottom: 1px solid #dcdddf;
+	
 	display: block;
+	
 	width: 100%;
 	font-weight: 700;
 	letter-spacing: 1.2px;
+	
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	
+	
 }
 #page-content #practice-areas li a:hover {
 	color: #3b78ff;
