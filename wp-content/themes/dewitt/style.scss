@@ -5230,7 +5230,9 @@ opacity: 0;
   }
 }
 
-
+.video_image_wrapper {
+	cursor: pointer;
+}
 
 
 .section2_top {
@@ -5256,6 +5258,59 @@ opacity: 0;
 
 
 
+
+
+
+
+					svg#about_play_button {
+						width:80px;
+						height:81px;
+						position: absolute;
+						top:0;
+						left:0;
+		
+						circle.play1_circle {
+							fill:#2970e2;
+							transition: all .2s ease-in-out;
+						}
+						circle.play1_stroke {
+							fill:none;
+							stroke:#2970e2;
+							transition: all .2s ease-in-out;
+						}
+						polygon.play1_tri {
+							fill:#fff;
+						}
+					}
+
+
+
+/*
+
+body.page-template-page-about .video_image_wrapper:hover {
+
+svg#about_play_button {
+	circle.play1_stroke {
+		fill:none;
+		stroke:#b57d54;
+	}
+	circle.play1_circle {
+		fill:#b57d54;
+		transition: all .2s ease-in-out;
+	}
+}
+
+}
+*/
+
+
+
+
+
+
+
+
+
 					svg#play_button {
 						width:80px;
 						height:81px;
@@ -5265,12 +5320,12 @@ opacity: 0;
 						
 						circle.play1_circle {
 							fill:#2970e2;
-							transition: all .3s ease-in-out;
+							transition: all .2s ease-in-out;
 						}
 						circle.play1_stroke {
 							fill:none;
 							stroke:#fff;
-							transition: all .3s ease-in-out;
+							transition: all .2s ease-in-out;
 						}
 						polygon.play1_tri {
 							fill:#fff;
@@ -5280,7 +5335,7 @@ opacity: 0;
 
 .video_image_wrapper:hover {
 
-svg#play_button {
+svg#play_button, svg#about_play_button {
 	circle.play1_stroke {
 		fill:none;
 		stroke:#b57d54;
@@ -5315,7 +5370,7 @@ svg#play_button {
 		}
 		.video_image_wrapper {
 			position: relative;
-			
+			cursor: pointer;
 			img.video_thumb {
 				margin-left:40px;
 			}
@@ -7359,11 +7414,19 @@ transition: all .3s ease-in-out;
 	font-size: 0px;
 	padding: 0;
 	z-index: 2;
+	&:hover {
+		background: url(images/news_lt_arrow_gold.png) 0px 0px no-repeat;
+	}
 }
 #section3 .slick-next {
+	background: url(images/news_rt_arrow_blue.png) 0px 0px no-repeat;
+	&:hover {
+		background: url(images/news_rt_arrow_gold.png) 0px 0px no-repeat;
+	}
 	width: 48px;
 	height: 48px;
-	background: url(images/news_rt_arrow_gold.png) 0px 0px no-repeat;
+	
+
 	top: 44px;
 	right: 42.5%;
 	margin: 0;

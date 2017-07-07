@@ -89,13 +89,7 @@ get_header(); ?>
 						 	
 						 	</svg>
 						 	
-						 	
-					 	
-<!--
-					 		<img class="mynewplay" src="<?php bloginfo('template_directory');?>/images/new-play.png"/>
-					 	
-					 		<img class="mynewplay_hover" src="<?php bloginfo('template_directory');?>/images/play_button_hover.png"/>
--->
+
 					 	
 					 	</div><!-- new_play_button_inner -->
 					 	

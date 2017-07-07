@@ -308,32 +308,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 
 
 
-// About Play Button
 
-
-
-
-
-	 
-	 $('.video_image_wrapper').mouseenter(function(){
-	 	
-	 	$('img.mynewplay').fadeOut(100);
-	 	
-	 	$('img.mynewplay_hover').fadeIn(300);
-	 	
-	 	
-	 });
-	 
-	 
-
-	 $('.video_image_wrapper').mouseleave(function(){
-	 	
-	 	$('img.mynewplay').fadeIn(100);
-	 	
-	 	$('img.mynewplay_hover').fadeOut(300);
-	 	
-	 	
-	 });
 
 
 	 
