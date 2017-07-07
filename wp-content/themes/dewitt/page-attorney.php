@@ -28,7 +28,11 @@ get_header(); ?>
           </h1>
           <div id="attorney-bio">
 	          <div id="attorney-image-mobile">
-					<img src="<?php the_field('photo');?>" />
+		          
+		          
+		          <?php $attorneyimage = wp_get_attachment_image_src(get_field('photo'), 'attorneyimage'); ?>
+		          
+					<img src="<?php echo $attorneyimage[0]; ?>" />
 				</div>
 				<?php the_field('bio');?>
 		  </div>
@@ -39,7 +43,7 @@ get_header(); ?>
 					
 					
 					
-					<?php $attorneyimage = wp_get_attachment_image_src(get_field('photo'), 'attorneyimage'); ?>
+					
             
 					
 					

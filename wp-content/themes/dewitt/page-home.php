@@ -71,7 +71,33 @@ get_header(); ?>
 				 	
 				 	<div class="new_play_button">
 					 	
-					 	<img src="<?php bloginfo('template_directory');?>/images/new-play.png"/>
+					 	<div class="new_play_button_inner">
+						 	
+						 	
+						 	<svg id="play_button" viewBox="0 0 78 78">
+						 	
+						 		<defs>
+						 		
+						 			
+						 		
+						 		</defs>
+						 	
+						 		<circle class="play1_circle" cx="38.5" cy="38.5" r="32.5"/>
+						 		<circle class="play1_stroke" cx="39" cy="39" r="38.5"/>
+						 		
+						 		<polygon class="play1_tri" points="36 31 36 46 46 38 36 31"/>
+						 	
+						 	</svg>
+						 	
+						 	
+					 	
+<!--
+					 		<img class="mynewplay" src="<?php bloginfo('template_directory');?>/images/new-play.png"/>
+					 	
+					 		<img class="mynewplay_hover" src="<?php bloginfo('template_directory');?>/images/play_button_hover.png"/>
+-->
+					 	
+					 	</div><!-- new_play_button_inner -->
 					 	
 				 	</div><!-- new_play_button -->
 				 	

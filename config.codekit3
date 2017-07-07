@@ -10347,6 +10347,100 @@
 		"oAP": "\/wp-content\/plugins\/wordpress-importer\/wordpress-importer.php",
 		"oF": 0
 		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/js\/script-147.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/js\/script-147-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/js\/script-147.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/asset\/dist\/js\/script-147.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/cli\/wpmdbpro-media-files-cli-bar.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/cli\/wpmdbpro-media-files-cli-bar.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/cli\/wpmdbpro-media-files-cli.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/cli\/wpmdbpro-media-files-cli.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-base.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-base.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-local.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-local.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-remote.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files-remote.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/class\/wpmdbpro-media-files.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/languages\/wp-migrate-db-pro-media-files-en.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/languages\/wp-migrate-db-pro-media-files-en.pot",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/template\/migrate.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/template\/migrate.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/template\/select-subsites.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/template\/select-subsites.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/version.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/version.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/wp-migrate-db-pro-media-files.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro-media-files\/wp-migrate-db-pro-media-files.php",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/wp-migrate-db-pro\/asset\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -11687,6 +11781,12 @@
 		"oAP": "\/wp-content\/themes\/dewitt\/page-attorney.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/dewitt\/page-attorneys copy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/dewitt\/page-attorneys copy.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/dewitt\/page-attorneys.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -12007,6 +12107,66 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053-150x150.jpg": {
+		"ft": 16384,
+		"iS": 5036,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053-200x300.jpg": {
+		"ft": 16384,
+		"iS": 10605,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-200x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053-498x748.jpg": {
+		"ft": 16384,
+		"iS": 53581,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-498x748.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053-681x1024.jpg": {
+		"ft": 16384,
+		"iS": 69632,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-681x1024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053-768x1154.jpg": {
+		"ft": 16384,
+		"iS": 126207,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-768x1154.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/Alex0053.jpg": {
+		"ft": 16384,
+		"iS": 4648316,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/uploads\/2017\/05\/attorney-150x150.jpg": {
 		"ft": 16384,
 		"iS": 6386,
@@ -12034,7 +12194,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/05\/attorney-profile-198x300.jpg": {
@@ -12042,6 +12202,16 @@
 		"iS": 12703,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/attorney-profile-493x748.jpg": {
+		"ft": 16384,
+		"iS": 50436,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-493x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -12152,7 +12322,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-214x300.jpg": {
@@ -12162,7 +12332,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-534x748.jpg": {
@@ -12172,7 +12342,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-731x1024.jpg": {
@@ -12182,7 +12352,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-768x1075.jpg": {
@@ -12192,7 +12362,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest.jpg": {
@@ -12212,7 +12382,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-214x300.jpg": {
@@ -12222,7 +12392,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-534x748.jpg": {
@@ -12232,7 +12402,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-731x1024.jpg": {
@@ -12242,7 +12412,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-768x1075.jpg": {
@@ -12252,7 +12422,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark.jpg": {
@@ -12272,7 +12442,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-214x300.jpg": {
@@ -12282,7 +12452,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-534x748.jpg": {
@@ -12292,7 +12462,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-731x1024.jpg": {
@@ -12302,7 +12472,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-768x1075.jpg": {
@@ -12312,7 +12482,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William.jpg": {
@@ -12332,7 +12502,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-214x300.jpg": {
@@ -12342,7 +12512,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-534x748.jpg": {
@@ -12352,7 +12522,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-731x1024.jpg": {
@@ -12362,7 +12532,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-768x1075.jpg": {
@@ -12372,7 +12542,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick.jpg": {
@@ -12392,7 +12562,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-214x300.jpg": {
@@ -12402,7 +12572,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-534x748.jpg": {
@@ -12412,7 +12582,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-731x1024.jpg": {
@@ -12422,7 +12592,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-768x1075.jpg": {
@@ -12432,7 +12602,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam.jpg": {
@@ -12452,7 +12622,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-214x300.jpg": {
@@ -12462,7 +12632,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-534x748.jpg": {
@@ -12472,7 +12642,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-731x1024.jpg": {
@@ -12482,7 +12652,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-768x1075.jpg": {
@@ -12492,7 +12662,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn.jpg": {

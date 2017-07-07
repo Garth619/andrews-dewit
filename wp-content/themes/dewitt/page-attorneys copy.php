@@ -25,14 +25,7 @@ get_header(); ?>
 					<?php $attorneyimagetwo = wp_get_attachment_image_src(get_sub_field('image'), 'attorneyimage'); ?>
 					
 					
-					<a href="<?php the_sub_field('link _url');?>" class="attorney-image">
-						
-						
-						<?php $attorneyimagetwo = wp_get_attachment_image_src(get_sub_field('image'), 'attorneyimage'); ?>
-						
-						<img src="<?php echo $attorneyimagetwo[0]; ?>"/>
-						
-					</a>
+					<a href="<?php the_sub_field('link _url');?>" class="attorney-image" style="background:url(<?php echo $attorneyimagetwo[0]; ?>)"></a>
 					
 					
 					

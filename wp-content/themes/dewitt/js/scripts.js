@@ -313,25 +313,29 @@ $('#section1-selling-points').on('init', function(event, slick){
 
 
 
+
 	 
-	 $('.button-video').mouseenter(function(){
+	 $('.video_image_wrapper').mouseenter(function(){
 	 	
-	 	$('img.myplay_reg').fadeOut(100);
+	 	$('img.mynewplay').fadeOut(100);
 	 	
-	 	$('img.myplay_hover').fadeIn(100);
+	 	$('img.mynewplay_hover').fadeIn(300);
 	 	
 	 	
 	 });
 	 
 	 
-	 $('.button-video').mouseleave(function(){
+
+	 $('.video_image_wrapper').mouseleave(function(){
 	 	
-	 	$('img.myplay_reg').fadeIn(100);
+	 	$('img.mynewplay').fadeIn(100);
 	 	
-	 	$('img.myplay_hover').fadeOut(300);
+	 	$('img.mynewplay_hover').fadeOut(300);
 	 	
 	 	
 	 });
+
+
 	 
 	 
 	 
