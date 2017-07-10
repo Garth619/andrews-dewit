@@ -26,7 +26,7 @@
 	       </div><!--footer_form_wrapper -->
 	       
 			<div id="footer-form-text">
-				<h3><span><b><i>Get legal </i></b></span><span><b><i>help today</i></b></span></h3>
+				<?php the_field( 'footer_verbiage_title','option' ); ?>
 				<h4>Our cases are taken on a contingency fee basis, which means you do not pay attorney fees unless we obtain compensation for you.</h4>
 				<p>When you are dealing with your own health issues or the loss of a family member, you may not feel ready to handle the legal complexities of pursuing an injury or wrongful death claim. Nor should you ever try to do this on your own. A skilled, professional, and compassionate personal injury attorney can relieve you of the burden and stress of handling a legal action, while offering you the best likelihood of seeing a significantly larger damage award than you would typically get by attempting to negotiate your claim directly with the insurance company.</p>
 			</div>
@@ -203,6 +203,6 @@
 </div>
 
 <?php wp_footer(); ?>
-
+<?php the_field( 'footer_tags','option'); ?>
 	</body>
 </html>

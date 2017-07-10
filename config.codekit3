@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "6200B134-E7BB-47AC-8B8A-54BBC739D96D"
+		"uuidString": "977C7594-0173-4503-9DFD-8F121389ABDC"
 		}
 	],
 "creatorBuild": "25849",
@@ -119,7 +119,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/about-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/about-rtl.min.css": {
 		"aP": 1,
@@ -129,7 +129,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/about-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/about.css": {
 		"aP": 1,
@@ -139,7 +139,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/about-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/about.min.css": {
 		"aP": 1,
@@ -149,7 +149,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/about.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/admin-menu-rtl.css": {
 		"aP": 1,
@@ -159,7 +159,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/admin-menu-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/admin-menu-rtl.min.css": {
 		"aP": 1,
@@ -169,7 +169,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/admin-menu-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/admin-menu.css": {
 		"aP": 1,
@@ -179,7 +179,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/admin-menu-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/admin-menu.min.css": {
 		"aP": 1,
@@ -189,7 +189,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/admin-menu.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/color-picker-rtl.css": {
 		"aP": 1,
@@ -199,7 +199,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/color-picker-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/color-picker-rtl.min.css": {
 		"aP": 1,
@@ -209,7 +209,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/color-picker-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/color-picker.css": {
 		"aP": 1,
@@ -219,7 +219,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/color-picker-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/color-picker.min.css": {
 		"aP": 1,
@@ -229,7 +229,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/color-picker.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/_admin.scss": {
 		"aP": 0,
@@ -278,7 +278,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/blue\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/blue\/colors-rtl.min.css": {
 		"aP": 1,
@@ -288,7 +288,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/blue\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/blue\/colors.css": {
 		"aP": 1,
@@ -298,7 +298,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/blue\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/blue\/colors.min.css": {
 		"aP": 1,
@@ -308,7 +308,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/blue\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/blue\/colors.scss": {
 		"aP": 0,
@@ -331,7 +331,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/coffee\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/coffee\/colors-rtl.min.css": {
 		"aP": 1,
@@ -341,7 +341,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/coffee\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/coffee\/colors.css": {
 		"aP": 1,
@@ -351,7 +351,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/coffee\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/coffee\/colors.min.css": {
 		"aP": 1,
@@ -361,7 +361,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/coffee\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/coffee\/colors.scss": {
 		"aP": 0,
@@ -384,7 +384,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ectoplasm\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ectoplasm\/colors-rtl.min.css": {
 		"aP": 1,
@@ -394,7 +394,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ectoplasm\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ectoplasm\/colors.css": {
 		"aP": 1,
@@ -404,7 +404,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ectoplasm\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ectoplasm\/colors.min.css": {
 		"aP": 1,
@@ -414,7 +414,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ectoplasm\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ectoplasm\/colors.scss": {
 		"aP": 0,
@@ -437,7 +437,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/light\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/light\/colors-rtl.min.css": {
 		"aP": 1,
@@ -447,7 +447,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/light\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/light\/colors.css": {
 		"aP": 1,
@@ -457,7 +457,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/light\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/light\/colors.min.css": {
 		"aP": 1,
@@ -467,7 +467,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/light\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/light\/colors.scss": {
 		"aP": 0,
@@ -490,7 +490,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/midnight\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/midnight\/colors-rtl.min.css": {
 		"aP": 1,
@@ -500,7 +500,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/midnight\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/midnight\/colors.css": {
 		"aP": 1,
@@ -510,7 +510,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/midnight\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/midnight\/colors.min.css": {
 		"aP": 1,
@@ -520,7 +520,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/midnight\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/midnight\/colors.scss": {
 		"aP": 0,
@@ -543,7 +543,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ocean\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ocean\/colors-rtl.min.css": {
 		"aP": 1,
@@ -553,7 +553,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ocean\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ocean\/colors.css": {
 		"aP": 1,
@@ -563,7 +563,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ocean\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ocean\/colors.min.css": {
 		"aP": 1,
@@ -573,7 +573,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/ocean\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ocean\/colors.scss": {
 		"aP": 0,
@@ -596,7 +596,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/sunrise\/colors-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/sunrise\/colors-rtl.min.css": {
 		"aP": 1,
@@ -606,7 +606,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/sunrise\/colors-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/sunrise\/colors.css": {
 		"aP": 1,
@@ -616,7 +616,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/sunrise\/colors-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/sunrise\/colors.min.css": {
 		"aP": 1,
@@ -626,7 +626,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/colors\/sunrise\/colors.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/sunrise\/colors.scss": {
 		"aP": 0,
@@ -649,7 +649,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/common-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/common-rtl.min.css": {
 		"aP": 1,
@@ -659,7 +659,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/common-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/common.css": {
 		"aP": 1,
@@ -669,7 +669,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/common-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/common.min.css": {
 		"aP": 1,
@@ -679,7 +679,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/common.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-controls-rtl.css": {
 		"aP": 1,
@@ -689,7 +689,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-controls-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-controls-rtl.min.css": {
 		"aP": 1,
@@ -699,7 +699,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-controls-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-controls.css": {
 		"aP": 1,
@@ -709,7 +709,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-controls-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-controls.min.css": {
 		"aP": 1,
@@ -719,7 +719,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-controls.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-nav-menus-rtl.css": {
 		"aP": 1,
@@ -729,7 +729,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-nav-menus-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-nav-menus-rtl.min.css": {
 		"aP": 1,
@@ -739,7 +739,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-nav-menus-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-nav-menus.css": {
 		"aP": 1,
@@ -749,7 +749,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-nav-menus-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-nav-menus.min.css": {
 		"aP": 1,
@@ -759,7 +759,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-nav-menus.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-widgets-rtl.css": {
 		"aP": 1,
@@ -769,7 +769,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-widgets-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-widgets-rtl.min.css": {
 		"aP": 1,
@@ -779,7 +779,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-widgets-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-widgets.css": {
 		"aP": 1,
@@ -789,7 +789,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-widgets-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/customize-widgets.min.css": {
 		"aP": 1,
@@ -799,7 +799,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/customize-widgets.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/dashboard-rtl.css": {
 		"aP": 1,
@@ -809,7 +809,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/dashboard-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/dashboard-rtl.min.css": {
 		"aP": 1,
@@ -819,7 +819,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/dashboard-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/dashboard.css": {
 		"aP": 1,
@@ -829,7 +829,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/dashboard-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/dashboard.min.css": {
 		"aP": 1,
@@ -839,7 +839,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/dashboard.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/deprecated-media-rtl.css": {
 		"aP": 1,
@@ -849,7 +849,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/deprecated-media-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/deprecated-media-rtl.min.css": {
 		"aP": 1,
@@ -859,7 +859,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/deprecated-media-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/deprecated-media.css": {
 		"aP": 1,
@@ -869,7 +869,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/deprecated-media-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/deprecated-media.min.css": {
 		"aP": 1,
@@ -879,7 +879,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/deprecated-media.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/edit-rtl.css": {
 		"aP": 1,
@@ -889,7 +889,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/edit-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/edit-rtl.min.css": {
 		"aP": 1,
@@ -899,7 +899,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/edit-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/edit.css": {
 		"aP": 1,
@@ -909,7 +909,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/edit-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/edit.min.css": {
 		"aP": 1,
@@ -919,7 +919,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/edit.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/farbtastic-rtl.css": {
 		"aP": 1,
@@ -929,7 +929,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/farbtastic-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/farbtastic-rtl.min.css": {
 		"aP": 1,
@@ -939,7 +939,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/farbtastic-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/farbtastic.css": {
 		"aP": 1,
@@ -949,7 +949,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/farbtastic-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/farbtastic.min.css": {
 		"aP": 1,
@@ -959,7 +959,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/farbtastic.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/forms-rtl.css": {
 		"aP": 1,
@@ -969,7 +969,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/forms-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/forms-rtl.min.css": {
 		"aP": 1,
@@ -979,7 +979,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/forms-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/forms.css": {
 		"aP": 1,
@@ -989,7 +989,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/forms-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/forms.min.css": {
 		"aP": 1,
@@ -999,7 +999,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/forms.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/ie-rtl.css": {
 		"aP": 1,
@@ -1009,7 +1009,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/ie-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/ie-rtl.min.css": {
 		"aP": 1,
@@ -1019,7 +1019,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/ie-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/ie.css": {
 		"aP": 1,
@@ -1029,7 +1029,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/ie-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/ie.min.css": {
 		"aP": 1,
@@ -1039,7 +1039,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/ie.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/install-rtl.css": {
 		"aP": 1,
@@ -1049,7 +1049,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/install-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/install-rtl.min.css": {
 		"aP": 1,
@@ -1059,7 +1059,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/install-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/install.css": {
 		"aP": 1,
@@ -1069,7 +1069,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/install-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/install.min.css": {
 		"aP": 1,
@@ -1079,7 +1079,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/install.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/l10n-rtl.css": {
 		"aP": 1,
@@ -1089,7 +1089,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/l10n-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/l10n-rtl.min.css": {
 		"aP": 1,
@@ -1099,7 +1099,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/l10n-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/l10n.css": {
 		"aP": 1,
@@ -1109,7 +1109,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/l10n-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/l10n.min.css": {
 		"aP": 1,
@@ -1119,7 +1119,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/l10n.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/list-tables-rtl.css": {
 		"aP": 1,
@@ -1129,7 +1129,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/list-tables-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/list-tables-rtl.min.css": {
 		"aP": 1,
@@ -1139,7 +1139,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/list-tables-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/list-tables.css": {
 		"aP": 1,
@@ -1149,7 +1149,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/list-tables-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/list-tables.min.css": {
 		"aP": 1,
@@ -1159,7 +1159,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/list-tables.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/login-rtl.css": {
 		"aP": 1,
@@ -1169,7 +1169,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/login-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/login-rtl.min.css": {
 		"aP": 1,
@@ -1179,7 +1179,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/login-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/login.css": {
 		"aP": 1,
@@ -1189,7 +1189,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/login-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/login.min.css": {
 		"aP": 1,
@@ -1199,7 +1199,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/login.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/media-rtl.css": {
 		"aP": 1,
@@ -1209,7 +1209,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/media-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/media-rtl.min.css": {
 		"aP": 1,
@@ -1219,7 +1219,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/media-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/media.css": {
 		"aP": 1,
@@ -1229,7 +1229,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/media-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/media.min.css": {
 		"aP": 1,
@@ -1239,7 +1239,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/media.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/nav-menus-rtl.css": {
 		"aP": 1,
@@ -1249,7 +1249,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/nav-menus-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/nav-menus-rtl.min.css": {
 		"aP": 1,
@@ -1259,7 +1259,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/nav-menus-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/nav-menus.css": {
 		"aP": 1,
@@ -1269,7 +1269,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/nav-menus-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/nav-menus.min.css": {
 		"aP": 1,
@@ -1279,7 +1279,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/nav-menus.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-editor-rtl.css": {
 		"aP": 1,
@@ -1289,7 +1289,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-editor-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-editor-rtl.min.css": {
 		"aP": 1,
@@ -1299,7 +1299,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-editor-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-editor.css": {
 		"aP": 1,
@@ -1309,7 +1309,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-editor-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-editor.min.css": {
 		"aP": 1,
@@ -1319,7 +1319,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-editor.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-rtl.css": {
 		"aP": 1,
@@ -1329,7 +1329,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this-rtl.min.css": {
 		"aP": 1,
@@ -1339,7 +1339,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this.css": {
 		"aP": 1,
@@ -1349,7 +1349,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/press-this.min.css": {
 		"aP": 1,
@@ -1359,7 +1359,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/press-this.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/revisions-rtl.css": {
 		"aP": 1,
@@ -1369,7 +1369,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/revisions-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/revisions-rtl.min.css": {
 		"aP": 1,
@@ -1379,7 +1379,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/revisions-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/revisions.css": {
 		"aP": 1,
@@ -1389,7 +1389,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/revisions-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/revisions.min.css": {
 		"aP": 1,
@@ -1399,7 +1399,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/revisions.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/site-icon-rtl.css": {
 		"aP": 1,
@@ -1409,7 +1409,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/site-icon-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/site-icon-rtl.min.css": {
 		"aP": 1,
@@ -1419,7 +1419,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/site-icon-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/site-icon.css": {
 		"aP": 1,
@@ -1429,7 +1429,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/site-icon-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/site-icon.min.css": {
 		"aP": 1,
@@ -1439,7 +1439,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/site-icon.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/themes-rtl.css": {
 		"aP": 1,
@@ -1449,7 +1449,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/themes-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/themes-rtl.min.css": {
 		"aP": 1,
@@ -1459,7 +1459,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/themes-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/themes.css": {
 		"aP": 1,
@@ -1469,7 +1469,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/themes-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/themes.min.css": {
 		"aP": 1,
@@ -1479,7 +1479,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/themes.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/widgets-rtl.css": {
 		"aP": 1,
@@ -1489,7 +1489,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/widgets-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/widgets-rtl.min.css": {
 		"aP": 1,
@@ -1499,7 +1499,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/widgets-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/widgets.css": {
 		"aP": 1,
@@ -1509,7 +1509,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/widgets-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/widgets.min.css": {
 		"aP": 1,
@@ -1519,7 +1519,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/widgets.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/wp-admin-rtl.css": {
 		"aP": 1,
@@ -1529,7 +1529,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/wp-admin-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/wp-admin-rtl.min.css": {
 		"aP": 1,
@@ -1539,7 +1539,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/wp-admin-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/wp-admin.css": {
 		"aP": 1,
@@ -1549,7 +1549,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/wp-admin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/css\/wp-admin.min.css": {
 		"aP": 1,
@@ -1559,7 +1559,7 @@
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/wp-admin.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-admin\/custom-background.php": {
 		"ft": 8192,
@@ -4765,7 +4765,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/css\/acf-field-group-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/css\/acf-global.css": {
 		"aP": 1,
@@ -4775,7 +4775,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/css\/acf-global-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/css\/acf-input.css": {
 		"aP": 1,
@@ -4785,7 +4785,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/css\/acf-input-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/font\/acf.eot": {
 		"ft": 8192,
@@ -4925,7 +4925,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/jquery-ui-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/jquery-ui.min.css": {
 		"aP": 1,
@@ -4935,7 +4935,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/jquery-ui.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/select2\/select2-spinner.gif": {
 		"ft": 4194304,
@@ -4953,7 +4953,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/select2\/select2-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/select2\/select2.js": {
 		"ft": 64,
@@ -5003,7 +5003,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon.js": {
 		"ft": 64,
@@ -5022,7 +5022,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon.min.js": {
 		"ft": 64,
@@ -5725,7 +5725,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/pro\/assets\/css\/acf-pro-field-group-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/pro\/assets\/css\/acf-pro-input.css": {
 		"aP": 1,
@@ -5735,7 +5735,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/advanced-custom-fields-pro\/pro\/assets\/css\/acf-pro-input-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/advanced-custom-fields-pro\/pro\/assets\/js\/acf-pro-field-group.js": {
 		"ft": 64,
@@ -5893,7 +5893,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/admin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/admin.min.css": {
 		"aP": 1,
@@ -5903,7 +5903,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/admin.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/browsers.css": {
 		"aP": 1,
@@ -5913,7 +5913,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/browsers-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/browsers.min.css": {
 		"aP": 1,
@@ -5923,7 +5923,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/browsers.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/chosen-sprite.png": {
 		"ft": 32768,
@@ -5955,7 +5955,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/chosen-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/chosen.min.css": {
 		"aP": 1,
@@ -5965,7 +5965,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/chosen.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/datepicker.css": {
 		"aP": 1,
@@ -5975,7 +5975,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/datepicker-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/datepicker.min.css": {
 		"aP": 1,
@@ -5985,7 +5985,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/datepicker.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/font-awesome.css": {
 		"aP": 1,
@@ -5995,7 +5995,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/font-awesome-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/font-awesome.min.css": {
 		"aP": 1,
@@ -6005,7 +6005,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/font-awesome.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/formreset.css": {
 		"aP": 1,
@@ -6015,7 +6015,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/formreset-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/formreset.min.css": {
 		"aP": 1,
@@ -6025,7 +6025,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/formreset.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/forms.css": {
 		"aP": 1,
@@ -6035,7 +6035,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/forms-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/forms.min.css": {
 		"aP": 1,
@@ -6045,7 +6045,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/forms.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/formsmain.css": {
 		"aP": 1,
@@ -6055,7 +6055,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/formsmain-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/formsmain.min.css": {
 		"aP": 1,
@@ -6065,7 +6065,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/formsmain.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/gravityfont.css": {
 		"aP": 1,
@@ -6075,7 +6075,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/gravityfont-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/gravityfont.min.css": {
 		"aP": 1,
@@ -6085,7 +6085,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/gravityfont.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/index.php": {
 		"ft": 8192,
@@ -6101,7 +6101,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/jquery-ui.custom-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/jquery-ui.min.css": {
 		"aP": 1,
@@ -6111,7 +6111,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/jquery-ui.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/preview.css": {
 		"aP": 1,
@@ -6121,7 +6121,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/preview-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/preview.min.css": {
 		"aP": 1,
@@ -6131,7 +6131,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/preview.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/print.css": {
 		"aP": 1,
@@ -6141,7 +6141,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/print-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/print.min.css": {
 		"aP": 1,
@@ -6151,7 +6151,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/print.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/readyclass.css": {
 		"aP": 1,
@@ -6161,7 +6161,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/readyclass-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/readyclass.min.css": {
 		"aP": 1,
@@ -6171,7 +6171,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/readyclass.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/reset.css": {
 		"aP": 1,
@@ -6181,7 +6181,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/reset-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/reset.min.css": {
 		"aP": 1,
@@ -6191,7 +6191,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/reset.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/rtl.css": {
 		"aP": 1,
@@ -6201,7 +6201,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/rtl.min.css": {
 		"aP": 1,
@@ -6211,7 +6211,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui-editor-styles.css": {
 		"aP": 1,
@@ -6221,7 +6221,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui-editor-styles-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui-editor-styles.min.css": {
 		"aP": 1,
@@ -6231,7 +6231,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui-editor-styles.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui.css": {
 		"aP": 1,
@@ -6241,7 +6241,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui.min.css": {
 		"aP": 1,
@@ -6251,7 +6251,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/shortcode-ui.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/tooltip.css": {
 		"aP": 1,
@@ -6261,7 +6261,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/tooltip-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/tooltip.min.css": {
 		"aP": 1,
@@ -6271,7 +6271,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/tooltip.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/ui.min.css": {
 		"aP": 1,
@@ -6281,7 +6281,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/ui.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/css\/ui.tabs.css": {
 		"aP": 1,
@@ -6291,7 +6291,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/css\/ui.tabs-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/currency.php": {
 		"ft": 8192,
@@ -6441,7 +6441,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/active0.png": {
 		"ft": 32768,
-		"iS": 1424,
+		"iS": 15347,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/active0.png",
 		"oF": 0,
@@ -6452,7 +6452,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/active1.png": {
 		"ft": 32768,
-		"iS": 1448,
+		"iS": 15369,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/active1.png",
 		"oF": 0,
@@ -6463,7 +6463,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/add.png": {
 		"ft": 32768,
-		"iS": 3448,
+		"iS": 271,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/add.png",
 		"oF": 0,
@@ -6528,7 +6528,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/captcha_large.png": {
 		"ft": 32768,
-		"iS": 3100,
+		"iS": 1440,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/captcha_large.png",
 		"oF": 0,
@@ -6549,7 +6549,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/captcha_medium.png": {
 		"ft": 32768,
-		"iS": 2181,
+		"iS": 1026,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/captcha_medium.png",
 		"oF": 0,
@@ -6560,7 +6560,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/captcha_small.png": {
 		"ft": 32768,
-		"iS": 1698,
+		"iS": 791,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/captcha_small.png",
 		"oF": 0,
@@ -6582,7 +6582,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/chosen-sprite.png": {
 		"ft": 32768,
-		"iS": 742,
+		"iS": 646,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/chosen-sprite.png",
 		"oF": 0,
@@ -6615,7 +6615,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/datepicker\/arrow.png": {
 		"ft": 32768,
-		"iS": 451,
+		"iS": 316,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/datepicker\/arrow.png",
 		"oF": 0,
@@ -6632,7 +6632,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_222222_256x240.png": {
 		"ft": 32768,
-		"iS": 4369,
+		"iS": 4196,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_222222_256x240.png",
 		"oF": 0,
@@ -6643,7 +6643,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_454545_256x240.png": {
 		"ft": 32768,
-		"iS": 4369,
+		"iS": 4196,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_454545_256x240.png",
 		"oF": 0,
@@ -6654,7 +6654,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_888888_256x240.png": {
 		"ft": 32768,
-		"iS": 4369,
+		"iS": 4196,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_888888_256x240.png",
 		"oF": 0,
@@ -6665,7 +6665,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_cd0a0a_256x240.png": {
 		"ft": 32768,
-		"iS": 4369,
+		"iS": 4196,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/datepicker\/ui-icons_cd0a0a_256x240.png",
 		"oF": 0,
@@ -6676,7 +6676,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/delete.png": {
 		"ft": 32768,
-		"iS": 1249,
+		"iS": 261,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/delete.png",
 		"oF": 0,
@@ -6883,7 +6883,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gf-creditcard-icons.png": {
 		"ft": 32768,
-		"iS": 76461,
+		"iS": 75752,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gf-creditcard-icons.png",
 		"oF": 0,
@@ -6894,7 +6894,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gf-expand-title-bg-rtl.png": {
 		"ft": 32768,
-		"iS": 1680,
+		"iS": 1453,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gf-expand-title-bg-rtl.png",
 		"oF": 0,
@@ -6936,7 +6936,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gf-nofields-steps.png": {
 		"ft": 32768,
-		"iS": 420360,
+		"iS": 387974,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gf-nofields-steps.png",
 		"oF": 0,
@@ -6958,7 +6958,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gf-pagebreak-first.png": {
 		"ft": 32768,
-		"iS": 2008,
+		"iS": 1900,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gf-pagebreak-first.png",
 		"oF": 0,
@@ -6969,7 +6969,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gf-pagebreak-inline.png": {
 		"ft": 32768,
-		"iS": 2613,
+		"iS": 2331,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gf-pagebreak-inline.png",
 		"oF": 0,
@@ -6980,7 +6980,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gravityforms-business-upgrade.png": {
 		"ft": 32768,
-		"iS": 15018,
+		"iS": 10549,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gravityforms-business-upgrade.png",
 		"oF": 0,
@@ -6991,7 +6991,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/gravityforms-developer-upgrade.png": {
 		"ft": 32768,
-		"iS": 16650,
+		"iS": 10787,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/gravityforms-developer-upgrade.png",
 		"oF": 0,
@@ -7002,7 +7002,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/icon-drop-list.png": {
 		"ft": 32768,
-		"iS": 1106,
+		"iS": 1079,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/icon-drop-list.png",
 		"oF": 0,
@@ -7013,7 +7013,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/icon-submenu-down.png": {
 		"ft": 32768,
-		"iS": 1110,
+		"iS": 1093,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/icon-submenu-down.png",
 		"oF": 0,
@@ -7058,7 +7058,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/prodlist-last.png": {
 		"ft": 32768,
-		"iS": 144,
+		"iS": 143,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/prodlist-last.png",
 		"oF": 0,
@@ -7069,7 +7069,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/prodlist.png": {
 		"ft": 32768,
-		"iS": 253,
+		"iS": 156,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/prodlist.png",
 		"oF": 0,
@@ -7080,7 +7080,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/prodlist_last.png": {
 		"ft": 32768,
-		"iS": 144,
+		"iS": 143,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/prodlist_last.png",
 		"oF": 0,
@@ -7091,7 +7091,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/remove.png": {
 		"ft": 32768,
-		"iS": 3401,
+		"iS": 271,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/remove.png",
 		"oF": 0,
@@ -7113,7 +7113,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/spinner.gif": {
 		"ft": 4194304,
-		"iS": 2193,
+		"iS": 1849,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/spinner.gif",
 		"oF": 0,
@@ -7121,7 +7121,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/star0.png": {
 		"ft": 32768,
-		"iS": 1189,
+		"iS": 318,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/star0.png",
 		"oF": 0,
@@ -7132,7 +7132,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/star1.png": {
 		"ft": 32768,
-		"iS": 1188,
+		"iS": 318,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/star1.png",
 		"oF": 0,
@@ -7143,7 +7143,7 @@
 		},
 	"\/wp-content\/plugins\/gravityforms\/images\/webkit-enhanced-select.png": {
 		"ft": 32768,
-		"iS": 282,
+		"iS": 2885,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/images\/webkit-enhanced-select.png",
 		"oF": 0,
@@ -7210,7 +7210,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_form_settings-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_form_settings.min.css": {
 		"aP": 1,
@@ -7220,7 +7220,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_form_settings.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_results.css": {
 		"aP": 1,
@@ -7230,7 +7230,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_results-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_results.min.css": {
 		"aP": 1,
@@ -7240,7 +7240,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_results.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_settings.css": {
 		"aP": 1,
@@ -7250,7 +7250,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_settings-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_settings.min.css": {
 		"aP": 1,
@@ -7260,7 +7260,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/gaddon_settings.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/addon\/css\/index.php": {
 		"ft": 8192,
@@ -7772,7 +7772,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking-list-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking-list.min.css": {
 		"aP": 1,
@@ -7782,7 +7782,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking-list.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking.css": {
 		"aP": 1,
@@ -7792,7 +7792,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking.min.css": {
 		"aP": 1,
@@ -7802,7 +7802,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/locking\/css\/locking.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/locking\/images\/index.php": {
 		"ft": 8192,
@@ -7970,7 +7970,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/webapi\/css\/gfwebapi_settings-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/webapi\/css\/gfwebapi_settings.min.css": {
 		"aP": 1,
@@ -7980,7 +7980,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/gravityforms\/includes\/webapi\/css\/gfwebapi_settings.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/gravityforms\/includes\/webapi\/css\/index.php": {
 		"ft": 8192,
@@ -8685,7 +8685,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/css\/github-markdown-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/css\/styles.css": {
 		"aP": 1,
@@ -8695,7 +8695,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/css\/styles-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryDonateDropin.php": {
 		"ft": 8192,
@@ -8717,7 +8717,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin.js": {
 		"ft": 64,
@@ -8742,7 +8742,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin.js": {
 		"ft": 64,
@@ -8773,7 +8773,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin.js": {
 		"ft": 64,
@@ -8816,7 +8816,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin.php": {
 		"ft": 8192,
@@ -8832,7 +8832,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin.php": {
 		"ft": 8192,
@@ -9002,7 +9002,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-bootstrap-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2-spinner.gif": {
 		"ft": 4194304,
@@ -9020,7 +9020,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.jquery.json": {
 		"ft": 524288,
@@ -10633,7 +10633,7 @@
 		},
 	"\/wp-content\/plugins\/simple-image-sizes\/screenshot-3.png": {
 		"ft": 32768,
-		"iS": 9495,
+		"iS": 6280,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/simple-image-sizes\/screenshot-3.png",
 		"oF": 0,
@@ -10786,7 +10786,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro\/asset\/css\/styles-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/plugins\/wp-migrate-db-pro\/asset\/img\/icon-media-files.svg": {
 		"ft": 2097152,
@@ -10914,7 +10914,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/css\/animate-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/css\/bootstrap.min-min.css": {
 		"aP": 1,
@@ -10934,7 +10934,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/css\/bootstrap.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/css\/slick-theme.css": {
 		"aP": 1,
@@ -10944,7 +10944,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/css\/slick-theme-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/css\/slick.css": {
 		"aP": 1,
@@ -10954,7 +10954,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/css\/slick-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/css\/slicknav.css": {
 		"aP": 1,
@@ -10964,7 +10964,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/css\/slicknav-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
@@ -11095,7 +11095,7 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 75
+		"q": 100
 		},
 	"\/wp-content\/themes\/dewitt\/images\/attorney-profile.jpg": {
 		"ft": 16384,
@@ -11586,7 +11586,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/js\/scripts-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/wp-content\/themes\/dewitt\/js\/ScrollMagic.min.js": {
@@ -12042,7 +12042,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/js\/waypoints\/test\/lib\/jasmine-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/js\/waypoints\/test\/lib\/jasmine.js": {
 		"ft": 64,
@@ -12216,7 +12216,7 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/style-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-content\/themes\/dewitt\/style.css.map": {
 		"ft": 8192,
@@ -12225,16 +12225,16 @@
 		"oF": 0
 		},
 	"\/wp-content\/themes\/dewitt\/style.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/dewitt\/style.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/wp-content\/themes\/index.php": {
@@ -12444,61 +12444,61 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053-150x150.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-150x150.jpg": {
 		"ft": 16384,
-		"iS": 5036,
+		"iS": 6636,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-150x150.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053-200x300.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-214x300.jpg": {
 		"ft": 16384,
-		"iS": 10605,
+		"iS": 13724,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-200x300.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053-498x748.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-534x748.jpg": {
 		"ft": 16384,
-		"iS": 53581,
+		"iS": 65452,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-498x748.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053-681x1024.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-731x1024.jpg": {
 		"ft": 16384,
-		"iS": 69632,
+		"iS": 120067,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-681x1024.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053-768x1154.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-768x1075.jpg": {
 		"ft": 16384,
-		"iS": 126207,
+		"iS": 132075,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053-768x1154.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/wp-content\/uploads\/2017\/05\/Alex0053.jpg": {
+	"\/wp-content\/uploads\/2017\/05\/Algorri-Ernest.jpg": {
 		"ft": 16384,
-		"iS": 4648316,
+		"iS": 4411703,
 		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/Alex0053.jpg",
+		"oAP": "\/wp-content\/uploads\/2017\/05\/Algorri-Ernest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -12531,7 +12531,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/05\/attorney-profile-198x300.jpg": {
@@ -12539,16 +12539,6 @@
 		"iS": 12703,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-198x300.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/wp-content\/uploads\/2017\/05\/attorney-profile-493x748.jpg": {
-		"ft": 16384,
-		"iS": 50436,
-		"oA": 0,
-		"oAP": "\/wp-content\/uploads\/2017\/05\/attorney-profile-493x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -12610,6 +12600,52 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-125x150.jpg": {
+		"ft": 16384,
+		"iS": 5873,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-125x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-249x300.jpg": {
+		"ft": 16384,
+		"iS": 20819,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-249x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-851x1024.jpg": {
+		"ft": 16384,
+		"iS": 210495,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf-851x1024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf.jpg": {
+		"ft": 16384,
+		"iS": 367067,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1-pdf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015-1.pdf",
+		"oF": 0
+		},
 	"\/wp-content\/uploads\/2017\/05\/DeWitt-Algorri-and-Algorri-News-Aug-2015.pdf": {
 		"ft": 8192,
 		"oA": 2,
@@ -12652,6 +12688,36 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/wp-content\/uploads\/2017\/05\/lopez_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6344,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/lopez_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/lopez_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 12771,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/lopez_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/05\/lopez_profile.jpg": {
+		"ft": 16384,
+		"iS": 313525,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/05\/lopez_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-150x150.jpg": {
 		"ft": 16384,
 		"iS": 25509,
@@ -12659,7 +12725,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-214x300.jpg": {
@@ -12669,7 +12735,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-534x748.jpg": {
@@ -12679,7 +12745,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-731x1024.jpg": {
@@ -12689,7 +12755,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-768x1075.jpg": {
@@ -12699,7 +12765,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Ernest-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Ernest.jpg": {
@@ -12719,7 +12785,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-214x300.jpg": {
@@ -12729,7 +12795,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-534x748.jpg": {
@@ -12739,7 +12805,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-731x1024.jpg": {
@@ -12749,7 +12815,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark-768x1075.jpg": {
@@ -12759,7 +12825,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Algorri-Mark-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Algorri-Mark.jpg": {
@@ -12772,6 +12838,126 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/uploads\/2017\/07\/carolyn_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6886,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/carolyn_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/carolyn_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 13803,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/carolyn_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/carolyn_profile.jpg": {
+		"ft": 16384,
+		"iS": 313731,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/carolyn_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/ernest_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6619,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/ernest_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/ernest_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 13570,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/ernest_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/ernest_profile.jpg": {
+		"ft": 16384,
+		"iS": 324993,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/ernest_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/lopez_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6344,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/lopez_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/lopez_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 12771,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/lopez_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/lopez_profile.jpg": {
+		"ft": 16384,
+		"iS": 313525,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/lopez_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/mark_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 7019,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/mark_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/mark_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 14478,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/mark_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/mark_profile.jpg": {
+		"ft": 16384,
+		"iS": 346702,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/mark_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-150x150.jpg": {
 		"ft": 16384,
 		"iS": 21740,
@@ -12779,7 +12965,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-214x300.jpg": {
@@ -12789,7 +12975,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-534x748.jpg": {
@@ -12799,7 +12985,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-731x1024.jpg": {
@@ -12809,7 +12995,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William-768x1075.jpg": {
@@ -12819,7 +13005,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/McMillan-William-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/McMillan-William.jpg": {
@@ -12839,7 +13025,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-214x300.jpg": {
@@ -12849,7 +13035,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-534x748.jpg": {
@@ -12859,17 +13045,17 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-731x1024.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 113952,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-768x1075.jpg": {
@@ -12879,7 +13065,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Nolan-Patrick-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Nolan-Patrick.jpg": {
@@ -12892,6 +13078,66 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/uploads\/2017\/07\/patrick_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6720,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/patrick_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/patrick_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 13713,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/patrick_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/patrick_profile.jpg": {
+		"ft": 16384,
+		"iS": 298232,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/patrick_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/sam_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 7151,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/sam_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/sam_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 14267,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/sam_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/sam_profile.jpg": {
+		"ft": 16384,
+		"iS": 287187,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/sam_profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-150x150.jpg": {
 		"ft": 16384,
 		"iS": 22722,
@@ -12899,7 +13145,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-214x300.jpg": {
@@ -12909,7 +13155,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-534x748.jpg": {
@@ -12919,17 +13165,17 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-731x1024.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 112234,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-768x1075.jpg": {
@@ -12939,7 +13185,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Soleimany-Sam-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Soleimany-Sam.jpg": {
@@ -12959,7 +13205,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-150x150.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-214x300.jpg": {
@@ -12969,7 +13215,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-214x300.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-534x748.jpg": {
@@ -12979,7 +13225,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-534x748.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-731x1024.jpg": {
@@ -12989,7 +13235,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-731x1024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-768x1075.jpg": {
@@ -12999,7 +13245,7 @@
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn-768x1075.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/2017\/07\/Tan-Carolyn.jpg": {
@@ -13007,6 +13253,36 @@
 		"iS": 4283761,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/07\/Tan-Carolyn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/william_profile-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6590,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/william_profile-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/william_profile-198x300.jpg": {
+		"ft": 16384,
+		"iS": 13017,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/william_profile-198x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/07\/william_profile.jpg": {
+		"ft": 16384,
+		"iS": 275666,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/07\/william_profile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -13674,7 +13950,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/admin-bar-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/admin-bar-rtl.min.css": {
 		"aP": 1,
@@ -13684,7 +13960,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/admin-bar-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/admin-bar.css": {
 		"aP": 1,
@@ -13694,7 +13970,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/admin-bar-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/admin-bar.min.css": {
 		"aP": 1,
@@ -13704,7 +13980,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/admin-bar.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/buttons-rtl.css": {
 		"aP": 1,
@@ -13714,7 +13990,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/buttons-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/buttons-rtl.min.css": {
 		"aP": 1,
@@ -13724,7 +14000,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/buttons-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/buttons.css": {
 		"aP": 1,
@@ -13734,7 +14010,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/buttons-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/buttons.min.css": {
 		"aP": 1,
@@ -13744,7 +14020,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/buttons.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/customize-preview-rtl.css": {
 		"aP": 1,
@@ -13754,7 +14030,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/customize-preview-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/customize-preview-rtl.min.css": {
 		"aP": 1,
@@ -13764,7 +14040,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/customize-preview-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/customize-preview.css": {
 		"aP": 1,
@@ -13774,7 +14050,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/customize-preview-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/customize-preview.min.css": {
 		"aP": 1,
@@ -13784,7 +14060,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/customize-preview.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/dashicons.css": {
 		"aP": 1,
@@ -13794,7 +14070,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/dashicons-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/dashicons.min.css": {
 		"aP": 1,
@@ -13804,7 +14080,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/dashicons.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/editor-rtl.css": {
 		"aP": 1,
@@ -13814,7 +14090,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/editor-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/editor-rtl.min.css": {
 		"aP": 1,
@@ -13824,7 +14100,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/editor-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/editor.css": {
 		"aP": 1,
@@ -13834,7 +14110,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/editor-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/editor.min.css": {
 		"aP": 1,
@@ -13844,7 +14120,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/editor.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/jquery-ui-dialog-rtl.css": {
 		"aP": 1,
@@ -13854,7 +14130,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/jquery-ui-dialog-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/jquery-ui-dialog-rtl.min.css": {
 		"aP": 1,
@@ -13864,7 +14140,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/jquery-ui-dialog-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/jquery-ui-dialog.css": {
 		"aP": 1,
@@ -13874,7 +14150,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/jquery-ui-dialog-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/jquery-ui-dialog.min.css": {
 		"aP": 1,
@@ -13884,7 +14160,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/jquery-ui-dialog.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/media-views-rtl.css": {
 		"aP": 1,
@@ -13894,7 +14170,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/media-views-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/media-views-rtl.min.css": {
 		"aP": 1,
@@ -13904,7 +14180,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/media-views-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/media-views.css": {
 		"aP": 1,
@@ -13914,7 +14190,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/media-views-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/media-views.min.css": {
 		"aP": 1,
@@ -13924,7 +14200,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/media-views.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-auth-check-rtl.css": {
 		"aP": 1,
@@ -13934,7 +14210,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-auth-check-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-auth-check-rtl.min.css": {
 		"aP": 1,
@@ -13944,7 +14220,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-auth-check-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-auth-check.css": {
 		"aP": 1,
@@ -13954,7 +14230,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-auth-check-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-auth-check.min.css": {
 		"aP": 1,
@@ -13964,7 +14240,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-auth-check.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-embed-template-ie.css": {
 		"aP": 1,
@@ -13974,7 +14250,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-embed-template-ie-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-embed-template-ie.min.css": {
 		"aP": 1,
@@ -13984,7 +14260,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-embed-template-ie.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-embed-template.css": {
 		"aP": 1,
@@ -13994,7 +14270,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-embed-template-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-embed-template.min.css": {
 		"aP": 1,
@@ -14004,7 +14280,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-embed-template.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-pointer-rtl.css": {
 		"aP": 1,
@@ -14014,7 +14290,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-pointer-rtl-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-pointer-rtl.min.css": {
 		"aP": 1,
@@ -14024,7 +14300,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-pointer-rtl.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-pointer.css": {
 		"aP": 1,
@@ -14034,7 +14310,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-pointer-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/css\/wp-pointer.min.css": {
 		"aP": 1,
@@ -14044,7 +14320,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/css\/wp-pointer.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/customize\/class-wp-customize-background-image-control.php": {
 		"ft": 8192,
@@ -15337,7 +15613,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/crop\/cropper-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/crop\/cropper.js": {
 		"ft": 64,
@@ -15577,7 +15853,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/imgareaselect\/imgareaselect-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/imgareaselect\/jquery.imgareaselect.js": {
 		"ft": 64,
@@ -15613,7 +15889,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/jcrop\/jquery.Jcrop.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/jcrop\/jquery.Jcrop.min.js": {
 		"ft": 64,
@@ -16349,7 +16625,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelementplayer.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/mediaelement\/silverlightmediaelement.xap": {
 		"ft": 8192,
@@ -16376,7 +16652,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/mediaelement\/wp-mediaelement-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/mediaelement\/wp-mediaelement.js": {
 		"ft": 64,
@@ -16395,7 +16671,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/mediaelement\/wp-mediaelement.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/mediaelement\/wp-mediaelement.min.js": {
 		"ft": 64,
@@ -16634,7 +16910,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/thickbox\/thickbox-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/thickbox\/thickbox.js": {
 		"ft": 64,
@@ -16704,7 +16980,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/plugins\/compat3x\/css\/dialog-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/plugins\/compat3x\/plugin.js": {
 		"ft": 64,
@@ -17080,7 +17356,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.inline.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css": {
 		"aP": 1,
@@ -17090,7 +17366,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/skins\/lightgray\/fonts\/readme.md": {
 		"cS": 0,
@@ -17222,7 +17498,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/skins\/lightgray\/skin.ie7.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/skins\/lightgray\/skin.min.css": {
 		"aP": 1,
@@ -17232,7 +17508,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/skins\/lightgray\/skin.min-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/skins\/wordpress\/images\/audio.png": {
 		"ft": 32768,
@@ -17385,7 +17661,7 @@
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/wp-includes\/js\/tinymce\/themes\/inlite\/theme.js": {
 		"ft": 64,
@@ -19118,14 +19394,14 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 518983022,
+	"creationDate": 521410822,
 	"displayValue": "andrews-dewit",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_purple"
+	"iconImageName": "meme-karate"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -20479,7 +20755,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/dewittdemo.com",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

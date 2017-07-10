@@ -19,7 +19,7 @@
 <link href="https://fonts.googleapis.com/css?family=Vidaloka" rel="stylesheet">
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUjs9tA9xiKurLHDH9KsTkIKlYLqmNgrg"></script>
 <?php wp_head(); ?>
-<?php the_field('header_tags', 'options');?>
+<?php the_field('header_tags', 'option');?>
 </head>
 
 

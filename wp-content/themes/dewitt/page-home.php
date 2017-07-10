@@ -55,7 +55,7 @@ get_header(); ?>
 	 	
 	 	<div class="section2_left">
 	 	
-	 		<h1>California Personal Injury Lawyers</h1>
+	 		<?php the_field( 'section2_text1_title' ); ?>
 	 	
 	 	</div><!-- section2_header_wrapper -->
 	 	
@@ -63,7 +63,7 @@ get_header(); ?>
 		 	
 		 	<div class="section2_video_wrapper">
 			 	
-			 	<div class="video_title"><span>Press play</span> to learn why you should choose us</div><!-- video_title -->
+			 	<div class="video_title"><?php the_field( 'video_caption' ); ?></div><!-- video_title -->
 			 	
 			 	<div class="video_image_wrapper">
 				 	
@@ -101,7 +101,10 @@ get_header(); ?>
 		 	
 		 	<div class="top_content">
 			 	
-			 	<p>In California and elsewhere, the law allows you to claim monetary compensation for your damages if they were the fault of another person, individual, or entity, whether in an accident caused by that party’s negligence, or by their willful act or failure to act as required. <strong>We completely understand that money can never truly compensate you for the loss of your health or the death of a loved one;</strong> but is the best the legal system can do to achieve the closest approximation of justice for those who have been injured or bereaved.</p>
+			 	
+			 	<?php the_field( 'section2_text1_content' ); ?>
+			 	
+			 
 			 	
 		 	</div><!-- top_content -->
 		 	
@@ -144,21 +147,20 @@ get_header(); ?>
 		 
 		 <div class="section2_content">
 			 
+			 <?php the_field( 'section2_text2_title' ); ?>
 			 
+<!--
 			 <span class="large_header">First & foremost, 
-           <span class="bottom_header"> we are the real&nbsp;deal.</span><!-- bottom_header -->
-        </span><!-- large_header -->
+           <span class="bottom_header"> we are the real&nbsp;deal.</span>
+        </span>
+-->
         
         <div class="section2_inner_content">
 	        
-	        <p>An injury or wrongful death accident can occur without warning. Your comfortable life can disappear in a flash. Your credit score may be taking a nosedive as your medical bills mount up. You may desperately want to return to work, but your condition won’t allow it. With rising bills and falling earnings, complicated by pain, suffering, disability, and mental anguish, you may be wondering how you can possibly go on.</p>
 	        
-	        <p>Unexpected injuries happen in so many ways: in motor vehicle accidents, trip and fall accidents, accidents in the workplace or on someone else’s premises, medical errors, injuries caused by defective products, and many, many more.</p>
-
-					<p>Sometimes, an accident is just that—an accident.  It may be the result of your own carelessness or simply “an act of God.” But many times, it is someone else’s negligence or wrongdoing that is to blame for your suffering.</p>
-
-					<p>In a just world, why should you be forced to suffer for something someone else did to harm you? While there is no such thing as perfect justice, we have laws in place that, when properly applied, can go a long way toward achieving the greatest possible degree of justice for those who have suffered damages that another individual, company, or other entity caused. That’s where having a good personal injury lawyer can make all the difference. With the right attorney behind you, justice is within your reach.</p>
+	        <?php the_field( 'section2_text2_content' ); ?>
 	        
+	        	        
         </div><!-- section2_inner_content -->
 			 
 			 
@@ -168,69 +170,6 @@ get_header(); ?>
 		 
 	 </div><!-- section2_bottom -->
  	
- 	
- 	
-<!--
- 	<div id="section2-row1" class="content-row">
-		<?php if( get_field('section2_text1_title') ): ?>
-			<div class="content-title" id="section2-title">
-				<h2><?php the_field('section2_text1_title');?></h2>
-			</div>
-		<?php endif; ?>
-		<?php if( get_field('section2_text1_content') ): ?>
-			<div class="content-text" id="section2-text1">
-				<?php the_field('section2_text1_content');?>
-			</div>
-		<?php endif; ?>
-		<div class="content-video" id="section2-video">
-			<div id="section2-video-mask">
-				<div id="section2-video-content">
-					<?php if( get_field('video_caption') ): ?>
-						<p><?php the_field('video_caption');?></p>
-					<?php endif; ?>
-					<div class="button-video"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	
-	
-	
-	
-	<div id="section2-row2" class="content-row">
-		<figure class="content-image" id="section2-image">
-			<div id="featured-meet-the-press" class="featured">
-				<div class="featured-mask">
-					<div class="featured-image">
-						<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/nbc.png" />
-					</div>
-				</div>
-			</div>
-			<div id="featured-60-minutes" class="featured">
-				<div class="featured-mask">
-					<div class="featured-image">
-						<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/60minutes.png" />
-					</div>
-				</div>
-			</div>
-			<figcaption>Featured on</figcaption>
-		</figure>
-		<div class="content-text" id="section2-text2">
-			<?php if( get_field('section2_text2_title') ): ?>
-				<h3><?php the_field('section2_text2_title');?></h3>
-			<?php endif; ?>
-			<?php if( get_field('section2_text2_content') ): ?>
-				<?php the_field('section2_text2_content');?>
-			<?php endif; ?>
-		</div>
-	</div>
--->
-
-
-
-
-
 
 
 
@@ -380,6 +319,12 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">Motorcycle safety: How to ride fast without putting your life on the line</h3>
@@ -390,6 +335,12 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
@@ -400,6 +351,10 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">What contributes to construction accidents?</h3>
@@ -420,6 +375,12 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
@@ -430,6 +391,11 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">What contributes to construction accidents?</h3>
@@ -440,6 +406,11 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">Motorcycle safety: How to ride fast without putting your life on the line</h3>
@@ -450,6 +421,11 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
@@ -460,6 +436,14 @@ get_header(); ?>
 					<a href="#" class="button">Read Full Post</a>
 				</div>
 			</article>
+			
+			
+			
+			
+			
+			
+			
+			
 		</div>
 	</div>
 	<div id="section6-arrows"></div>
