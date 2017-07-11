@@ -94,7 +94,7 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
  
      var section1 = $('#section1')
  
-     waypoint(section1, '350px')
+     waypoint(section1, '400px')
      
      
      
@@ -254,7 +254,14 @@ $('#section1-selling-points').on('init', function(event, slick){
 		
 
 		
-		
+		jQuery('.inner_button_wrapper').click(function(){
+			
+			jQuery(this).find('img.new_button_hov').fadeIn(200);
+			
+			jQuery('.inner_button_wrapper').not(this).find('img.new_button_hov').fadeOut(200);
+			
+			
+		});
 		
 		
 		
@@ -264,8 +271,10 @@ $('#section1-selling-points').on('init', function(event, slick){
 		  dots: false,
 		  infinite: true,
 		  speed: 500,
-		  fade: true,
-		  cssEase: 'linear'
+			fade:true,
+		  cssEase: 'linear',
+		  prevArrow:'.new_back_wrapper',
+		  nextArrow:'.new_next_wrapper'
 		});
 		
 		

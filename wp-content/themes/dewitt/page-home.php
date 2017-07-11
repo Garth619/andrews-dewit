@@ -204,7 +204,30 @@ get_header(); ?>
 	   <?php endwhile; ?>
 	</div>
     <div id="section3-case-results-mobile" class="visible-sm visible-xs">
+	    
+	    
+	    <div class="new_buttons_wrapper">
+				
+				<div class="new_back_wrapper inner_button_wrapper">
+					
+					<img class="new_button_reg" src="<?php bloginfo('template_directory');?>/images/newleft.png"/>
+					<img class="new_button_hov" src="<?php bloginfo('template_directory');?>/images/newlefthover.png"/>
+				
+				</div><!-- new_back_wrapper -->
+				
+				<div class="new_next_wrapper inner_button_wrapper">
+					
+					<img class="new_button_reg" src="<?php bloginfo('template_directory');?>/images/newright.png"/>
+					<img class="new_button_hov" src="<?php bloginfo('template_directory');?>/images/newrighthover.png"/>
+				
+				</div><!-- new_back_wrapper -->
+				
+			</div><!-- new_buttons_wrapper -->
+	    
 		<div id="section3-slider" class="content-case-results content-slider">
+			
+			
+			
 			<?php $c=0; while ( have_rows('case_results') ) : the_row(); $c++; ?>
 			
 			<div class="case-result" id="case-result-mobile<?php echo $c; ?>">

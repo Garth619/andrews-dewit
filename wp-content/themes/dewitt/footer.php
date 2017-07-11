@@ -40,24 +40,27 @@
     <section id="footer-main">
 	    <div class="container">
 		    <div id="footer-contact">
+			    
+			    
+			    
 			    <h2>Contact Us</h2>
 			    <div id="footer-contact-info">
-			    	<?php if( get_field('toll_free_number', 'options') ): ?>
+			    
 						<div class="footer-number">
 							<label>Toll Free</label> 
-							<span><a href="tel:<?php the_field('toll_free_number', 'options');?>"><?php the_field('toll_free_number', 'options');?></a></span>
+							<span><a href="tel:8005138751">(800) 513-8751</a></span>
 						</div>
-			   		<?php endif; ?>
+			   		
 			   		<?php if( get_field('phone_number', 'options') ): ?>
 						<div class="footer-number">
 							<label>Phone</label> 
-							<span><a href="tel:<?php the_field('phone_number', 'options');?>"><?php the_field('phone_number', 'options');?></a></span>
+							<span><a href="tel:<?php the_field('phone_number', 'option');?>"><?php the_field('phone_number', 'option');?></a></span>
 						</div>
 			   		<?php endif; ?>
-			   		<?php if( get_field('fax_number', 'options') ): ?>
+			   		<?php if( get_field('fax_number', 'option') ): ?>
 						<div class="footer-number">
 							<label>Fax</label> 
-							<span><?php the_field('fax_number', 'options');?></span>
+							<span><?php the_field('fax_number', 'option');?></span>
 						</div>
 			   		<?php endif; ?>
 			    </div>
@@ -85,16 +88,16 @@
 	    </div>
 	    <div id="footer-social" class="visible-sm visible-xs">
 			<ul>
-				<?php if( get_field('facebook_url', 'options') ): ?>
+				
 					<li class="socicon-facebook">
-						<a href="<?php the_field('facebook_url', 'options');?>" target="_blank" class="social-facebook socicon-facebook"></a>
+						<a href="" target="_blank" class="social-facebook socicon-facebook"></a>
 					</li>
-				<?php endif; ?>
-				<?php if( get_field('google_plus_url', 'options') ): ?>
+				
+				
 					<li class="socicon-google">
-						<a href="<?php the_field('google_plus_url', 'options');?>" target="_blank" class="social-google socicon-google"></a>
+						<a href="<?php the_field('google_plus_url', 'option');?>" target="_blank" class="social-google socicon-google"></a>
 					</li>
-				<?php endif; ?>
+			
 			</ul>
 		</div>
     </section>
