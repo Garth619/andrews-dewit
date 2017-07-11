@@ -173,6 +173,7 @@ a:focus, input:focus, textarea:focus, button:focus, .slick-slide:focus {
 	padding: 0 50px;
 	text-decoration: none !important;
 	font-weight: 800;
+	transition: all .2s ease-in-out;
 }
 .button-alt {
 	color: #41b8ff;
@@ -3870,7 +3871,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 /* ===== PAGE CONTENT ===== */
 
 #main #page-content {
-	padding: 60px 6.25%;
+	padding: 105px 6.25%;
 	float: left;
 	clear: both;
 	width: 100%;
@@ -3880,6 +3881,20 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 	position: relative;
 	background: #FFF;
 }
+
+
+@media screen and (max-width: 1099px) {
+	
+	
+	#main #page-content {
+		padding-top:65px;
+	}
+	
+	
+	
+} /* Media Query */
+
+
 #main #page-content > .container {
 	max-width: 100%;
 	padding: 0;
@@ -4002,7 +4017,7 @@ line-height: 1;
 // 	margin-bottom:425px;
 	
 	.mysingle_post {
-		border-bottom: 4px solid #f1f1f1;
+// 		border-bottom: 4px solid #f1f1f1;
 		padding-bottom: 55px;
 		margin-bottom:54px;
 		a.button {
@@ -4556,9 +4571,21 @@ ul#menu-practice-areas-directory {
 	padding-left: 5%;
 	font-family: "Vidaloka",serif;
 	width:auto;
-	margin-bottom: 26px;
+	margin-bottom: 13px;
 	span.practice_area_title {
-		font-size:30px;
+		
+
+		
+		
+		
+    font-family: "Vidaloka",serif;
+    font-size: 23.05px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1.4;
+    margin: 0 0 12px;
+    text-transform: lowercase;
+    width: 100%;
 		&:after {
 		display: none;
 	}
@@ -9051,6 +9078,19 @@ animation-name: none;
 .page-template-page-attorneys #main #page-content {
 	padding: 115px 0;
 }
+
+
+
+@media screen and (max-width: 1099px) {
+	
+	.page-template-page-attorneys #main #page-content {
+	padding: 65px 0;
+}
+	
+	
+} /* Media Query */
+
+
 .page-template-page-attorneys #page-content #page-title {
 	border-bottom: 0px;
 	padding: 0 0 0 130px;
@@ -9131,6 +9171,7 @@ animation-name: none;
 	width: 100%;
 	text-align: center;
 	margin: 0 0 28px;
+	line-height: 1;
 }
 #page-content .attorney-name a {
 	color: #15182b;
@@ -9197,6 +9238,14 @@ display: none;
 .page-template-page-attorneys #main #page-content {
     padding: 90px 0;
 }
+
+
+#page-content .attorneys-row {
+	padding-left:25px;
+	padding-right:25px;
+}
+
+
 .page-template-page-attorneys #page-content #page-title {
 	font-size:40px;
 	line-height:46px;
@@ -9217,6 +9266,7 @@ display: none;
 	width: 100%;
 	max-width: 340px;
 	margin: 0 auto 70px;
+	padding:0;
 }
 #page-content .attorney-image {
 /*
@@ -9820,6 +9870,25 @@ opacity: 0;
 	width: 100%;
 	margin-bottom:250px;
 }
+
+
+@media screen and (max-width: 1099px) {
+	
+	
+	
+	#practice-areas {
+		padding-left:25px;
+		padding-right:25px;
+	}
+	
+	#practice-areas ul {
+		margin-bottom:70px;
+	}
+	
+} /* Media Query */
+
+
+
 #practice-areas li {
 	margin-bottom: 0px;
 	width:22%;
@@ -9977,8 +10046,26 @@ opacity: 0;
 /* ===== CASE RESULTS ===== */
 
 .page-template-page-case-results #main #page-content {
-	padding: 100px 0 20px;
+	padding: 105px 0 20px;
 }
+
+.case_red_more {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1099px) {
+	
+	
+	.page-template-page-case-results #main #page-content {
+			padding: 65px 0 20px;
+		}
+	
+	
+	
+} /* Media Query */
+
+
 .page-template-page-case-results #page-content #page-title {
 	border-bottom: 0px;
 	padding: 0 0 0 130px;
@@ -10025,7 +10112,7 @@ opacity: 0;
 	float: left;
 	width: 100%;
 	border-right: 1px solid #e0e0e0;
-	padding: 70px 45px 0;
+	padding: 70px 45px;
 	height: 100%;
 }
 .page-template-page-case-results .case-result-amount {
@@ -10067,7 +10154,7 @@ opacity: 0;
 }
 .page-template-page-case-results #page-content .case-result-text p {
 	width: 100%;
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 27px;
 }
 .page-template-page-case-results #page-content .case-result-text p:last-child {
@@ -10081,10 +10168,47 @@ opacity: 0;
 	
 	
 	
-	.page-template-page-case-results .case-result {
-		width:50%;
+	.page-template-page-case-results #main #page-content {
+		padding-bottom: 0;
 	}
 	
+	
+	
+	.page-template-page-case-results #page-content .case-result .case-result-content {
+	border-right: 0px;
+}
+	
+	
+	
+	.page-template-page-case-results .case-results-row {
+		padding:0 0;
+	}
+	
+	
+	
+	
+	.page-template-page-case-results .case-result {
+		width:50%;
+		padding:40px 0;
+		// height:930px !important; // Comment out for match height but its not liking padding
+		&:nth-of-type(3n + 3) {
+			background:#efefef;
+		}
+		&:nth-of-type(4n + 4) {
+			background:#efefef;
+		}
+	}
+	
+	.page-template-page-case-results #page-content .case-result .case-result-content {
+		
+		border-right:1px solid #e0e0e0;
+	}
+	
+
+
+.page-template-page-case-results .case-results-row:nth-child(2n+2) {
+	background: none;
+}
 	
 	
 	
@@ -10096,6 +10220,36 @@ opacity: 0;
 }
 
 @media (max-width: 767px) {
+	
+
+
+
+
+
+	.page-template-page-case-results .case-result {
+		width:50%;
+		padding:40px 0;
+		padding:0;
+		&:nth-of-type(4n + 4) {
+			background:none;
+		}
+		&:nth-of-type(3n + 3) {
+			background:none;
+		}
+	}
+	
+	.page-template-page-case-results #page-content .case-result .case-result-content {
+		max-width:600px;
+		border-right:none;
+	}
+
+
+
+
+
+
+
+	
 .page-template-page-case-results #main #page-content {
     padding: 60px 0 20px;
 }
@@ -10133,7 +10287,7 @@ opacity: 0;
 	width: 100%;
 	margin: 0 auto;
 	float: none;
-	padding: 70px 25px;
+	padding: 60px 25px;
 }
 }
 /* ===== ABOUT ===== */

@@ -44,7 +44,7 @@
 		                    <div id="mobile-logo">
 		                        <a href="<?= get_home_url(); ?>">
 		                            <img class="img-responsive center-block visible-xs" src="<?php echo get_stylesheet_directory_uri(); ?>/images/mobile_logo.png" />
-		                            <img class="img-responsive center-block visible-sm" src="<?php echo get_stylesheet_directory_uri(); ?>/images/tablet_logo.png" />
+<!-- 		                            <img class="img-responsive center-block visible-sm" src="<?php echo get_stylesheet_directory_uri(); ?>/images/tablet_logo.png" /> -->
 		                        </a>
 		                    </div>
 		                    
