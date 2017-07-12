@@ -10,7 +10,15 @@ get_header(); ?>
         	<?php if( get_field('photo') ): ?>
         		
 			<?php endif; ?>
-       		<h1 id="page-title"><?php the_field('name');?></h1>
+       		
+       		
+       		
+       		
+<!--        		<h1 id="page-title"><?php the_field('name');?></h1> -->
+			
+			
+			
+			
 			<div id="attorney-contact">
 				<?php if( get_field('job_title') ): ?>
 					<span><?php the_field('job_title');?></span>

@@ -6,6 +6,10 @@ get_header(); ?>
 
 <section id="page-content">
 	<div class="container">
+		
+		
+<!--
+		
 		<h1 id="page-title">
 			<?php if( get_field('page_title') ) { 
 				the_field('page_title');
@@ -13,6 +17,12 @@ get_header(); ?>
 				the_title(); 
 			} ?>
 		</h1>
+-->
+       
+       
+       
+       
+       
         <div class="attorneys">
            <?php $c=0; while ( have_rows('attorneys') ) : the_row(); ?>
            

@@ -4,8 +4,31 @@ Template Name: Contact
 */
 get_header(); ?>
 
+<div class="new_header_wrapper">
+	
+	
+	<span class="new_line"></span><!-- new_line -->
+	<h1 class="new_titles">Contact Us</h1>
+	
+	
+	
+</div><!-- new_header_wrapper -->
+
 <section id="page-content">
-	<h1 id="page-title">Contact Us</h1>
+	
+	
+
+
+
+
+
+	
+	
+<!-- <h1 id="page-title">Contact Us</h1> -->
+	
+	
+	
+	
 	<div id="contact-page">
 		<div id="contact-content">
 			<div id="contact-phone">

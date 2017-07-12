@@ -6,6 +6,9 @@ get_header(); ?>
 
 <section id="page-content">
     <?php wp_reset_query(); if (have_posts()) : while (have_posts()) : the_post(); ?>
+    
+    
+<!--
     <h1 id="page-title">
     	<?php if( get_field('page_title') ) { 
 			the_field('page_title');
@@ -13,6 +16,13 @@ get_header(); ?>
 			the_title(); 
 		} ?>
     </h1>
+-->
+    
+    
+    
+    
+    
+    
     <?php the_content(); ?>
     
     <div id="case-results">

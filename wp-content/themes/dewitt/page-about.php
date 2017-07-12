@@ -4,17 +4,33 @@ Template Name: About
 */
 get_header(); ?>
 
+
+<div class="new_header_wrapper">
+	
+	
+	<span class="new_line"></span><!-- new_line -->
+	<h1 class="new_titles">Contact Us</h1>
+	
+	
+	
+</div><!-- new_header_wrapper -->
+
+
 <section id="section1" class="content-block">
+
 	<div class="content-text">
+<!--
 		<?php if( get_field('about_section1_title') ): ?>
 			<h1 id="page-title">
 				<?php the_field('about_section1_title');?>
 			</h1>
+-->
 		<?php endif; ?>
     	<?php if( get_field('about_section1_text') ): ?>
 			<?php the_field('about_section1_text');?>
 		<?php endif; ?>
 	</div>
+
 	
 	
 	
