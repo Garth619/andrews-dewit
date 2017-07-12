@@ -52,7 +52,7 @@
 	
 	$('#mobile-toggle').click(function(){
 		
-		$('.new_mobile').addClass('new_open');
+		$('.new_mobile').slideDown(200);
 		
 		
 	});
@@ -60,7 +60,7 @@
 	
 	$('.mynew_close').click(function(){
 		
-		$('.new_mobile').removeClass('new_open');
+		$('.new_mobile').slideUp(200);
 		
 		
 	});
