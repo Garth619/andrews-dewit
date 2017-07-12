@@ -4820,7 +4820,11 @@ ul#menu-practice-areas-directory {
 	min-height: 590px;
 	position: relative;
 	overflow: visible;
-	transition: background 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+	transition: all 350ms ease-in-out;
+	transition-delay: 100ms;
+	&:hover {
+		background: #15182b;
+	}
 }
 #main .post .entry-content p {
 	width: 100%;
@@ -7389,6 +7393,10 @@ width:88%;
 	font-size: 25px;
 	font-weight: 400;
 }
+
+
+
+
 #section3 .case-result .case-result-hover {
 	opacity: 0;
 	position: absolute;
@@ -7398,7 +7406,7 @@ width:88%;
 	height: 800px;
 	padding: 200px 12% 0;
 	background: #efefef;
-	transition: all .3s ease-in-out;
+	transition: all .5s ease-in-out;
 	
 }
 #section3 .case-result.active .case-result-hover {
@@ -7408,6 +7416,15 @@ width:88%;
 	top:-35px;
 	background: #efefef;
 }
+
+
+
+
+
+
+
+
+
 #section3 .case-result-hover .case-result-amount {
 	color: #2970e2;
 	font-size: 90px;
@@ -7469,7 +7486,7 @@ width:88%;
 	top: 0px;
 	left: 50%;
 	position: absolute;
-	transition: height 0.7s 0.4s cubic-bezier(0.77, 0, 0.175, 1);
+	transition: all 1700ms cubic-bezier(0.77, 0, 0.175, 1);
 }
 #section3 .case-result.active .case-result-hover .case-result-vs:before {
 	height: 63px;
@@ -8560,7 +8577,7 @@ padding:0 25px 125px;
 	color: #FFF;
 	font-family: "Vidaloka", serif;
 	opacity:1;
-	transition: opacity 0.3s cubic-bezier(0.77, 0, 0.175, 1);
+
 }
 
 #section5-practice-areas .practice-area-hover {
@@ -8576,15 +8593,14 @@ padding:0 25px 125px;
 	z-index: 8888;
 	padding: 135px 5% 0;
 	box-shadow: 0px 5px 20px 1px rgba(0, 0, 0, 0.4);
-	-webkit-transition: all .3s ease-in-out;
-	transition: all .3s ease-in-out;
+
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2970e1+0,1850a3+100 */
 	background: #2970e1; /* Old browsers */
 	background: -moz-linear-gradient(-45deg, #2970e1 0%, #1850a3 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(-45deg, #2970e1 0%, #1850a3 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(135deg, #2970e1 0%, #1850a3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2970e1', endColorstr='#1850a3', GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-	transition: all .3s ease-in-out;
+ transition: all 500ms ease-in-out;	
 }
 #section5-practice-areas .practice-area-hover .practice-area-title {
 	font-size: 25px;
@@ -8594,8 +8610,10 @@ padding:0 25px 125px;
 	margin: 0;
 	text-align: center;
 	padding: 88px 0 0;
-	opacity:1;
-	transition: opacity 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+	opacity:0;
+
+	transition: all 1000ms cubic-bezier(0.77, 0, 0.175, 1);
+
 }
 
 
@@ -8618,7 +8636,8 @@ padding:0 25px 125px;
 	bottom: 60px;
 	left: 50%;
 	position: absolute;
-	transition: height 0.3s 0.3s cubic-bezier(0.77, 0, 0.175, 1);
+	transition: all 800ms cubic-bezier(.17,.66,.34,.98);
+	transition-delay: 300ms;
 }
 #section5-practice-areas .practice-area.active .practice-area-hover .practice-area-title:before {
 	height: 45px;
@@ -8637,12 +8656,16 @@ padding:0 25px 125px;
 	max-width: 186px;
 	width: 100%;
 	opacity:0;
-	transition: all .2s ease-in-out;
+	transition: all 900ms ease-in-out;
 }
+
 #section5-practice-areas .practice-area.active .practice-area-hover .button {
 	opacity:1;
+	
 }
 #section5-practice-areas .practice-area-hover .button:hover {
+
+
 }
 #section5-practice-areas .practice-area.active .practice-area-hover {
 	opacity: 1;
@@ -8884,6 +8907,7 @@ margin-left: -230px;
     padding: 0 10px 20px;
     overflow: visible;
     margin:0 10px;
+    
 }
 #section6-slider .entry-content {
 }
@@ -8905,6 +8929,8 @@ margin-left: -230px;
 	font-size: 16px;
 	line-height: 33px;
 	color: #1c1a21;
+	transition: all 350ms ease-in-out;
+	transition-delay: 100ms;
 }
 #main #section6-slider .entry-excerpt p:last-child {
 	margin:0;
@@ -8923,6 +8949,8 @@ margin-left: -230px;
 	left: 50%;
 	bottom: -23px;
 	text-align: center;
+	transition: all 350ms ease-in-out;
+	transition-delay: 100ms;
 }
 #section6-slider .entry:hover {
 }
@@ -8930,8 +8958,10 @@ margin-left: -230px;
 #section6-slider .entry:hover .entry-title {
 	
 }
-#section6-slider .entry:hover .entry-date {
+#section6-slider .entry .entry-date {
 	color: #6f6f6f;
+	transition: all 350ms ease-in-out;
+	transition-delay: 100ms;
 }
 #section6-slider .entry:hover .entry-excerpt {
 	
@@ -8939,9 +8969,15 @@ margin-left: -230px;
 #main #section6-slider .entry:hover .entry-excerpt p {
 	color: #FFF;
 }
+
+
+#section6-slider .entry:hover .entry-date {
+	color:#fff;
+}
+
 #section6-slider .entry:hover .button {
 	background: #b57d54;
-	transition: all .3s ease-in-out;
+// 	transition: all .3s ease-in-out;
 }
 
 @media(max-width:1499px) {
@@ -12201,8 +12237,8 @@ body.page-template-page-contact {
 	transform: rotate(90deg);
 	position: absolute;
 	top: 138px;
-	right: -137px;
-	letter-spacing: 3px;
+	right: -140px;
+	letter-spacing: 4px;
 	width: 340px;
 	height: 66px;
 	line-height: 66px;
@@ -12221,10 +12257,10 @@ body.page-template-page-contact {
 
 
 #sticky {
-	animation-name: stickyfade;
-  animation-duration: 1500ms;
+	animation-name: stickyfade, stickymove;
+  animation-duration: 1800ms, 1900ms;
   animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(.17,.66,.34,.98);
+  animation-timing-function: ease, cubic-bezier(.17,.66,.34,.98);
   animation-delay: 1000ms;
 	
 }
@@ -12241,6 +12277,21 @@ body.page-template-page-contact {
 
   to {
     opacity: 1;
+   
+    
+  }
+}
+
+
+@keyframes stickymove {
+  from {
+    transform: translateX(300px);
+ 		
+ 		
+  }
+
+  to {
+    transform: translateX(0px);
    
     
   }

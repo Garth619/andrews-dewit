@@ -270,4 +270,4 @@
         <!-- header ends  -->
         
 <div id="main">
-	<div id="sticky"><a href="<?php echo site_url(); ?>/contact/" id="sticky-link">Start Your Free Case Evaluation</a></div>
+	
