@@ -167,7 +167,7 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      
      var pagecontent = $('#main')
  
-     waypoint(pagecontent, '250px')
+     waypoint(pagecontent, '350px')
      
      
      var aboutimage = $('.page-template-page-about #section2')
@@ -181,7 +181,16 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      
      
      
-    
+     var footermain = $('#footer-main')
+ 
+     waypoint(footermain, '680px')
+     
+     
+   
+     
+     
+     
+   
  	 
 
 

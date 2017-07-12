@@ -5,16 +5,16 @@
 		<div id="footer-side" class="hidden-sm hidden-xs">
 			<div id="footer-social">
 				<ul>
-					<?php if( get_field('facebook_url', 'options') ): ?>
+					
 						<li class="socicon-facebook">
-							<a href="<?php the_field('facebook_url', 'options');?>" target="_blank" class="social-facebook socicon-facebook"></a>
+							<a href="<?php the_field('facebook_url', 'option');?>" target="_blank" class="social-facebook socicon-facebook"></a>
 						</li>
-					<?php endif; ?>
-					<?php if( get_field('google_plus_url', 'options') ): ?>
+					
+					
 						<li class="socicon-google">
-							<a href="<?php the_field('google_plus_url', 'options');?>" target="_blank" class="social-google socicon-google"></a>
+							<a href="<?php the_field('google_plus_url', 'option');?>" target="_blank" class="social-google socicon-google"></a>
 						</li>
-					<?php endif; ?>
+					
 				</ul>
 			</div>
 		</div>
@@ -32,7 +32,7 @@
 			</div>
 			<div id="footer-form-fields">
 				<div id="footer-form-required">Information required *</div>
-				<?php // echo do_shortcode('[gravityform id="1" name="Request Free Consultation" title="false" description="false"]'); ?>
+				
 				<?php gravity_form(1, false, false, false, '', true, 12); ?>
 			</div>
 		</div>
@@ -204,6 +204,17 @@
 </footer>
 
 </div>
+
+
+<div id="sticky">
+	
+	<a id="sticky-link" href="#colophon">
+		Start Your Free Evaluation
+	</a><!-- sticky-link -->
+	
+	
+</div><!-- sticky -->
+
 
 <?php wp_footer(); ?>
 <?php the_field( 'footer_tags','option'); ?>
