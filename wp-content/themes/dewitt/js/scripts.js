@@ -274,7 +274,31 @@ $('#section1-selling-points').on('init', function(event, slick){
 			fade:true,
 		  cssEase: 'linear',
 		  prevArrow:'.new_back_wrapper',
-		  nextArrow:'.new_next_wrapper'
+		  nextArrow:'.new_next_wrapper',
+		  
+		  
+		  
+		  responsive: [
+    
+    
+    {
+      breakpoint: 1099,
+      settings: {
+        dots: false,
+				infinite: true,
+				speed: 500,
+				fade:true,
+				cssEase: 'linear',
+				prevArrow:'.new_back_wrapper',
+				nextArrow:'.new_next_wrapper',
+				adaptiveHeight: true
+      }
+    }
+    
+  ]
+		  
+		  
+		  
 		});
 		
 		
