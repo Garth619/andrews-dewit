@@ -45,6 +45,38 @@
  jQuery(document).ready(function () {
 	 
 	 
+	
+	
+	// Mobile Menu
+	
+	
+	$('#mobile-toggle').click(function(){
+		
+		$('.new_mobile').addClass('new_open');
+		
+		
+	});
+	
+	
+	$('.mynew_close').click(function(){
+		
+		$('.new_mobile').removeClass('new_open');
+		
+		
+	});
+	
+	
+	$('.new_mobile li.menu-item-has-children').click(function(){
+		
+		$(this).toggleClass('new_open');
+		
+		
+	});
+
+
+	
+	
+	
 	$('body.page-template-page-home .top_line').each(function (index) {
     var characters = $(this).text().split("");
     
@@ -346,6 +378,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 
 	 
 	 
+/*
 	 
 	$("#mobile-nav li.menu-item-has-children > a").append("<span></span>");
 	$("#mobile-nav li.menu-item-has-children > a").click(function(e) {
@@ -356,6 +389,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 			$(this).parent().addClass("open");
 		}
 	});
+*/
 	
 	
 	
