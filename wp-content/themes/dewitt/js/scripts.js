@@ -52,15 +52,14 @@
 	
 	$('#mobile-toggle').click(function(){
 		
-		$('.new_mobile').slideDown(200);
-		
+		$('.new_mobile').addClass('new_open');		
 		
 	});
 	
 	
 	$('.mynew_close').click(function(){
 		
-		$('.new_mobile').slideUp(200);
+		$('.new_mobile').removeClass('new_open');
 		
 		
 	});
@@ -69,6 +68,7 @@
 	$('.new_mobile li.menu-item-has-children').click(function(){
 		
 		$(this).toggleClass('new_open');
+		
 		
 		
 	});

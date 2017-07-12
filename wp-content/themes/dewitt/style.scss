@@ -12011,26 +12011,26 @@ body.page-template-page-contact {
 // New Mobile Menu
 
 .new_mobile.new_open {
-/*
+
 	opacity: 1;
 	visibility: visible;
-*/
+	height:100%;
 }
 
 .new_mobile {
 	background:#15182b;
 	width:100%;
-	height:100%;
+	
 	position: fixed;
 	top:0;
 	left:0;
 	z-index:200000;
 	overflow-y: scroll;
-/*
+
 	opacity: 0;
 	visibility: hidden;
-*/
-display: none;
+	height:0;
+
 	transition: all .3s ease-in-out;
 	.inner_new_mobile {
 		text-align: center;
@@ -12042,22 +12042,58 @@ display: none;
 			position: fixed;
 			top:25px;
 			right:25px;
-			
+			cursor: pointer;
 		}
 		ul.nav {
 			li.menu-item-has-children.new_open {
-				a {
-// 					margin-bottom:25px;
+				> a {
+					text-decoration: none;
+						&:after {
+						
+							background:url(images/new_gold_arrow.png);
+							
+						}
 				}
-				ul.sub-menu {
+				
+				a {
+					color:#b57d54;
+					text-decoration: none;
+				}
+				> ul.sub-menu {
 					max-height:3000px;
 					opacity: 1;
 					visibility: visible;
 					margin-top:25px;
+					> li {
+						> a {
+							color:#b57d54;
+							text-decoration: none;
+						}
+					}
 				}
 			}
 			li.menu-item-has-children {
+				> a:hover {
+					text-decoration: none;
+						&:after {
+						
+							background:url(images/new_gold_arrow.png);
+							
+						}
+				}
+				> a {
+					text-decoration: none;
+					&:after {
+						content:"";
+						width:12px;
+						height:7px;
+						background:url(images/new_white_arrow.png);
+						display: inline-block;
+						margin-left:4px;
+					}
+				}
 				a {
+					text-decoration: none;
 // 					margin-bottom: 12px;
 				}
 				ul.sub-menu {
@@ -12073,6 +12109,7 @@ display: none;
 				display: block;
 				margin-bottom: 25px;
 				a {
+					text-decoration: none;
 					color:#fff;
 					text-transform: uppercase;
 					font-size:13px;
