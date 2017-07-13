@@ -8,7 +8,7 @@ get_header(); ?>
 	
 	
 	<span class="new_line"></span><!-- new_line -->
-	<h1 class="new_titles">Practice<br/>Areas</h1>
+	<h1 class="new_titles">Practice <span>Areas</span></h1>
 	
 	
 	

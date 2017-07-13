@@ -9,7 +9,7 @@ get_header(); ?>
 	
 	
 	<span class="new_line"></span><!-- new_line -->
-	<h1 class="new_titles">Attorney <span>Name</span></h1>
+	<h1 class="new_titles"><?php the_field( 'name' ); ?> <span><?php the_field( 'last_name' ); ?></span></h1>
 	
 	
 	

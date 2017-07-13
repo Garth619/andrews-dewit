@@ -2935,7 +2935,7 @@ body.page-template-page-contact #footer-form-content { min-height: 960px; }
 
 .new_header_wrapper h1.new_titles { color: #2970e2; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; float: left; width: auto !important; padding-left: 40px !important; line-height: 83px; margin: 0 !important; }
 
-.new_header_wrapper h1.new_titles span { display: block; margin-left: 75px; }
+.new_header_wrapper h1.new_titles span { display: block; margin-left: 90px; }
 
 body.page-template-page-about .new_header_wrapper { margin-bottom: 45px; }
 
@@ -2945,14 +2945,15 @@ body.page-template-page-case-results .new_header_wrapper { margin-bottom: 35px; 
 
 @media screen and (max-width: 1099px) { .new_header_wrapper { margin: 68px 0; }
   .new_header_wrapper span.new_line { width: 8%; top: 35px; }
-  .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; padding-left: 18px !important; }
+  .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; padding-left: 18px !important; max-width: 710px; }
   .new_header_wrapper h1.new_titles span { display: inline; margin-left: 0px; }
   body.page-template-page-about .new_header_wrapper span.new_line { width: 8%; }
   body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 18px !important; }
   body.page-template-page-attorney .new_header_wrapper { margin-bottom: 65px; }
+  body.page-template-page-attorney .new_header_wrapper h1.new_titles { max-width: 710px; }
   body.page-template-page-attorneys .new_header_wrapper { margin-bottom: 65px; }
-  body.page-template-page-attorneys .new_header_wrapper h1.new_titles span { display: block; }
-  body.page-template-page-case-results .new_header_wrapper h1.new_titles span { display: block; } }
+  body.page-template-page-attorneys .new_header_wrapper h1.new_titles { /* span { display: block; } */ }
+  body.page-template-page-case-results .new_header_wrapper h1.new_titles { /* span { display: block; } */ } }
 
 /* Media Query */
 @media screen and (max-width: 767px) { .new_header_wrapper { margin: 44px 0px; }
@@ -2966,6 +2967,10 @@ body.page-template-page-case-results .new_header_wrapper { margin-bottom: 35px; 
   .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; }
   body.page-template-page-attorney .new_header_wrapper { margin-bottom: 0px; }
   body.page-template-page-case-results .new_header_wrapper { margin-bottom: 0px; } }
+
+/* Media Query */
+@media screen and (max-width: 555px) { .new_header_wrapper h1.new_titles { max-width: 300px; }
+  body.page-template-page-attorney .new_header_wrapper h1.new_titles { max-width: 300px; } }
 
 /* Media Query */
 body.page-template-default #page-content { margin-top: 65px; }
