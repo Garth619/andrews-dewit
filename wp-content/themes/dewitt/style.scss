@@ -3931,7 +3931,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 	
 	
 	#main #page-content {
-// 		padding-top:65px;
+padding: 0px 0% 105px;
 	}
 	
 	
@@ -9423,7 +9423,7 @@ display: none;
 .page-template-page-attorney-php #primary {
 	width: 45%;
 	float: left;
-	padding: 0 25px;
+	padding: 0 30px;
 }
 .page-template-page-attorney-php #page-content #page-title {
 	border-bottom: 0px;
@@ -9897,7 +9897,7 @@ opacity: 0;
 	display: block;
 	text-align: left;
 	font-size:16px;
-	padding-left:40px;
+	padding-left:0px;
 	span {
 		display: block;
 		margin:0 0 15px;
@@ -10317,7 +10317,7 @@ opacity: 0;
 	
 	
 	
-	.page-template-page-case-results .case-result {
+	.page-template-page-case-results #page-content  .case-result {
 		width:50%;
 		padding:40px 0;
 		// height:930px !important; // Comment out for match height but its not liking padding
@@ -10327,11 +10327,19 @@ opacity: 0;
 		&:nth-of-type(4n + 4) {
 			background:#efefef;
 		}
+		&:nth-of-type(2n + 2) {
+			border:none;
+			.case-result-content { 
+				border:none;
+			}
+			
+		}
 	}
 	
 	.page-template-page-case-results #page-content .case-result .case-result-content {
 		
 		border-right:1px solid #e0e0e0;
+		
 	}
 	
 
@@ -10402,14 +10410,30 @@ opacity: 0;
 	background: none !important;
 	padding: 0px 0%;
 }
-.page-template-page-case-results .case-result {
+.page-template-page-case-results #page-content .case-result {
 	float: none;
 	margin: 0 auto 20px;
 	display: block;
-	clear: both;
+	background: none;
 	width: 100%;
 	border-bottom: 1px solid #e0e0e0;
+	&:nth-of-type(4n + 4) {
+		background: none;
+		
+	}
+	&:nth-of-type(3n + 3) {
+		background: none;
+		
+	}
 }
+
+
+
+
+.page-template-page-case-results #page-content .case-result:nth-of-type(2n+2) {
+	border-bottom: 1px solid #e0e0e0;
+}
+
 .page-template-page-case-results .case-results-row:last-child .case-result:last-child {
 	border-bottom: 0px;
 }
@@ -12538,7 +12562,7 @@ body.page-template-page-contact {
 
  body.page-template-page-attorney {
 	 .new_header_wrapper {
-	 		margin-bottom: 65px;
+	 		margin-bottom: 0px;
 	 		span.new_line{
 				top:-58px;
 			}
