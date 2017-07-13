@@ -10882,10 +10882,10 @@
 		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro\/wp-migrate-db-pro.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/dewitt-old.zip": {
+	"\/wp-content\/themes\/dewitt-new.zip": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/dewitt-old.zip",
+		"oAP": "\/wp-content\/themes\/dewitt-new.zip",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/dewitt\/archive.php": {
@@ -13351,6 +13351,12 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/wp-content\/uploads\/gravity_forms\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/gravity_forms\/.htaccess",
+		"oF": 0
 		},
 	"\/wp-content\/uploads\/gravity_forms\/1-16f36c13149aa9396f70bf7fece351c9\/index.html": {
 		"ft": 8192,

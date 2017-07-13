@@ -183,7 +183,7 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      
      var footermain = $('#footer-main')
  
-     waypoint(footermain, '680px')
+     waypoint(footermain, '750px')
      
      
    
