@@ -9389,7 +9389,7 @@ display: none;
 	padding: 95px 4% 105px;
 	position: relative;
 	background: #efefef;
-	margin-top: 244px;
+	margin-top: -33px;
 }
 .page-template-page-attorney-php #secondary:before {
 /*
@@ -9421,7 +9421,7 @@ display: none;
 
 
 .page-template-page-attorney-php #primary {
-	width: 48%;
+	width: 45%;
 	float: left;
 	padding: 0 25px;
 }
@@ -9707,7 +9707,7 @@ opacity: 0;
 
 
 
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1550px) {
 	
 	
 	
@@ -9909,11 +9909,13 @@ opacity: 0;
 .page-template-page-attorney-php #attorney-image-mobile {
 	float:none;
 	margin-bottom:30px;
+	margin-right:0;
+	
 	img {
 		margin-left:auto;
 	margin-right:auto;
 	display: block;
-	max-width:320px;
+	max-width:400px;
 	width:100%;
 	}
 	
@@ -12349,7 +12351,7 @@ body.page-template-page-contact {
 // New Headers
 
 .new_header_wrapper {
-	margin: 115px 0 130px;
+	margin: 105px 0 130px;
 	span.new_line{
 		content:"";
 		display: inline-block;
@@ -12400,16 +12402,18 @@ body.page-template-page-contact {
 
 @media screen and (max-width: 1099px) {
 	
-	.new_header_wrapper {
-	 margin: 68px 0;
 
-	span.new_line{
-		
+
+.new_header_wrapper {
+	 margin: 68px 0;
+	 span.new_line{
+		width:8%;
 	}
 
 	h1.new_titles {
 		font-size:69px;
 		line-height: 67px;
+		padding-left:18px !important;
 	}
 
 
@@ -12450,11 +12454,12 @@ body.page-template-page-contact {
 	margin:44px 0px;
 		span.new_line{
 			top:-15px;
+			width:20px;
 		}
 
 		h1.new_titles {
 			font-size:45px;
-			padding-left:20px;
+			padding-left:5px !important;
 		}
 
 	}

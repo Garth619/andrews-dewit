@@ -4,6 +4,17 @@ Template Name: Attorney
 */
 get_header(); ?>
 
+
+<div class="new_header_wrapper">
+	
+	
+	<span class="new_line"></span><!-- new_line -->
+	<h1 class="new_titles">Contact Us</h1>
+	
+	
+	
+</div><!-- new_header_wrapper -->
+
 <section id="page-content">
 	<div class="container">
         <div id="primary">

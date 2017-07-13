@@ -4,10 +4,6 @@ Template Name: Practice Areas
 */
 get_header(); ?>
 
-<section id="page-content">
-	
-	
-	
 <div class="new_header_wrapper">
 	
 	
@@ -17,6 +13,12 @@ get_header(); ?>
 	
 	
 </div><!-- new_header_wrapper -->
+
+<section id="page-content">
+	
+	
+	
+
 	
 	
 	<div class="container">
