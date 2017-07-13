@@ -876,6 +876,8 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
 
 #footer-contact-info .footer-number span { font-weight: 300; font-size: 16px; letter-spacing: 0.8px; }
 
+#footer-contact-info .footer-number span a { color: #fff; text-decoration: none; }
+
 #footer-location h2 { float: left; width: 36%; color: #FFF; text-transform: lowercase; font-size: 40px; font-weight: 400; margin: 0; position: relative; padding: 45px 0 0 0; transition: opacity 1.5s cubic-bezier(0.47, 0, 0.745, 0.715); }
 
 #footer-location h2:before { content: ''; width: 52px; height: 52px; background: url(images/footer_2.svg) 0px 0px no-repeat; background-size: 52px auto; position: absolute; top: -10px; left: 0px; opacity: 0; }
@@ -2730,6 +2732,8 @@ body.page-template-page-about #section2 { width: 100%; }
 .page-template-page-contact #contact-phone .contact-number label { width: 50%; max-width: 90px; font-size: 13px; color: #b57d54; letter-spacing: 1.5px; }
 
 .page-template-page-contact #contact-phone .contact-number span { font-weight: 400; font-size: 16px; letter-spacing: 0.8px; color: #15182b; }
+
+.page-template-page-contact #contact-phone .contact-number span a { color: #15182b; }
 
 .page-template-page-contact #contact-location h2 { float: left; width: 36%; color: #15182b; text-transform: lowercase; font-size: 40px; font-weight: 400; margin: 55px 0 0 0; padding: 65px 0 0 0; background: url(images/footer_2.svg) 0px 0px no-repeat; background-size: 52px auto; opacity: 0; }
 

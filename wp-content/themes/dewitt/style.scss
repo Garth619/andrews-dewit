@@ -3436,6 +3436,10 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	font-weight: 300;
 	font-size: 16px;
 	letter-spacing: 0.8px;
+	a {
+		color:#fff;
+		text-decoration: none;
+	}
 }
 #footer-location h2 {
 	float: left;
@@ -11631,6 +11635,9 @@ body.page-template-page-about {
 	font-size: 16px;
 	letter-spacing: 0.8px;
 	color: #15182b;
+	a {
+		color:#15182b;
+	}
 }
 .page-template-page-contact #contact-location {
 }
