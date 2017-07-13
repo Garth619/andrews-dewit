@@ -2933,7 +2933,7 @@ body.page-template-page-contact #footer-form-content { min-height: 960px; }
 
 .new_header_wrapper span.new_line { content: ""; float: left; width: 10%; height: 1px; background: red; position: relative; background: #b57d54; top: 45px; left: 0; z-index: 0; vertical-align: top; }
 
-.new_header_wrapper h1.new_titles { color: #e1e1e1; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; float: left; width: auto !important; padding-left: 40px !important; line-height: 83px; margin: 0 !important; }
+.new_header_wrapper h1.new_titles { color: #2970e2; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; float: left; width: auto !important; padding-left: 40px !important; line-height: 83px; margin: 0 !important; }
 
 .new_header_wrapper h1.new_titles span { display: block; margin-left: 75px; }
 
@@ -2966,6 +2966,14 @@ body.page-template-page-case-results .new_header_wrapper { margin-bottom: 35px; 
   .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; }
   body.page-template-page-attorney .new_header_wrapper { margin-bottom: 0px; }
   body.page-template-page-case-results .new_header_wrapper { margin-bottom: 0px; } }
+
+/* Media Query */
+body.page-template-default #page-content { margin-top: 65px; }
+
+@media screen and (max-width: 1099px) { body.page-template-default #page-content { margin-top: 50px; } }
+
+/* Media Query */
+@media screen and (max-width: 767px) { body.page-template-default #page-content { margin-top: 40px; } }
 
 /* Media Query */
 /*# sourceMappingURL=style.css.map */

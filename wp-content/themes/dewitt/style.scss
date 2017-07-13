@@ -12435,7 +12435,7 @@ body.page-template-page-contact {
 	}
 
 	h1.new_titles {
-		color:#e1e1e1;
+		color:#2970e2;
 		font-size:85px;
 		text-transform: uppercase;
 		position: relative;
@@ -12701,6 +12701,41 @@ body.page-template-page-contact {
 	
 } /* Media Query */
 
+
+
+body.page-template-default {
+	#page-content {
+		margin-top:65px;
+	}
+}
+
+
+
+@media screen and (max-width: 1099px) {
+	
+	
+	body.page-template-default {
+	#page-content {
+		margin-top:50px;
+	}
+}
+	
+	
+} /* Media Query */
+
+
+
+@media screen and (max-width: 767px) {
+	
+	
+	body.page-template-default {
+	#page-content {
+		margin-top:40px;
+	}
+}
+	
+	
+} /* Media Query */
 
 
 

@@ -8,7 +8,7 @@ get_header(); ?>
 <div id="primary">
     
     
-<!--     <h1 id="page-title"><?php the_title(); ?></h1> -->
+<h1 id="page-title"><?php the_title(); ?></h1>
     
     
     
