@@ -9,7 +9,7 @@ get_header(); ?>
 	
 	
 	<span class="new_line"></span><!-- new_line -->
-	<h1 class="new_titles">About Us</h1>
+	<h1 class="new_titles">About<br/>Us</h1>
 	
 	
 	

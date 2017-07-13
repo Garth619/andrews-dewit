@@ -4,6 +4,16 @@ Template Name: Case Results
 */
 get_header(); ?>
 
+<div class="new_header_wrapper">
+	
+	
+	<span class="new_line"></span><!-- new_line -->
+	<h1 class="new_titles">Verdicts &<br/>Settlements</h1>
+	
+	
+	
+</div><!-- new_header_wrapper -->
+
 <section id="page-content">
     <?php wp_reset_query(); if (have_posts()) : while (have_posts()) : the_post(); ?>
     
