@@ -2235,7 +2235,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
 
 .page-template-page-attorney #page-content #page-title:before { content: ''; width: 400px; height: 1px; background: #d3b198; position: absolute; left: -310px; top: 40px; }
 
-.page-template-page-attorney-php #page-content #attorney-contact { margin: 0 0 45px; font-size: 14px; color: #15182b; font-weight: 700; padding: 0 0 30px; border-bottom: 4px solid #f1f1f1; letter-spacing: 1.2px; text-transform: uppercase; float: left; width: 100%; text-align: center; display: -webkit-box; display: -ms-flexbox; display: flex; }
+.page-template-page-attorney-php #page-content #attorney-contact { margin: 0 0 65px; font-size: 14px; color: #15182b; font-weight: 700; padding: 0 0 47px; border-bottom: 4px solid #f1f1f1; letter-spacing: 1.2px; text-transform: uppercase; float: left; width: 100%; text-align: center; display: -webkit-box; display: -ms-flexbox; display: flex; }
 
 .page-template-page-attorney-php #page-content #attorney-contact span { padding: 0 4%; margin: 0 0 0 -4px; border-right: 2px solid #d1d0d0; line-height: 1; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }
 
@@ -2311,7 +2311,8 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .page-template-page-attorney-php #attorney-image-mobile { display: block; margin: 12px 25px 20px 0; float: left; }
   .page-template-page-attorney-php #attorney-image-mobile img { max-width: 250px; } }
 
-@media screen and (max-width: 1550px) and (max-width: 1099px) { .page-template-page-attorney-php #attorney-image-mobile { margin-top: 9px; } }
+@media screen and (max-width: 1550px) and (max-width: 1099px) { .page-template-page-attorney-php #attorney-image-mobile { margin-top: 9px; }
+  .page-template-page-attorney-php #page-content #attorney-contact { margin: 0 0 55px; padding-bottom: 25px; } }
 
 @media screen and (max-width: 1550px) { /* Media Query */
   #secondary #attorney-image { display: none !important; }
@@ -2921,21 +2922,29 @@ body.page-template-page-contact #footer-form-content { min-height: 960px; }
 
 body.page-template-page-about .new_header_wrapper { margin-bottom: 45px; }
 
+body.page-template-page-attorney .new_header_wrapper { margin-bottom: 115px; }
+
+body.page-template-page-attorney .new_header_wrapper span.new_line { top: -110px; }
+
 @media screen and (max-width: 1099px) { .new_header_wrapper { margin: 68px 0; }
   .new_header_wrapper span.new_line { width: 8%; }
   .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; padding-left: 18px !important; }
   body.page-template-page-about .new_header_wrapper span.new_line { width: 8%; }
-  body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 18px !important; } }
+  body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 18px !important; }
+  body.page-template-page-attorney .new_header_wrapper { margin-bottom: 65px; }
+  body.page-template-page-attorney .new_header_wrapper span.new_line { top: -90px; } }
 
 /* Media Query */
 @media screen and (max-width: 767px) { .new_header_wrapper { margin: 44px 0px; }
   .new_header_wrapper span.new_line { top: -15px; width: 20px; }
-  .new_header_wrapper h1.new_titles { font-size: 45px; padding-left: 5px !important; }
+  .new_header_wrapper h1.new_titles { font-size: 45px; padding-left: 5px !important; line-height: 44px; }
   body.page-template-page-about .new_header_wrapper { margin-bottom: 0px; }
   body.page-template-page-about .new_header_wrapper span.new_line { width: 20px; }
   body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 5px !important; }
   .page-template-page-about #section1 { padding-left: 25px; padding-right: 25px; }
-  .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; } }
+  .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; }
+  body.page-template-page-attorney .new_header_wrapper { margin-bottom: 65px; }
+  body.page-template-page-attorney .new_header_wrapper span.new_line { top: -58px; } }
 
 /* Media Query */
 /*# sourceMappingURL=style.css.map */
