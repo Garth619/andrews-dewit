@@ -2451,7 +2451,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .page-template-page-case-results .case-result-content { border-right: 0px; max-width: 400px; width: 100%; margin: 0 auto; float: none; padding: 60px 25px; } }
 
 /* ===== ABOUT ===== */
-.page-template-page-about #section1 { padding: 120px 12% 200px; height: auto; }
+.page-template-page-about #section1 { padding: 0px 12% 200px; height: auto; }
 
 .page-template-page-about #section1 .content-text { float: left; width: 52%; margin: 0 0% 0 0; }
 
@@ -2465,7 +2465,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
 
 .about_content_right { width: 48%; float: right; }
 
-.about_video_wrapper { padding-left: 7%; margin-top: 47px; float: right; }
+.about_video_wrapper { padding-left: 7%; margin-top: -125px; float: right; }
 
 .about_video_wrapper .video_title { font-size: 12px; letter-spacing: 3.5px; font-weight: 800; color: #b57d54; text-transform: uppercase; margin-bottom: 29px; opacity: 0; }
 
@@ -2912,17 +2912,19 @@ body.page-template-page-contact #footer-form-content { min-height: 960px; }
 @media (max-width: 767px) { #sticky { display: none !important; }
   /* .page-template-page-contact #main #page-content { padding: 50px 0 0; } */ }
 
-.new_header_wrapper { margin: 105px 0 95px; }
+.new_header_wrapper { margin: 62px 0 95px; }
 
 .new_header_wrapper span.new_line { content: ""; display: inline-block; width: 9%; height: 1px; background: red; position: relative; background: #b57d54; top: -23px; left: 0; z-index: 0; }
 
 .new_header_wrapper h1.new_titles { color: #e1e1e1; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; display: inline-block; width: auto !important; padding-left: 40px !important; line-height: 83px; }
 
-@media screen and (max-width: 1099px) { .new_header_wrapper { margin: 65px 0px; }
+body.page-template-page-about .new_header_wrapper { margin: 62px 0 15px; }
+
+@media screen and (max-width: 1099px) { .new_header_wrapper { margin: 27px 0px; }
   .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; } }
 
 /* Media Query */
-@media screen and (max-width: 767px) { .new_header_wrapper { margin: 45px 0px; }
+@media screen and (max-width: 767px) { .new_header_wrapper { margin: 13px 0px; }
   .new_header_wrapper span.new_line { top: -15px; }
   .new_header_wrapper h1.new_titles { font-size: 45px; padding-left: 20px; } }
 
