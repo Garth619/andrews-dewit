@@ -9,7 +9,7 @@ get_header(); ?>
 	
 	
 	<span class="new_line"></span><!-- new_line -->
-	<h1 class="new_titles">Attorney<br/>Name</h1>
+	<h1 class="new_titles">Attorney <span>Name</span></h1>
 	
 	
 	

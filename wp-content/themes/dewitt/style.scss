@@ -12446,6 +12446,10 @@ body.page-template-page-contact {
 		padding-left:40px !important;
 		line-height:83px;
 		margin:0 !important;
+		span {
+			display: block;
+			margin-left:75px;
+		}
 	}
 }
 
@@ -12516,6 +12520,10 @@ body.page-template-page-contact {
 		font-size:69px;
 		line-height: 67px;
 		padding-left:18px !important;
+		span {
+			display: inline;
+			margin-left:0px;
+		}
 	}
 
 
@@ -12554,12 +12562,48 @@ body.page-template-page-contact {
 			}
 
 			h1.new_titles {
+				
 			}
 		}
  }
  
  
+ //Meet Attorneys
+
+
+ body.page-template-page-attorneys {
+	 .new_header_wrapper {
+	 		margin-bottom: 65px;
+	 		span.new_line{
+				
+			}
+
+			h1.new_titles {
+				span {
+					display: block;
+				}
+			}
+		}
+ }
  
+ 
+ //Case Results
+
+
+ body.page-template-page-case-results {
+	 .new_header_wrapper {
+	 		
+	 		span.new_line{
+				
+			}
+
+			h1.new_titles {
+				span {
+					display: block;
+				}
+			}
+		}
+ }
 
 	
 	
@@ -12580,6 +12624,9 @@ body.page-template-page-contact {
 			font-size:45px;
 			padding-left:5px !important;
 			line-height:44px;
+			span {
+				display: block;
+			}
 		}
 
 	}
@@ -12644,6 +12691,7 @@ body.page-template-page-contact {
 			}
 
 			h1.new_titles {
+				
 			}
 		}
  }
