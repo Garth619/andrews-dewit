@@ -2564,9 +2564,10 @@ body.page-template-page-about #section2 { width: 100%; }
 @keyframes about_linetwo_width { from { width: 0; }
   to { width: 250px; } }
 
-@media screen and (max-width: 1375px) { .page-template-page-about #section1 .content-text { width: 100%; }
+@media screen and (max-width: 1375px) { .page-template-page-about #section1 { padding-bottom: 120px; }
+  .page-template-page-about #section1 .content-text { width: 100%; }
   .about_content_right { width: 100%; text-align: center; }
-  .about_video_wrapper { float: none; max-width: 590px; display: inline-block; } }
+  .about_video_wrapper { float: none; max-width: 590px; display: inline-block; margin-top: 70px; } }
 
 /* Media Query */
 @media screen and (max-width: 1099px) { #main.visible .about_video_wrapper .video_title { -webkit-animation-name: none; animation-name: none; }
@@ -2619,7 +2620,7 @@ body.page-template-page-about #section2 { width: 100%; }
 
 @media (max-width: 1499px) { .page-template-page-about #section2 .content-text h2 { font-size: 45px; } }
 
-@media (max-width: 1099px) { .page-template-page-about #section1 { height: auto; padding: 90px 10% 60px; }
+@media (max-width: 1099px) { .page-template-page-about #section1 { height: auto; padding: 0px 10% 60px; }
   .page-template-page-about #page-title { font-size: 60px; line-height: 68px; margin: 0 0 60px; }
   .page-template-page-about #page-title:before { top: 30px; }
   .page-template-page-about #section1 .content-text p { font-size: 17px; line-height: 32px; }
@@ -2643,7 +2644,7 @@ body.page-template-page-about #section2 { width: 100%; }
 @media screen and (max-width: 855px) { .page-template-page-about #section2 .content-text h2 span { margin-left: -100px; } }
 
 /* Media Query */
-@media (max-width: 767px) { .page-template-page-about #section1 { padding: 60px 5% 60px; }
+@media (max-width: 767px) { .page-template-page-about #section1 { padding: 0px 5% 60px; }
   .page-template-page-about #section1 .content-text { width: 100%; margin: 0; }
   .page-template-page-about #page-title { font-size: 50px; margin: 0 0 40px; }
   .page-template-page-about #section2 .content-text h2 { font-size: 36px; line-height: 42px; }
@@ -2912,21 +2913,28 @@ body.page-template-page-contact #footer-form-content { min-height: 960px; }
 @media (max-width: 767px) { #sticky { display: none !important; }
   /* .page-template-page-contact #main #page-content { padding: 50px 0 0; } */ }
 
-.new_header_wrapper { margin: 62px 0 95px; }
+.new_header_wrapper { margin: 115px 0 130px; }
 
-.new_header_wrapper span.new_line { content: ""; display: inline-block; width: 9%; height: 1px; background: red; position: relative; background: #b57d54; top: -23px; left: 0; z-index: 0; }
+.new_header_wrapper span.new_line { content: ""; display: inline-block; width: 10%; height: 1px; background: red; position: relative; background: #b57d54; top: -23px; left: 0; z-index: 0; }
 
-.new_header_wrapper h1.new_titles { color: #e1e1e1; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; display: inline-block; width: auto !important; padding-left: 40px !important; line-height: 83px; }
+.new_header_wrapper h1.new_titles { color: #e1e1e1; font-size: 85px; text-transform: uppercase; position: relative; background: #fff; z-index: 3; display: inline-block; width: auto !important; padding-left: 40px !important; line-height: 83px; margin: 0 !important; }
 
-body.page-template-page-about .new_header_wrapper { margin: 62px 0 15px; }
+body.page-template-page-about .new_header_wrapper { margin-bottom: 45px; }
 
-@media screen and (max-width: 1099px) { .new_header_wrapper { margin: 27px 0px; }
-  .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; } }
+@media screen and (max-width: 1099px) { .new_header_wrapper { margin: 68px 0; }
+  .new_header_wrapper h1.new_titles { font-size: 69px; line-height: 67px; }
+  body.page-template-page-about .new_header_wrapper span.new_line { width: 8%; }
+  body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 18px !important; } }
 
 /* Media Query */
-@media screen and (max-width: 767px) { .new_header_wrapper { margin: 13px 0px; }
+@media screen and (max-width: 767px) { .new_header_wrapper { margin: 44px 0px; }
   .new_header_wrapper span.new_line { top: -15px; }
-  .new_header_wrapper h1.new_titles { font-size: 45px; padding-left: 20px; } }
+  .new_header_wrapper h1.new_titles { font-size: 45px; padding-left: 20px; }
+  body.page-template-page-about .new_header_wrapper { margin-bottom: 0px; }
+  body.page-template-page-about .new_header_wrapper span.new_line { width: 20px; }
+  body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 5px !important; }
+  .page-template-page-about #section1 { padding-left: 25px; padding-right: 25px; }
+  .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; } }
 
 /* Media Query */
 /*# sourceMappingURL=style.css.map */
