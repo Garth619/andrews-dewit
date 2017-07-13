@@ -70,12 +70,12 @@
 			    <div id="footer-location-info">
 			    	<?php if( get_field('address_1', 'options') ): ?>
 						<div class="footer-location">
-							<?php the_field('address_1', 'options');?>
+							<a href="https://www.google.com/maps/place/25+E+Union+St,+Pasadena,+CA+91103/data=!4m2!3m1!1s0x80c2c3719b3bf7a3:0xb31f953b63ef9837?sa=X&ved=0ahUKEwj6v8G25IbVAhXjz1QKHTOmBY8Q8gEIJzAA" target="_blank"><?php the_field('address_1', 'options');?></a>
 						</div>
 			   		<?php endif; ?>
 			   		<?php if( get_field('address_2', 'options') ): ?>
 						<div class="footer-location">
-							<?php the_field('address_2', 'options');?>
+							<a href="https://www.google.com/maps/place/4220+Von+Karman+Ave+%23200,+Newport+Beach,+CA+92660/@33.6628633,-117.870504,15z/data=!4m5!3m4!1s0x80dcde5be8e37ed3:0x969dea48a0d163cf!8m2!3d33.6628633!4d-117.8617493" target="_blank"><?php the_field('address_2', 'options');?></a>
 						</div>
 			   		<?php endif; ?>
 			    </div>
@@ -103,7 +103,7 @@
     </section>
     <section id="footer-bottom">			
 	    <p>© <?php echo date("Y"); ?> by DeWitt Algorri & Algorri Lawyers, A Professional Corporation. All rights reserved. <a href="#">Disclaimer</a> <a href="#">Sitemap</a> <a href="#">Google +</a></p>
-	    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 2928.6 1999.9 142.7" enable-background="new 0 2928.6 1999.9 142.7" xml:space="preserve">
+	    <a href="//ilawyermarketing.com" target="_blank"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 2928.6 1999.9 142.7" enable-background="new 0 2928.6 1999.9 142.7" xml:space="preserve">
 			<title>sm_ilawyer</title>
 			<path d="M424.6,2928.6h7.3v7.8c0,5.7-3.1,8.6-9.1,8.6h-7.3v-7.8C415.5,2931.5,418.6,2928.6,424.6,2928.6z M415.5,2966.7
 				c0-5.7,3.1-8.6,9.1-8.6h7.3v82.4h-7.3c-6,0-9.1-2.9-9.1-8.6V2966.7L415.5,2966.7z"></path>
@@ -200,6 +200,7 @@
 			<path d="M324.3,2985.9c1.6,3.9,2.8,8,3.5,12.1h0.2c1-5.2,2.6-10.2,4.8-15l7.1-17.9h16.2l-21,45.4v33.6h-14.8v-33.6l-20.6-45.5h16.2
 				L324.3,2985.9z"></path>
 			</svg>
+	    </a>
 	</section>
 </footer>
 

@@ -5861,6 +5861,3538 @@
 		"oAP": "\/wp-content\/plugins\/bugherd\/wp-bugherd-view.php",
 		"oF": 0
 		},
+	"\/wp-content\/plugins\/gfmailgun\/gfmailgun.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/gfmailgun.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/autoload.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/autoload.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_classmap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_classmap.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_namespaces.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_namespaces.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_psr4.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_psr4.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_real.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/autoload_real.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/ClassLoader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/ClassLoader.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/installed.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/composer\/installed-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/.gitignore",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/.travis.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/.travis.yml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/build.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/build.xml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_downloads\/guzzle-schema-1.0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_downloads\/guzzle-schema-1.0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/guzzle-icon.png": {
+		"ft": 32768,
+		"iS": 803,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/guzzle-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/homepage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/homepage-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/logo.png": {
+		"ft": 32768,
+		"iS": 247678,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/prettify.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/prettify-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/prettify.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_static\/prettify-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/index.html",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/leftbar.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/leftbar.html",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/nav_links.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/_templates\/nav_links.html",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/batching\/batching.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/batching\/batching.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/conf.py": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/conf.py",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/docs.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/docs.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/faq.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/faq.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/installation.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/installation.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/overview.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/getting-started\/overview.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/client.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/client.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/entity-bodies.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/entity-bodies.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/http-redirects.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/http-redirects.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/request.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/request.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/response.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/response.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/uri-templates.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/http-client\/uri-templates.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/index.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/index.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/iterators\/guzzle-iterators.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/iterators\/guzzle-iterators.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/iterators\/resource-iterators.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/iterators\/resource-iterators.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/Makefile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/Makefile",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/async-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/async-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/backoff-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/backoff-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/cache-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/cache-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/cookie-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/cookie-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/creating-plugins.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/creating-plugins.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/curl-auth-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/curl-auth-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/history-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/history-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/log-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/log-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/md5-validator-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/md5-validator-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/mock-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/mock-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/oauth-plugin.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/oauth-plugin.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/plugins-list.rst.inc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/plugins-list.rst.inc",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/plugins-overview.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/plugins\/plugins-overview.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/requirements.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/requirements.txt",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/testing\/unit-testing.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/testing\/unit-testing.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/guzzle-service-descriptions.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/guzzle-service-descriptions.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/using-the-service-builder.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/using-the-service-builder.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/webservice-client.rst": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/docs\/webservice-client\/webservice-client.rst",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phar-stub.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phar-stub.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/build.properties.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/build.properties.dist",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/imports\/dependencies.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/imports\/dependencies.xml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/imports\/deploy.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/imports\/deploy.xml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/ComposerLintTask.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/ComposerLintTask.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/GuzzlePearPharPackageTask.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/GuzzlePearPharPackageTask.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/GuzzleSubSplitTask.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phing\/tasks\/GuzzleSubSplitTask.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phpunit.xml.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/AbstractBatchDecorator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/AbstractBatchDecorator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/Batch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/Batch.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchBuilder.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchBuilder.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchClosureDivisor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchClosureDivisor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchClosureTransfer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchClosureTransfer.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchCommandTransfer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchCommandTransfer.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchDivisorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchDivisorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchRequestTransfer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchRequestTransfer.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchSizeDivisor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchSizeDivisor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchTransferInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/BatchTransferInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/Exception\/BatchTransferException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/Exception\/BatchTransferException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/ExceptionBufferingBatch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/ExceptionBufferingBatch.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/FlushingBatch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/FlushingBatch.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/HistoryBatch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/HistoryBatch.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/NotifyingBatch.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Batch\/NotifyingBatch.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Cache",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/AbstractHasDispatcher.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/AbstractHasDispatcher.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Collection.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Collection.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Event.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Event.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/BadMethodCallException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/BadMethodCallException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/ExceptionCollection.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/ExceptionCollection.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/GuzzleException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/GuzzleException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/InvalidArgumentException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/InvalidArgumentException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/RuntimeException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/RuntimeException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/UnexpectedValueException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Exception\/UnexpectedValueException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/FromConfigInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/FromConfigInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/HasDispatcherInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/HasDispatcherInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/ToArrayInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/ToArrayInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Version.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Common\/Version.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/AbstractEntityBodyDecorator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/AbstractEntityBodyDecorator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/CachingEntityBody.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/CachingEntityBody.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Client.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Client.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/ClientInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/ClientInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlHandle.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlHandle.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMulti.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMulti.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMultiInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMultiInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMultiProxy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlMultiProxy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlVersion.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/CurlVersion.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/RequestMediator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Curl\/RequestMediator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/EntityBody.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/EntityBody.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/EntityBodyInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/EntityBodyInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/BadResponseException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/BadResponseException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/ClientErrorResponseException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/ClientErrorResponseException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/CouldNotRewindStreamException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/CouldNotRewindStreamException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/CurlException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/CurlException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/HttpException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/HttpException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/MultiTransferException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/MultiTransferException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/RequestException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/RequestException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/ServerErrorResponseException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/ServerErrorResponseException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/TooManyRedirectsException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Exception\/TooManyRedirectsException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/IoEmittingEntityBody.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/IoEmittingEntityBody.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/AbstractMessage.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/AbstractMessage.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/EntityEnclosingRequest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/EntityEnclosingRequest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/EntityEnclosingRequestInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/EntityEnclosingRequestInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/CacheControl.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/CacheControl.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderCollection.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderCollection.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderFactoryInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderFactoryInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/HeaderInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/Link.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Header\/Link.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/MessageInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/MessageInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/PostFile.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/PostFile.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/PostFileInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/PostFileInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Request.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Request.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestFactoryInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestFactoryInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/RequestInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Response.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Message\/Response.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Mimetypes.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Mimetypes.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/CommaAggregator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/CommaAggregator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/DuplicateAggregator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/DuplicateAggregator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/PhpAggregator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/PhpAggregator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/QueryAggregatorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryAggregator\/QueryAggregatorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryString.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/QueryString.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/ReadLimitEntityBody.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/ReadLimitEntityBody.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/RedirectPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/RedirectPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Resources\/cacert.pem": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Resources\/cacert.pem",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/StaticClient.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/StaticClient.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Url.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Http\/Url.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/Inflector.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/Inflector.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/InflectorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/InflectorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/MemoizingInflector.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/MemoizingInflector.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/PreComputedInflector.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Inflection\/PreComputedInflector.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/AppendIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/AppendIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/ChunkedIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/ChunkedIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/FilterIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/FilterIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/MapIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/MapIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/MethodProxyIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/MethodProxyIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Iterator\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Log",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Cookie\/CookieParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Cookie\/CookieParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Cookie\/CookieParserInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Cookie\/CookieParserInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/AbstractMessageParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/AbstractMessageParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/MessageParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/MessageParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/MessageParserInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/MessageParserInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/PeclHttpMessageParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Message\/PeclHttpMessageParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/ParserRegistry.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/ParserRegistry.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/PeclUriTemplate.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/PeclUriTemplate.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/UriTemplate.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/UriTemplate.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/UriTemplateInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/UriTemplate\/UriTemplateInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Url\/UrlParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Url\/UrlParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Url\/UrlParserInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Parser\/Url\/UrlParserInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Async\/AsyncPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Async\/AsyncPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Async\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Async\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/AbstractBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/AbstractBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/AbstractErrorCodeBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/AbstractErrorCodeBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffStrategyInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/BackoffStrategyInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/CallbackBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/CallbackBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ConstantBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ConstantBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/CurlBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/CurlBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ExponentialBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ExponentialBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/HttpBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/HttpBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/LinearBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/LinearBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ReasonPhraseBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/ReasonPhraseBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/TruncatedBackoffStrategy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Backoff\/TruncatedBackoffStrategy.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cache",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/Cookie.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/Cookie.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/ArrayCookieJar.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/ArrayCookieJar.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/CookieJarInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/CookieJarInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/FileCookieJar.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookieJar\/FileCookieJar.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookiePlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/CookiePlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/Exception\/InvalidCookieException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Cookie\/Exception\/InvalidCookieException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/CurlAuth\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/CurlAuth\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/CurlAuth\/CurlAuthPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/CurlAuth\/CurlAuthPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/ErrorResponseExceptionInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/ErrorResponseExceptionInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/ErrorResponsePlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/ErrorResponsePlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/Exception\/ErrorResponseException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/ErrorResponse\/Exception\/ErrorResponseException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/History\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/History\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/History\/HistoryPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/History\/HistoryPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Log",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/CommandContentMd5Plugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/CommandContentMd5Plugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/Md5ValidatorPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Md5\/Md5ValidatorPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Mock\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Mock\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Mock\/MockPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Mock\/MockPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Oauth\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Oauth\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Oauth\/OauthPlugin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Plugin\/Oauth\/OauthPlugin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/AbstractConfigLoader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/AbstractConfigLoader.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilder.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilder.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilderInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilderInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilderLoader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Builder\/ServiceBuilderLoader.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/CachingConfigLoader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/CachingConfigLoader.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Client.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Client.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/ClientInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/ClientInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/AbstractCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/AbstractCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ClosureCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ClosureCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/CommandInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/CommandInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/CreateResponseClassEvent.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/CreateResponseClassEvent.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/DefaultRequestSerializer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/DefaultRequestSerializer.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/DefaultResponseParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/DefaultResponseParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/AliasFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/AliasFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/CompositeFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/CompositeFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/ConcreteClassFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/ConcreteClassFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/FactoryInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/FactoryInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/MapFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/MapFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/ServiceDescriptionFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/Factory\/ServiceDescriptionFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/AbstractRequestVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/AbstractRequestVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/BodyVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/BodyVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/HeaderVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/HeaderVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/JsonVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/JsonVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/PostFieldVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/PostFieldVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/PostFileVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/PostFileVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/QueryVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/QueryVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/RequestVisitorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/RequestVisitorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/ResponseBodyVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/ResponseBodyVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/XmlVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Request\/XmlVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/AbstractResponseVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/AbstractResponseVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/BodyVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/BodyVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/HeaderVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/HeaderVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/JsonVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/JsonVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/ReasonPhraseVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/ReasonPhraseVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/ResponseVisitorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/ResponseVisitorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/StatusCodeVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/StatusCodeVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/XmlVisitor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/Response\/XmlVisitor.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/VisitorFlyweight.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/LocationVisitor\/VisitorFlyweight.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/OperationCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/OperationCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/OperationResponseParser.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/OperationResponseParser.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/RequestSerializerInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/RequestSerializerInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ResponseClassInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ResponseClassInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ResponseParserInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Command\/ResponseParserInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/ConfigLoaderInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/ConfigLoaderInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/Operation.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/Operation.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/OperationInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/OperationInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/Parameter.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/Parameter.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/SchemaFormatter.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/SchemaFormatter.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/SchemaValidator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/SchemaValidator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescription.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescription.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescriptionInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescriptionInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescriptionLoader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ServiceDescriptionLoader.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ValidatorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Description\/ValidatorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/CommandException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/CommandException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/CommandTransferException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/CommandTransferException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/DescriptionBuilderException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/DescriptionBuilderException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/InconsistentClientTransferException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/InconsistentClientTransferException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ResponseClassException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ResponseClassException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ServiceBuilderException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ServiceBuilderException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ServiceNotFoundException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ServiceNotFoundException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ValidationException.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Exception\/ValidationException.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/AbstractResourceIteratorFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/AbstractResourceIteratorFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/CompositeResourceIteratorFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/CompositeResourceIteratorFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/MapResourceIteratorFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/MapResourceIteratorFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/Model.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/Model.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorApplyBatched.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorApplyBatched.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorClassFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorClassFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorFactoryInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorFactoryInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Service\/Resource\/ResourceIteratorInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/PhpStreamRequestFactory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/PhpStreamRequestFactory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/Stream.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/Stream.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/StreamInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/StreamInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/StreamRequestFactoryInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/src\/Guzzle\/Stream\/StreamRequestFactoryInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/bootstrap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/bootstrap.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/AbstractBatchDecoratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/AbstractBatchDecoratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchBuilderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchBuilderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchClosureDivisorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchClosureDivisorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchClosureTransferTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchClosureTransferTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchCommandTransferTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchCommandTransferTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchRequestTransferTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchRequestTransferTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchSizeDivisorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchSizeDivisorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/BatchTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/ExceptionBufferingBatchTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/ExceptionBufferingBatchTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/FlushingBatchTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/FlushingBatchTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/HistoryBatchTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/HistoryBatchTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/NotifyingBatchTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Batch\/NotifyingBatchTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Cache",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/AbstractHasDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/AbstractHasDispatcherTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/CollectionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/CollectionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/EventTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/EventTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/Exception\/BatchTransferExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/Exception\/BatchTransferExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/Exception\/ExceptionCollectionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/Exception\/ExceptionCollectionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/VersionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Common\/VersionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/GuzzleTestCase.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/GuzzleTestCase.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/AbstractEntityBodyDecoratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/AbstractEntityBodyDecoratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/CachingEntityBodyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/CachingEntityBodyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/ClientTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/ClientTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlHandleTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlHandleTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlMultiProxyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlMultiProxyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlMultiTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlMultiTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlVersionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/CurlVersionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/RequestMediatorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Curl\/RequestMediatorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/EntityBodyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/EntityBodyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/CurlExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/CurlExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/ExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/ExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/MultiTransferExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Exception\/MultiTransferExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/IoEmittingEntityBodyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/IoEmittingEntityBodyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/AbstractMessageTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/AbstractMessageTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/EntityEnclosingRequestTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/EntityEnclosingRequestTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/Header\/HeaderFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/Header\/HeaderFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/Header\/LinkTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/Header\/LinkTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderComparison.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderComparison.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderComparisonTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderComparisonTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/HeaderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/PostFileTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/PostFileTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/RequestFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/RequestFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/RequestTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/RequestTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/ResponseTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Message\/ResponseTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/MimetypesTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/MimetypesTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/CommaAggregatorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/CommaAggregatorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/DuplicateAggregatorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/DuplicateAggregatorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/PhpAggregatorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryAggregator\/PhpAggregatorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryStringTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/QueryStringTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/ReadLimitEntityBodyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/ReadLimitEntityBodyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/RedirectPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/RedirectPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/server.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/server-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Server.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/Server.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/StaticClientTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/StaticClientTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/UrlTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Http\/UrlTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/InflectorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/InflectorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/MemoizingInflectorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/MemoizingInflectorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/PreComputedInflectorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Inflection\/PreComputedInflectorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/AppendIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/AppendIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/ChunkedIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/ChunkedIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/FilterIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/FilterIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/MapIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/MapIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/MethodProxyIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Iterator\/MethodProxyIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Log",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/CustomResponseModel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/CustomResponseModel.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/ErrorResponseMock.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/ErrorResponseMock.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/ExceptionMock.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/ExceptionMock.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockMulti.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockMulti.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockObserver.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockObserver.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockSubject.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Mock\/MockSubject.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Cookie\/CookieParserProvider.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Cookie\/CookieParserProvider.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Cookie\/CookieParserTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Cookie\/CookieParserTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/MessageParserProvider.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/MessageParserProvider.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/MessageParserTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/MessageParserTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/PeclHttpMessageParserTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/Message\/PeclHttpMessageParserTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/ParserRegistryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/ParserRegistryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/AbstractUriTemplateTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/AbstractUriTemplateTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/PeclUriTemplateTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/PeclUriTemplateTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/UriTemplateTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Parser\/UriTemplate\/UriTemplateTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Async\/AsyncPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Async\/AsyncPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/AbstractBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/AbstractBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/BackoffLoggerTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/BackoffLoggerTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/BackoffPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/BackoffPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/CallbackBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/CallbackBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ConstantBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ConstantBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/CurlBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/CurlBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ExponentialBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ExponentialBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/HttpBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/HttpBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/LinearBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/LinearBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ReasonPhraseBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/ReasonPhraseBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/TruncatedBackoffStrategyTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Backoff\/TruncatedBackoffStrategyTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cache",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieJar\/ArrayCookieJarTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieJar\/ArrayCookieJarTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieJar\/FileCookieJarTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieJar\/FileCookieJarTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookiePluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookiePluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Cookie\/CookieTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/CurlAuth\/CurlAuthPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/CurlAuth\/CurlAuthPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/ErrorResponse\/ErrorResponsePluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/ErrorResponse\/ErrorResponsePluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/History\/HistoryPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/History\/HistoryPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Log",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Md5\/CommandContentMd5PluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Md5\/CommandContentMd5PluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Md5\/Md5ValidatorPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Md5\/Md5ValidatorPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Mock\/MockPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Mock\/MockPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Oauth\/OauthPluginTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Plugin\/Oauth\/OauthPluginTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/AbstractConfigLoaderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/AbstractConfigLoaderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Builder\/ServiceBuilderLoaderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Builder\/ServiceBuilderLoaderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Builder\/ServiceBuilderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Builder\/ServiceBuilderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/CachingConfigLoaderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/CachingConfigLoaderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/ClientTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/ClientTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/AbstractCommandTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/AbstractCommandTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/ClosureCommandTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/ClosureCommandTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/CommandTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/CommandTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/DefaultRequestSerializerTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/DefaultRequestSerializerTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/DefaultResponseParserTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/DefaultResponseParserTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/AliasFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/AliasFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/CompositeFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/CompositeFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/ConcreteClassFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/ConcreteClassFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/MapFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/MapFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/ServiceDescriptionFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/Factory\/ServiceDescriptionFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/AbstractVisitorTestCase.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/AbstractVisitorTestCase.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/BodyVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/BodyVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/HeaderVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/HeaderVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/JsonVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/JsonVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/PostFieldVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/PostFieldVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/PostFileVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/PostFileVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/QueryVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/QueryVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/ResponseBodyVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/ResponseBodyVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/XmlVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Request\/XmlVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/AbstractResponseVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/AbstractResponseVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/BodyVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/BodyVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/HeaderVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/HeaderVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/JsonVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/JsonVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/ReasonPhraseVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/ReasonPhraseVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/StatusCodeVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/StatusCodeVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/XmlVisitorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/Response\/XmlVisitorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/VisitorFlyweightTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/LocationVisitor\/VisitorFlyweightTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/OperationCommandTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/OperationCommandTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/OperationResponseParserTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Command\/OperationResponseParserTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/OperationTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/OperationTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ParameterTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ParameterTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/SchemaFormatterTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/SchemaFormatterTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/SchemaValidatorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/SchemaValidatorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ServiceDescriptionLoaderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ServiceDescriptionLoaderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ServiceDescriptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Description\/ServiceDescriptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/CommandTransferExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/CommandTransferExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/InconsistentClientTransferExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/InconsistentClientTransferExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/ValidationExceptionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Exception\/ValidationExceptionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/IterableCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/IterableCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/MockCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/MockCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/OtherCommand.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/OtherCommand.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/Sub\/Sub.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Command\/Sub\/Sub.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/MockClient.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/MockClient.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Model\/MockCommandIterator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Mock\/Model\/MockCommandIterator.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/CompositeResourceIteratorFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/CompositeResourceIteratorFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/MapResourceIteratorFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/MapResourceIteratorFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ModelTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ModelTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ResourceIteratorClassFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ResourceIteratorClassFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ResourceIteratorTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Service\/Resource\/ResourceIteratorTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Stream\/PhpStreamRequestFactoryTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Stream\/PhpStreamRequestFactoryTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Stream\/StreamTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/Stream\/StreamTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/bar.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/bar-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/baz.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/baz-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/foo.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/foo-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/recursive.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/description\/recursive-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/FileBody.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/FileBody.txt",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/mock_response": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/mock_response",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/json1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/json1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/json2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/json2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/services.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/services\/services-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service_3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/tests\/Guzzle\/Tests\/TestData\/test_service_3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/UPGRADING.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/guzzle\/guzzle\/UPGRADING.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/.gitignore",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/.travis.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/.travis.yml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/GenericHTTPError.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/GenericHTTPError.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/InvalidCredentials.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/InvalidCredentials.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/MissingEndpoint.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/MissingEndpoint.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/MissingRequiredParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/MissingRequiredParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/NoDomainsConfigured.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/Exceptions\/NoDomainsConfigured.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/RestClient.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Connection\/RestClient.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Constants\/Constants.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Constants\/Constants.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Lists\/OptInHandler.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Lists\/OptInHandler.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Lists\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Lists\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Mailgun.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Mailgun.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/BatchMessage.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/BatchMessage.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/InvalidParameter.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/InvalidParameter.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/InvalidParameterType.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/InvalidParameterType.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/MissingRequiredMIMEParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/MissingRequiredMIMEParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/TooManyParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/Exceptions\/TooManyParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/MessageBuilder.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/MessageBuilder.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/oldsrc\/Mailgun\/Messages\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/phpunit.xml.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/SharedHostInstall.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/SharedHostInstall.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/GenericHTTPError.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/GenericHTTPError.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/InvalidCredentials.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/InvalidCredentials.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/MissingEndpoint.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/MissingEndpoint.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/MissingRequiredParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/MissingRequiredParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/NoDomainsConfigured.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/Exceptions\/NoDomainsConfigured.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/RestClient.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Connection\/RestClient.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Constants\/Api.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Constants\/Api.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Constants\/ExceptionMessages.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Constants\/ExceptionMessages.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Lists\/OptInHandler.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Lists\/OptInHandler.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Lists\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Lists\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Mailgun.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Mailgun.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/BatchMessage.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/BatchMessage.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/InvalidParameter.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/InvalidParameter.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/InvalidParameterType.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/InvalidParameterType.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/MissingRequiredMIMEParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/MissingRequiredMIMEParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/TooManyParameters.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/Exceptions\/TooManyParameters.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/MessageBuilder.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/MessageBuilder.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/src\/Mailgun\/Messages\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Bootstrap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Bootstrap.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Connection\/ConnectionTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Connection\/ConnectionTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Lists\/OptInHandlerTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Lists\/OptInHandlerTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/MailgunTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/MailgunTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/MailgunTestCase.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/MailgunTestCase.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/BatchMessageTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/BatchMessageTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/MessageBuilderTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/MessageBuilderTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/StandardMessageTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Messages\/StandardMessageTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Mock\/Connection\/TestBroker.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Mock\/Connection\/TestBroker.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Mock\/Mailgun.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/Mock\/Mailgun.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/TestAssets\/mailgun_icon1.png": {
+		"ft": 32768,
+		"iS": 86845,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/TestAssets\/mailgun_icon1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/TestAssets\/mailgun_icon2.png": {
+		"ft": 32768,
+		"iS": 86845,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/mailgun\/mailgun-php\/tests\/Mailgun\/Tests\/TestAssets\/mailgun_icon2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/.gitignore",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/ContainerAwareEventDispatcher.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/ContainerAwareEventDispatcher.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/TraceableEventDispatcher.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/TraceableEventDispatcher.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/TraceableEventDispatcherInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/TraceableEventDispatcherInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/WrappedListener.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Debug\/WrappedListener.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/DependencyInjection\/RegisterListenersPass.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/DependencyInjection\/RegisterListenersPass.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Event.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Event.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventDispatcher.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventDispatcher.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventDispatcherInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventDispatcherInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventSubscriberInterface.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/EventSubscriberInterface.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/GenericEvent.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/GenericEvent.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/ImmutableEventDispatcher.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/ImmutableEventDispatcher.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/phpunit.xml.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/AbstractEventDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/AbstractEventDispatcherTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/ContainerAwareEventDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/ContainerAwareEventDispatcherTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/Debug\/TraceableEventDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/Debug\/TraceableEventDispatcherTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/DependencyInjection\/RegisterListenersPassTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/DependencyInjection\/RegisterListenersPassTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/EventDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/EventDispatcherTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/EventTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/EventTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/GenericEventTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/GenericEventTest.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/ImmutableEventDispatcherTest.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun\/vendor\/symfony\/event-dispatcher\/Symfony\/Component\/EventDispatcher\/Tests\/ImmutableEventDispatcherTest.php",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/gravityforms\/change_log.txt": {
 		"ft": 8192,
 		"oA": 2,

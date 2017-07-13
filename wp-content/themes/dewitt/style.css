@@ -3018,4 +3018,5 @@ body.page-template-default #page-content { margin-top: 65px; }
 @media screen and (max-width: 767px) { body.page-template-default #page-content { margin-top: 40px; } }
 
 /* Media Query */
+#field_1_7, #field_2_7 { display: none !important; }
 /*# sourceMappingURL=style.css.map */
