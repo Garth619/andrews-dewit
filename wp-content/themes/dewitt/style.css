@@ -847,7 +847,7 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
   #gform_wrapper_1 .gform_footer { top: -52px; width: 100%; height: 52px; }
   #footer-main { margin-top: 0; }
   #footer-form-content { min-height: 1167px; }
-  #footer-form { padding: 0 18px; } }
+  #footer-form { padding: 0 30px; } }
 
 /* Media Query */
 /* ===== FOOTER MAIN ===== */
@@ -1050,8 +1050,12 @@ body.single #inner_posts .mysingle_post { border: none; }
 
 #inner_posts .mysingle_post h2 a:hover { text-decoration: none; color: #b57d54 !important; }
 
-@media screen and (max-width: 1099px) { #inner_posts .mysingle_post h2 { font-size: 43px; line-height: 47px; }
-  #inner_posts .mysingle_post .entry-meta { margin-bottom: 45px; } }
+@media screen and (max-width: 1099px) { #inner_posts .mysingle_post h2 { font-size: 43px; line-height: 44px; }
+  #inner_posts .mysingle_post .entry-meta { margin-bottom: 35px; } }
+
+/* Media Query */
+@media screen and (max-width: 767px) { #inner_posts .mysingle_post h2 { font-size: 40px; line-height: 41px; }
+  #inner_posts .mysingle_post .entry-meta { margin-bottom: 30px; } }
 
 /* Media Query */
 #sidebar { position: relative; }
@@ -1179,9 +1183,9 @@ ul#menu-practice-areas-directory {
   #page-content #page-title { margin: 0 0 40px; }
   .inner_form_wrapper { display: none; } }
 
-@media (max-width: 767px) { body.page-template-default ul#menu-practice-areas-directory { padding-left: 25px; padding-right: 25px; }
+@media (max-width: 767px) { body.page-template-default ul#menu-practice-areas-directory { padding-left: 30px; padding-right: 30px; }
   body.page-template-default ul#menu-practice-areas-directory li { width: 100% !important; }
-  .pa_title_wrapper { padding-left: 25px; padding-right: 25px; }
+  .pa_title_wrapper { padding-left: 30px; padding-right: 30px; }
   #page-content #page-title { font-size: 30px; margin: 0 0 20px; line-height: 30px; }
   #primary ul { padding: 0; }
   #page-content h1 { font-size: 30px; line-height: 36px; margin: 0 0 20px; }
@@ -1226,7 +1230,7 @@ ul#menu-practice-areas-directory {
 #main #primary .posts-nav ul li:before { content: none; }
 
 @media (max-width: 767px) { #main #page-content { padding: 0px 0px 45px; }
-  #primary { float: left; width: 100%; margin: 0; padding: 50px 25px; }
+  #primary { float: left; width: 100%; margin: 0; padding: 50px 30px; }
   #primary li { padding: 0 0 0 12px; font-size: 16px; line-height: 30px; } }
 
 /* ===== SLIDER ===== */
@@ -1345,7 +1349,7 @@ ul#menu-practice-areas-directory {
 /* Media Query */
 @media (max-width: 767px) { #section1 { height: auto; }
   #section1-text-mask { background: none; }
-  #section1 .content-text { padding: 40px 6.5% 46px; }
+  #section1 .content-text { padding: 40px 30px 46px; }
   #section1-selling-points .selling-point { padding: 130px 0 0; }
   #section1-selling-points .selling-point-icon { width: 90px; }
   #section1-selling-points .selling-point-title { width: 100%; font-size: 56.12px; line-height: 58.74px; padding: 0; margin: 0 0 35px; }
@@ -1712,7 +1716,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .press_wrapper .press_bottom_wrapper { position: relative; }
   .press_wrapper .press_bottom_wrapper span { position: absolute; top: 0; left: 0; }
   .press_wrapper .press_bottom_wrapper .sixty_min_wrapper { margin-right: 17px; }
-  .section2_content { width: 100%; float: none; margin-top: -60px; background: #15182b; padding-left: 20px; padding-right: 20px; }
+  .section2_content { width: 100%; float: none; margin-top: -60px; background: #15182b; padding-left: 30px; padding-right: 30px; }
   .section2_content:after { display: none; }
   .section2_content span.large_header { font-size: 61px; line-height: 54px; display: inline; }
   .section2_content span.large_header span.bottom_header { display: inline; } }
@@ -1946,7 +1950,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   #main #section4-image { opacity: 1; }
   #main #section4-image::before { width: 185px; opacity: 1; } }
 
-@media (max-width: 767px) { #main #section4 { padding: 90px 20px 100px; }
+@media (max-width: 767px) { #main #section4 { padding: 90px 30px 100px; }
   #main #section4-image:before { content: ''; }
   #main #section4-title { padding: 0; }
   #main #section4-title h2 { font-size: 44px; line-height: 44px; margin-bottom: 35px; }
@@ -2209,7 +2213,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   #page-content .attorneys-row:before { /* height: 590px; top: 80px; */ display: none; } }
 
 @media (max-width: 767px) { /* .page-template-page-attorneys #main #page-content { padding: 90px 0; } */
-  #page-content .attorneys-row { padding-left: 25px; padding-right: 25px; }
+  #page-content .attorneys-row { padding-left: 30px; padding-right: 30px; }
   .page-template-page-attorneys #page-content #page-title { font-size: 40px; line-height: 46px; border-bottom: 0px; padding: 0 0 0 40px; margin: 0 0 60px; }
   .page-template-page-attorneys #page-content #page-title:before { width: 120px; left: -95px; top: 22px; }
   .page-template-page-attorneys #page-content #page-title span { margin: 0; }
@@ -2329,7 +2333,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .page-template-page-attorney-php #page-content #attorney-contact span { padding: 0 4%; } }
 
 /* Media Query */
-@media (max-width: 767px) { .page-template-page-attorney-php #secondary { margin: 0; }
+@media (max-width: 767px) { .page-template-page-attorney-php #secondary { margin: 0; padding-left: 30px; padding-right: 30px; }
   .page-template-page-attorney-php #page-content #page-title { padding: 0 0 0 40px; margin: 0 0 35px; font-size: 40px; line-height: 46px; width: auto; }
   .page-template-page-attorney #page-content #page-title:before { left: -123px; width: 150px; top: 33px; }
   .page-template-page-attorney-php #page-content #page-title span { margin: 0; }
@@ -2460,7 +2464,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .page-template-page-case-results #page-content .case-result:nth-of-type(3n + 3) { background: none; }
   .page-template-page-case-results #page-content .case-result:nth-of-type(2n+2) { border-bottom: 1px solid #e0e0e0; }
   .page-template-page-case-results .case-results-row:last-child .case-result:last-child { border-bottom: 0px; }
-  .page-template-page-case-results .case-result-content { border-right: 0px; max-width: 400px; width: 100%; margin: 0 auto; float: none; padding: 30px 25px; } }
+  .page-template-page-case-results .case-result-content { border-right: 0px; max-width: 400px; width: 100%; margin: 0 auto; float: none; padding: 30px; } }
 
 /* ===== ABOUT ===== */
 .page-template-page-about #section1 { padding: 0px 12% 200px; height: auto; }
@@ -2663,7 +2667,7 @@ body.page-template-page-about #section2 { width: 100%; }
   .page-template-page-about #section1 .content-video { width: 100%; padding: 0; }
   .page-template-page-about #section2 .content-image { width: 100%; margin: 0; height: 350px; }
   .page-template-page-about #section2 .content-attorneys { width: 100%; padding: 60px 5% 60px; text-align: center; margin-left: auto; margin-right: auto; float: none; clear: both; }
-  .page-template-page-about #section2 .content-text { width: 100%; padding: 80px 5% 20px; }
+  .page-template-page-about #section2 .content-text { width: 100%; padding: 80px 30px 20px; }
   .page-template-page-about #section2 .content-text h2 { margin: 0 0 40px; }
   .page-template-page-about #section2 .content-text h2 span { margin: 0; }
   .page-template-page-about #section3 { padding: 60px 5% 90px 5%; height: auto !important; }
@@ -2673,7 +2677,7 @@ body.page-template-page-about #section2 { width: 100%; }
   .page-template-page-about #section3 .content-text:first-child p { max-width: 100%; }
   .page-template-page-about #section3 .content-text:last-child { width: 100%; }
   .page-template-page-about #section3 .content-text:last-child p { margin: 0; }
-  .page-template-page-about #main #section3 { padding: 60px 5% 90px 5%; } }
+  .page-template-page-about #main #section3 { padding: 60px 30px 90px 5%; } }
 
 @media screen and (max-width: 600px) { .page-template-page-about #section2 .content-text h2 br { display: none; } }
 
@@ -2951,7 +2955,7 @@ body.page-template-page-case-results .new_header_wrapper { margin-bottom: 35px; 
   body.page-template-page-about .new_header_wrapper { margin-bottom: 0px; }
   body.page-template-page-about .new_header_wrapper span.new_line { width: 20px; }
   body.page-template-page-about .new_header_wrapper h1.new_titles { padding-left: 5px !important; }
-  .page-template-page-about #section1 { padding-left: 25px; padding-right: 25px; }
+  .page-template-page-about #section1 { padding-left: 30px; padding-right: 30px; }
   .page-template-page-about #section1 .content-text { padding-top: 20px; padding-left: 0; padding-right: 0; }
   body.page-template-page-attorney .new_header_wrapper { margin-bottom: 0px; }
   body.page-template-page-case-results .new_header_wrapper { margin-bottom: 0px; } }
