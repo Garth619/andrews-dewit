@@ -5861,6 +5861,12 @@
 		"oAP": "\/wp-content\/plugins\/bugherd\/wp-bugherd-view.php",
 		"oF": 0
 		},
+	"\/wp-content\/plugins\/gfmailgun.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/gfmailgun.zip",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/gfmailgun\/gfmailgun.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -14414,10 +14420,10 @@
 		"oAP": "\/wp-content\/plugins\/wp-migrate-db-pro\/wp-migrate-db-pro.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/dewitt-new.zip": {
+	"\/wp-content\/themes\/dewitt-new2.zip": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/dewitt-new.zip",
+		"oAP": "\/wp-content\/themes\/dewitt-new2.zip",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/dewitt\/archive.php": {
