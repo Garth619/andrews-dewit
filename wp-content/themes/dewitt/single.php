@@ -10,7 +10,7 @@
 		<div class="mysingle_post">
 		
 			
-			<h2><?php the_title(); ?></h2>
+			<h1 class="main_header"><?php the_title(); ?></h1>
 			
 			<div class="entry-meta">On behalf of DeWitt Algorri & Algorri Lawyers, A Professional Corporation<br />
 				Posted in <?php global $post;

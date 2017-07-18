@@ -322,16 +322,43 @@ get_header(); ?>
 
   
 <section id="section6" class="content-block">
+	
+	
+	
  	<?php if( get_field('section6_title') ): ?>
+<!--
 		<div id="section6-title" class="content-title">	
-			<p>
-				<strong>02 | 05</strong>
-			</p>
+
 			<h2><?php the_field('section6_title');?></h2>
 		</div>
+-->
 	<?php endif; ?>
 	<div id="section6-posts" class="content-posts" dir="rtl">
 		<div id="section6-slider" class="content-slider">
+			
+			
+			<div class="section6_right">
+				
+				<div class="counter_wrapper">
+				
+					<span class="counter_inner"></span><!-- counter_inner -->
+					
+					<span class="new_greyline"></span><!-- new_greyline -->
+				
+				</div><!-- counter_wrapper -->
+			
+			<div id="section6-title" class="content-title">	
+
+				<h2><?php the_field('section6_title');?></h2>
+		
+			</div><!-- section6-title -->
+				
+				
+			</div><!-- section6_right -->
+			
+			
+			
+			
 			<article class="entry post" dir="ltr">
 				<div class="entry-content">
 					<h3 class="entry-title">What contributes to construction accidents?</h3>

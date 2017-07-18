@@ -190,8 +190,7 @@ $('body.page-template-page-home .bottom_line').each(function (index) {
      
      
      
-   
- 	 
+   	 
 
 
 
@@ -355,30 +354,60 @@ $('#section1-selling-points').on('init', function(event, slick){
 		
 		
 		
+		
+		
+		
+		
+		
 		$('#section6-slider').on('init', function(event, slick){
 			$( '#section6-slider .entry-content' ).matchHeight();
 		});
-		$('#section6-slider').slick({
-		  dots: false,
-		  infinite: true,
+		
+		
+		
+		
+		// In the news counter
+   
+   
+		var $statusteam = $('.counter_wrapper span');
+    var $slickElementteam = $('#section6-slider');
+
+    $slickElementteam.on('init reInit afterChange', function (event, slick, currentSlide, nextSlide) {
+        //currentSlide is undefined on init -- set it to 0 in this case (currentSlide is 0 based)
+        var i = (currentSlide ? currentSlide : 0) + 1;
+       $(this).find('.counter_wrapper span.counter_inner').html('<span class="emphasis">0' + i + '</span><span class="new_hash">|</span><span class="slide_count">0' + slick.slideCount + '</span>');
+    });
+
+
+
+    $slickElementteam.slick({
+       slide: 'article',
+			dots: false,
+			infinite: true,
 		  slidesToShow: 3,
 		  slidesToScroll: 1,
-		  rtl: true,
+		   rtl: true,
 		  appendArrows:'#section6-arrows',
-		  speed: 500,
+// 		  speed: 500,
 		  fade: false,
-		  cssEase: 'linear',
+// 		  cssEase: 'linear',
 			responsive: [
 				{
 				  breakpoint: 1099,
 				  settings: {
 					slidesToShow: 1,
-					slidesToScroll: 1
+					slidesToScroll: 1,
+					
 				  }
 				}
 			  ]
-		});
+    });
 
+		
+		
+		
+		
+		
 
 
 

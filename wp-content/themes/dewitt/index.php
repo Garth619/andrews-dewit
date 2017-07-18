@@ -9,11 +9,11 @@
 			<div class="mysingle_post">
 			
 			
-				<h2>
+				<h1 class="main_header">
 					<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
 						<?php the_title(); ?>
 					</a>
-				</h2>
+				</h1>
 				<div class="entry-meta">On behalf of DeWitt Algorri & Algorri Lawyers, A Professional Corporation<br />
 				Posted in <?php global $post;
 				$categories = get_the_category($post->ID);
