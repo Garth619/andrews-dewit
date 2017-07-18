@@ -1151,7 +1151,7 @@ body.page-template-default #banner-button, body.blog #banner-button, body.single
 
 body img.gform_ajax_spinner { display: none !important; }
 
-body.page-template-default ul#menu-practice-areas-directory { padding-left: 33%; }
+body.page-template-default ul#menu-practice-areas-directory, body.error404 ul#menu-practice-areas-directory { padding-left: 33%; }
 
 /* #sidebar { float: left; width: 100%; margin: 0; padding: 0; position: relative; } */
 .content-block { float: left; width: 100%; margin: 0; padding: 120px 80px; position: relative; }
@@ -1174,7 +1174,7 @@ body.page-template-default ul#menu-practice-areas-directory { padding-left: 33%;
 
 #primary li:before { content: '\00B7'; color: #1c304d; font-size: 40px; position: absolute; top: 2px; left: 0px; }
 
-@media screen and (max-width: 1415px) { body.page-template-default ul#menu-practice-areas-directory { padding-left: 30%; }
+@media screen and (max-width: 1415px) { body.page-template-default ul#menu-practice-areas-directory, body.error404 ul#menu-practice-areas-directory { padding-left: 30%; }
   .pa_title_wrapper { position: absolute; top: 48px; left: -50px; width: 230px; -webkit-transform: rotate(-90deg); transform: rotate(-90deg); }
   .pa_title_wrapper span.practice_area_title { font-weight: 700; text-transform: uppercase; letter-spacing: 2.5px; color: #2970e2; font-size: 13px; display: block; }
   .pa_title_wrapper span.practice_area_title:after { content: ""; width: 100%; height: 1px; background: #b57d54; display: block; margin-top: 15px; } }
@@ -1201,20 +1201,20 @@ ul#menu-practice-areas-directory {
   .pa_title_wrapper { -webkit-transform: none; transform: none; position: static; padding-left: 5%; font-family: "Vidaloka",serif; width: auto; margin-bottom: 13px; }
   .pa_title_wrapper span.practice_area_title { font-family: "Vidaloka",serif; font-size: 23.05px; font-weight: 500; letter-spacing: 0; line-height: 1.4; margin: 0 0 12px; text-transform: lowercase; width: 100%; }
   .pa_title_wrapper span.practice_area_title:after { display: none; }
-  body.page-template-default ul#menu-practice-areas-directory { padding-left: 5%; overflow: hidden; width: 100%; }
-  body.page-template-default ul#menu-practice-areas-directory li { width: 50% !important; float: left !important; clear: none !important; height: 30px !important; }
-  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(2n + 2) { padding-left: 30px; padding-right: 30px; }
-  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-right: 30px; }
-  body.page-template-default ul#menu-practice-areas-directory li a { position: relative; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); }
+  body.page-template-default ul#menu-practice-areas-directory, body.error404 ul#menu-practice-areas-directory { padding-left: 5%; overflow: hidden; width: 100%; }
+  body.page-template-default ul#menu-practice-areas-directory li, body.error404 ul#menu-practice-areas-directory li { width: 50% !important; float: left !important; clear: none !important; height: 30px !important; }
+  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(2n + 2), body.error404 ul#menu-practice-areas-directory li:nth-of-type(2n + 2) { padding-left: 30px; padding-right: 30px; }
+  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1), body.error404 ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-right: 30px; }
+  body.page-template-default ul#menu-practice-areas-directory li a, body.error404 ul#menu-practice-areas-directory li a { position: relative; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); }
   #inner_posts { margin-bottom: 57px; }
   #secondary { width: 100%; margin-bottom: 0; padding: 38px 0 35px; background: #efefef; }
   #page-content #page-title { margin: 0 0 40px; }
   .inner_form_wrapper { display: none; } }
 
-@media (max-width: 767px) { body.page-template-default ul#menu-practice-areas-directory { padding-left: 30px; padding-right: 30px; }
-  body.page-template-default ul#menu-practice-areas-directory li { width: 100% !important; }
-  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-left: 0; padding-right: 0; }
-  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-right: 0; }
+@media (max-width: 767px) { body.page-template-default ul#menu-practice-areas-directory, body.error404 ul#menu-practice-areas-directory { padding-left: 30px; padding-right: 30px; }
+  body.page-template-default ul#menu-practice-areas-directory li, body.error404 ul#menu-practice-areas-directory li { width: 100% !important; }
+  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1), body.error404 ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-left: 0; padding-right: 0; }
+  body.page-template-default ul#menu-practice-areas-directory li:nth-of-type(1n + 1), body.error404 ul#menu-practice-areas-directory li:nth-of-type(1n + 1) { padding-right: 0; }
   .pa_title_wrapper { padding-left: 30px; padding-right: 30px; }
   #page-content #page-title { font-size: 30px; margin: 0 0 20px; line-height: 30px; }
   #primary ul { padding: 0; }
@@ -1511,7 +1511,7 @@ svg#play_button polygon.play1_tri { fill: #fff; }
 
 .section2_content { float: right; width: calc(100% - 210px); margin-top: 191px; padding-left: 10px; }
 
-.section2_content span.large_header { font-size: 61px; color: #b57d54; font-family: "Vidaloka",serif; line-height: 57px; letter-spacing: 1.2px; }
+.section2_content span.large_header { font-size: 61px; color: #b57d54; font-family: "Vidaloka",serif; line-height: 65px; letter-spacing: 1.2px; }
 
 .section2_content span.large_header span.bottom_header { display: block; margin-left: 15%; }
 
@@ -1750,7 +1750,8 @@ svg#play_button polygon.play1_tri { fill: #fff; }
   .section2_content { width: 100%; float: none; margin-top: -60px; background: #15182b; padding-left: 30px; padding-right: 30px; }
   .section2_content:after { display: none; }
   .section2_content span.large_header { font-size: 61px; line-height: 54px; display: inline; }
-  .section2_content span.large_header span.bottom_header { display: inline; } }
+  .section2_content span.large_header span.bottom_header { display: inline; }
+  .section2_content span.large_header { line-height: 58px; } }
 
 /* Media Query */
 @media screen and (max-width: 600px) { .section2_left h1 { max-width: 200px; }

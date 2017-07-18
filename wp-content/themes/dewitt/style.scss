@@ -4516,7 +4516,7 @@ body img.gform_ajax_spinner {
 
 
 
-body.page-template-default {
+body.page-template-default, body.error404 {
 
 	ul#menu-practice-areas-directory {
 		padding-left:33%;
@@ -4650,7 +4650,7 @@ body.page-template-default {
 	
 	
 	
-body.page-template-default {
+body.page-template-default, body.error404 {
 
 	ul#menu-practice-areas-directory {
 		padding-left:30%;
@@ -4784,7 +4784,7 @@ ul#menu-practice-areas-directory {
 
 
 
-body.page-template-default {
+body.page-template-default, body.error404 {
 
 ul#menu-practice-areas-directory {
 	padding-left:5%;
@@ -4848,7 +4848,7 @@ ul#menu-practice-areas-directory {
 
 @media (max-width: 767px) {
 	
-	body.page-template-default {
+	body.page-template-default, body.error404 {
 	
 	ul#menu-practice-areas-directory {
 		padding-left:30px;
@@ -5869,7 +5869,7 @@ svg#play_button, svg#about_play_button {
 		font-size:61px;
 		color:#b57d54;
 		font-family: "Vidaloka",serif;
-		line-height: 57px;
+		line-height: 65px;
 		letter-spacing: 1.2px;
 		span.bottom_header {
 			display: block;
@@ -5887,6 +5887,14 @@ svg#play_button, svg#about_play_button {
 		}
 	}
 }
+
+
+
+
+
+
+
+
 
 
 .section2_bottom.visible {
@@ -6812,6 +6820,12 @@ width:88%;
 	
 	.section2_content span.large_header span.bottom_header {
 		 display: inline;
+	}
+	
+	
+	
+	.section2_content span.large_header {
+		line-height: 58px;
 	}
 
 	
@@ -9023,6 +9037,7 @@ margin-left: -230px;
 
   to {
     opacity: 1;
+    
     
     
   }
