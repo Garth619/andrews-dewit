@@ -102,7 +102,7 @@
 		</div>
     </section>
     <section id="footer-bottom">			
-	    <p>© <?php echo date("Y"); ?> by DeWitt Algorri & Algorri Lawyers, A Professional Corporation. All rights reserved. <a href="#">Disclaimer</a> <a href="#">Sitemap</a> <a href="#">Google +</a></p>
+	    <p>© <?php echo date("Y"); ?> by DeWitt Algorri & Algorri Lawyers, A Professional Corporation. All rights reserved. <a href="<?php bloginfo('url');?>/disclaimer">Disclaimer</a> <!-- <a href="#">Sitemap</a> <a href="#">Google +</a> --></p>
 	    <a href="//ilawyermarketing.com" target="_blank"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 2928.6 1999.9 142.7" enable-background="new 0 2928.6 1999.9 142.7" xml:space="preserve">
 			<title>sm_ilawyer</title>
 			<path d="M424.6,2928.6h7.3v7.8c0,5.7-3.1,8.6-9.1,8.6h-7.3v-7.8C415.5,2931.5,418.6,2928.6,424.6,2928.6z M415.5,2966.7

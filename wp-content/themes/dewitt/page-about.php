@@ -38,7 +38,7 @@ get_header(); ?>
 	
 			<div class="about_video_wrapper">
 			 	
-			 	<div class="video_title"><span>Press play</span> to learn why you should choose us</div><!-- video_title -->
+			 	<div class="video_title"><span>Press play to learn</span> Success is no Accident</div><!-- video_title -->
 			 	
 			 	<div class="video_image_wrapper">
 				 	

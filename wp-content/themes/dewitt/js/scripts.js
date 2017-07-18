@@ -311,7 +311,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 		  dots: false,
 		  infinite: true,
 		  speed: 500,
-			fade:true,
+			// fade:true,
 		  cssEase: 'linear',
 		  prevArrow:'.new_back_wrapper',
 		  nextArrow:'.new_next_wrapper',
@@ -326,9 +326,9 @@ $('#section1-selling-points').on('init', function(event, slick){
       settings: {
         dots: false,
 				infinite: true,
-				speed: 500,
-				fade:true,
-				cssEase: 'linear',
+				 speed: 500,
+				 // fade:true,
+				// cssEase: 'linear',
 				prevArrow:'.new_back_wrapper',
 				nextArrow:'.new_next_wrapper',
 				adaptiveHeight: true
@@ -498,7 +498,31 @@ jQuery(function() {
 	});
 */
 
-	$( '#case-results .case-result' ).matchHeight();
+	
+	
+	
+	function section3height() {
+    
+    if ($(window).width() < 1099) {
+        
+           	$( '#case-results .case-result' ).matchHeight();	
+    	   		
+    		
+    } else {
+
+    }
+};
+
+
+section3height();
+
+	
+	
+	
+	
+	
+	
+	
 	 
 // 	var myController = new ScrollMagic.Controller();
 	 

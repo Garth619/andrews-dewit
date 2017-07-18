@@ -93,7 +93,7 @@ h1, h2 {
 h1 {
 	font-size: 65px;
 	line-height: 58px;
-	letter-spacing: 0.25px;
+// 	letter-spacing: 0.25px;
 	font-weight: 400;
 	color: #2970e2;
 	margin: 0 0 45px;
@@ -3906,7 +3906,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 	display: inline-block;
 	color: #434248;
 	margin: 0;
-	text-transform: uppercase;
+// 	text-transform: uppercase;
 	float: left;
 	font-size: 12px;
 	letter-spacing: 0px;
@@ -4791,10 +4791,24 @@ ul#menu-practice-areas-directory {
 	overflow: hidden;
 	width:100%;
 	li {
+		&:nth-of-type(2n + 2) {
+			padding-left:30px;
+			padding-right:30px;
+		}
+		&:nth-of-type(1n + 1) {
+			padding-right:30px;
+		}
+		
 		width:50% !important;
 		float:left !important;
 		clear:none !important;
-		
+		height:30px !important;
+		a {
+			position: relative;
+			top: 50%;
+			transform: translateY(-50%);
+			
+		}
 	}
 }
 
@@ -4841,6 +4855,13 @@ ul#menu-practice-areas-directory {
 		padding-right:30px;
 		li {
 			width:100% !important;
+			&:nth-of-type(1n + 1) {
+				padding-left:0;
+				padding-right:0;
+			}
+			&:nth-of-type(1n + 1) {
+				padding-right:0;
+			}
 		}
 	}
 	
@@ -7775,7 +7796,7 @@ transition: all .3s ease-in-out;
 #section3 .case-result-vs {
 	background: none;
 	font-size: 15px;
-	line-height: 27.94px;
+	line-height: 20px;
 	color: #15182b;
 	text-align: center;
 	letter-spacing: 0px;
@@ -10217,7 +10238,7 @@ opacity: 0;
 	width:30%;
 	float:left;
 	margin-right:4%;
-	height:90px;
+	height:75px;
 	border-bottom: 1px solid #dcdddf;
 	&:nth-of-type(3n + 3) {
 		margin-right:0;
@@ -10227,7 +10248,7 @@ opacity: 0;
 	color: #15182b;
 	text-align: left;
 	font-size: 12px;
-	line-height: 1.5;
+	line-height: 1.2;
 // 	padding: 24px 0;
 	text-transform: uppercase;
 	
@@ -11204,8 +11225,38 @@ body.page-template-page-about {
 	
 	.about_video_wrapper {
 		margin-top:15px;
+		padding-left:0;
+		margin-left:-45px;
 	}
 	
+	
+	
+	
+} /* Media Query */
+
+
+@media screen and (max-width: 767px) {
+	
+	.about_video_wrapper {
+		margin-left:0px;
+	}
+	
+	
+	.about_video_wrapper .video_image_wrapper img.video_thumb {
+		margin-left:0;
+	}
+	
+	#main .about_video_wrapper .video_title {
+		text-align: center;
+	}
+	
+	#main.visible .about_video_wrapper .video_image_wrapper {
+		overflow:visible;
+	}
+	
+	.about_video_wrapper .video_image_wrapper .new_play_button {
+		left:-15px;
+	}
 	
 	
 	
@@ -11308,6 +11359,7 @@ body.page-template-page-about {
 	font-family: "Heebo", sans-serif;
 	font-weight: 700;
 	letter-spacing: 2px;
+	line-height: 21px;
 }
 
 @media(max-width:1499px) {
@@ -11928,7 +11980,7 @@ body.page-template-page-about {
 }
 .page-template-page-contact #contact-location-info {
     float: none;
-    width: 240px;
+    width: 320px;
     padding: 60px 0 0 0;
     text-align: center;
     margin: 0 auto;
@@ -12259,9 +12311,7 @@ display: block;
 	padding: 0;
 }
 #secondary li a {
-// 	float: left;
 	width: 100%;
-// 	clear: both;
 	padding: 7px 0;
 	color: #15182b;
 	line-height: 1.4;
@@ -12271,6 +12321,7 @@ display: block;
 	text-transform: uppercase;
 	text-decoration: none !important;
 	font-weight: 700;
+	
 }
 #secondary .widget-practice-areas li a {
 	padding: 20px 0 20px;
@@ -12677,6 +12728,11 @@ body.page-template-page-contact {
 		padding-left:40px !important;
 		line-height:83px;
 		margin:0 !important;
+		background-image: linear-gradient(-45deg, #2970e2 30%, #b57d54 80%);
+		background-image: -webkit-linear-gradient(-45deg, #2970e2 30%, #b57d54 80%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+								
 		span {
 			display: block;
 			margin-left:90px;
@@ -12911,11 +12967,19 @@ body.page-template-page-contact {
 
 @media screen and (max-width: 767px) {
 	
+
+
+#main .new_header_wrapper span.new_line:before {
+	background: transparent;
+}
+
+
 .new_header_wrapper {
 	margin:44px 0px;
 		span.new_line{
 			top:20px;
 			width:20px;
+			
 		}
 
 		h1.new_titles {
@@ -12923,7 +12987,7 @@ body.page-template-page-contact {
 			padding-left:5px !important;
 			line-height:44px;
 			span {
-				display: block;
+// 				display: block;
 			}
 
 		}
@@ -13286,5 +13350,9 @@ body.page-template-default {
 }
 
 
+
+li#field_1_8 , li#field_2_8{
+	display: none;
+}
 
 
