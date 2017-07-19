@@ -285,37 +285,33 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] { -
 
 /* ===== BANNER ===== */
 /* Internal Banner */
-body:not(.page-template-page-home) #main { z-index: 0; padding-top: 30px; }
-
-body:not(.page-template-page-home) #banner { display: none; min-height: 450px; }
-
-body:not(.page-template-page-home) #banner h1 { max-width: 1068px; margin-left: auto; margin-right: auto; }
-
-body:not(.page-template-page-home) #banner h1 span { display: inline; }
-
-body:not(.page-template-page-home) #banner h1 span b { display: inline; }
-
-body:not(.page-template-page-home) #banner h1 span b i { display: inline; }
-
+/* body:not(.page-template-page-home) { #main { z-index:0; padding-top:30px; } #banner { display: none; min-height: 450px; #banner-text { // 			padding: 88px 0 79px; } h1 { max-width: 1068px; margin-left:auto; margin-right:auto; span { display: inline; b { display: inline; i { display: inline; } } } } } } */
 @media screen and (max-width: 1099px) { body:not(.page-template-page-home) #main { z-index: 0; padding-top: 70px; } }
 
 /* Media Query */
-body.blog #banner, body.single #banner { min-height: auto; height: 450px; }
-
-body.blog #banner-text, body.single #banner-text { padding: 0; position: relative; top: 50%; -webkit-transform: translateY(-70%); transform: translateY(-70%); }
-
+/* body.blog, body.single { #banner { min-height: auto; height:450px; } #banner-text { padding:0; position: relative; top: 50%; transform: translateY(-70%); } } */
 body.date h1.mycat { display: none; }
 
-body.archive #banner { min-height: auto; height: 450px; }
-
-body.archive #banner-text { padding: 0; position: relative; top: 50%; -webkit-transform: translateY(-70%); transform: translateY(-70%); }
-
+/* body.archive { #banner { min-height: auto; height:450px; } #banner-text { padding:0; position: relative; top: 50%; transform: translateY(-70%); } } */
 body.category h1.myarchive { display: none; }
 
-@media screen and (max-width: 1099px) { body:not(.page-template-page-home) #banner { min-height: auto; }
-  body:not(.page-template-page-home) #banner #banner-text { padding-left: 25px; padding-right: 25px; }
-  body.blog #banner, body.archive #banner { min-height: auto; height: auto; padding: 100px 0 75px; }
-  body.blog #banner-text, body.archive #banner-text { position: static; -webkit-transform: none; transform: none; } }
+@media screen and (max-width: 1099px) { /* body:not(.page-template-page-home) #banner { min-height:auto; #banner-text { padding-left: 25px; padding-right:25px;   } } #banner { } */
+  /*
+	
+	body.blog, body.archive {
+	#banner {
+		min-height: auto;
+		height:auto;
+		padding:100px 0 75px;
+	}
+	#banner-text {
+		position: static;
+		transform: none;
+		
+	}
+}
+	
+*/ }
 
 /* Media Query */
 /* #sidebar h3.widgettitle { font-size:66px; max-width:300px; line-height: 1; text-transform: normal !important; } */
@@ -332,117 +328,117 @@ body.category h1.myarchive { display: none; }
 @media screen and (max-width: 1099px) { #banner.visible:before { -webkit-animation-name: none; animation-name: none; } }
 
 /* Media Query */
-body.page-template-page-home #banner h1 span { opacity: 0; }
+body.page-template-page-home #banner span.newbannerheader span { opacity: 0; }
 
 span.letter-span { display: inline !important; }
 
-body.page-template-page-home #banner.visible h1 span.top_line { -webkit-animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; }
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line { -webkit-animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; }
 
-body.page-template-page-home #banner.visible h1 span.middle_line { -webkit-animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; -webkit-animation-delay: 500ms; animation-delay: 500ms; }
+body.page-template-page-home #banner.visible span.newbannerheader span.middle_line { -webkit-animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; -webkit-animation-delay: 500ms; animation-delay: 500ms; }
 
-body.page-template-page-home #banner.visible h1 span.bottom_line { -webkit-animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; -webkit-animation-delay: 900ms; animation-delay: 900ms; }
+body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line { -webkit-animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line; animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line; -webkit-animation-duration: 2000ms, 1800ms, 1000ms; animation-duration: 2000ms, 1800ms, 1000ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; animation-timing-function: cubic-bezier(0.17, 0.66, 0.34, 0.98), cubic-bezier(0.17, 0.66, 0.34, 0.98), ease; -webkit-animation-delay: 900ms; animation-delay: 900ms; }
 
-body.page-template-page-home #banner.visible h1 span.top_line span.letter-span { -webkit-animation-name: single-letters, color-top-line; animation-name: single-letters, color-top-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line span.letter-span { -webkit-animation-name: single-letters, color-top-line; animation-name: single-letters, color-top-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
 
-body.page-template-page-home #banner.visible h1 span.middle_line span.letter-span { -webkit-animation-name: single-letters, color-top-line; animation-name: single-letters, color-top-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
+body.page-template-page-home #banner.visible span.newbannerheader span.middle_line span.letter-span { -webkit-animation-name: single-letters, color-top-line; animation-name: single-letters, color-top-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
 
-body.page-template-page-home #banner.visible h1 span.bottom_line span.letter-span { -webkit-animation-name: single-letters, color-bottom-line; animation-name: single-letters, color-bottom-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
+body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line span.letter-span { -webkit-animation-name: single-letters, color-bottom-line; animation-name: single-letters, color-bottom-line; -webkit-animation-duration: 300ms, 1050ms; animation-duration: 300ms, 1050ms; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-timing-function: linear; animation-timing-function: linear; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 200ms; animation-delay: 200ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 200ms; animation-delay: 200ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 225ms; animation-delay: 225ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 225ms; animation-delay: 225ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 250ms; animation-delay: 250ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 250ms; animation-delay: 250ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 275ms; animation-delay: 275ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 275ms; animation-delay: 275ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 300ms; animation-delay: 300ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 300ms; animation-delay: 300ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 325ms; animation-delay: 325ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 325ms; animation-delay: 325ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 350ms; animation-delay: 350ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 350ms; animation-delay: 350ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 375ms; animation-delay: 375ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 375ms; animation-delay: 375ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 400ms; animation-delay: 400ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 400ms; animation-delay: 400ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 425ms; animation-delay: 425ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 425ms; animation-delay: 425ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 450ms; animation-delay: 450ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 450ms; animation-delay: 450ms; }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 475ms; animation-delay: 475ms; }
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 475ms; animation-delay: 475ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 500ms; animation-delay: 500ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 500ms; animation-delay: 500ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 525ms; animation-delay: 525ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 525ms; animation-delay: 525ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 550ms; animation-delay: 550ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 550ms; animation-delay: 550ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 575ms; animation-delay: 575ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 575ms; animation-delay: 575ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 600ms; animation-delay: 600ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 600ms; animation-delay: 600ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 625ms; animation-delay: 625ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 625ms; animation-delay: 625ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 650ms; animation-delay: 650ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 650ms; animation-delay: 650ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 675ms; animation-delay: 675ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 675ms; animation-delay: 675ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 700ms; animation-delay: 700ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 700ms; animation-delay: 700ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 725ms; animation-delay: 725ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 725ms; animation-delay: 725ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 750ms; animation-delay: 750ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 750ms; animation-delay: 750ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 775ms; animation-delay: 775ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 775ms; animation-delay: 775ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(13) { -webkit-animation-delay: 800ms; animation-delay: 800ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(13) { -webkit-animation-delay: 800ms; animation-delay: 800ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(14) { -webkit-animation-delay: 825ms; animation-delay: 825ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(14) { -webkit-animation-delay: 825ms; animation-delay: 825ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(15) { -webkit-animation-delay: 850ms; animation-delay: 850ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(15) { -webkit-animation-delay: 850ms; animation-delay: 850ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(16) { -webkit-animation-delay: 875ms; animation-delay: 875ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(16) { -webkit-animation-delay: 875ms; animation-delay: 875ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(17) { -webkit-animation-delay: 900ms; animation-delay: 900ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(17) { -webkit-animation-delay: 900ms; animation-delay: 900ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(18) { -webkit-animation-delay: 925ms; animation-delay: 925ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(18) { -webkit-animation-delay: 925ms; animation-delay: 925ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(19) { -webkit-animation-delay: 950ms; animation-delay: 950ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(19) { -webkit-animation-delay: 950ms; animation-delay: 950ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(20) { -webkit-animation-delay: 1000ms; animation-delay: 1000ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(20) { -webkit-animation-delay: 1000ms; animation-delay: 1000ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(21) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(21) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(22) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(22) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 900ms; animation-delay: 900ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(1) { -webkit-animation-delay: 900ms; animation-delay: 900ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 925ms; animation-delay: 925ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(2) { -webkit-animation-delay: 925ms; animation-delay: 925ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 950ms; animation-delay: 950ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(3) { -webkit-animation-delay: 950ms; animation-delay: 950ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 975ms; animation-delay: 975ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(4) { -webkit-animation-delay: 975ms; animation-delay: 975ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 1000ms; animation-delay: 1000ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(5) { -webkit-animation-delay: 1000ms; animation-delay: 1000ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(6) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(7) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 1075ms; animation-delay: 1075ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(8) { -webkit-animation-delay: 1075ms; animation-delay: 1075ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 2000ms; animation-delay: 2000ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(9) { -webkit-animation-delay: 2000ms; animation-delay: 2000ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(10) { -webkit-animation-delay: 1025ms; animation-delay: 1025ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(11) { -webkit-animation-delay: 1050ms; animation-delay: 1050ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 1075ms; animation-delay: 1075ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(12) { -webkit-animation-delay: 1075ms; animation-delay: 1075ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(13) { -webkit-animation-delay: 1080ms; animation-delay: 1080ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(13) { -webkit-animation-delay: 1080ms; animation-delay: 1080ms; }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(14) { -webkit-animation-delay: 1085ms; animation-delay: 1085ms; }
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(14) { -webkit-animation-delay: 1085ms; animation-delay: 1085ms; }
 
 @-webkit-keyframes letter-steps-top-line { from { letter-spacing: 0.13em; }
   to { letter-spacing: 0; } }
@@ -500,25 +496,25 @@ body.page-template-page-home #banner.visible h1 span.bottom_line span.letter-spa
 
 .home #banner-text { padding: 161px 0 180px; width: 100%; margin: 0; }
 
-#banner h1 { font-size: 88.51px; letter-spacing: 0px; margin: 0 0 50px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; position: relative; }
+#banner span.newbannerheader { font-size: 88.51px; letter-spacing: 0px; margin: 0 0 50px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; position: relative; font-family: "Vidaloka",serif; }
 
-.home #banner h1 { font-size: 127.99px; letter-spacing: 0px; margin: 0 auto 70px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; height: 100%; display: block; overflow: hidden; padding-bottom: 20px; }
+.home #banner span.newbannerheader { font-size: 127.99px; letter-spacing: 0px; margin: 0 auto 70px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; height: 100%; display: block; overflow: hidden; padding-bottom: 20px; }
 
-#banner h1 > span { display: block; position: relative; }
+#banner span.newbannerheader > span { display: block; position: relative; }
 
-#banner h1 b { font-weight: 400; display: block; position: relative; width: 100%; height: 100%; }
+#banner span.newbannerheader b { font-weight: 400; display: block; position: relative; width: 100%; height: 100%; }
 
-#banner h1 b i { display: block; position: relative; width: 100%; height: 100%; font-style: normal; padding: 0 0 8px; }
+#banner span.newbannerheader b i { display: block; position: relative; width: 100%; height: 100%; font-style: normal; padding: 0 0 8px; }
 
-#banner h1 span.active { overflow: visible; }
+#banner span.newbannerheader span.active { overflow: visible; }
 
-#banner h1 .active b { opacity: 1; -webkit-transform: matrix(1, 0, 0, 1, 0, 0); transform: matrix(1, 0, 0, 1, 0, 0); overflow: visible; }
+#banner span.newbannerheader .active b { opacity: 1; -webkit-transform: matrix(1, 0, 0, 1, 0, 0); transform: matrix(1, 0, 0, 1, 0, 0); overflow: visible; }
 
-#banner h1 .active b i { opacity: 1; -webkit-transform: matrix(1, 0, 0, 1, 0, 0); transform: matrix(1, 0, 0, 1, 0, 0); overflow: visible; }
+#banner span.newbannerheader .active b i { opacity: 1; -webkit-transform: matrix(1, 0, 0, 1, 0, 0); transform: matrix(1, 0, 0, 1, 0, 0); overflow: visible; }
 
-#banner h1 strong { color: #b57d54; font-weight: 400; }
+#banner span.newbannerheader strong { color: #b57d54; font-weight: 400; }
 
-.home #banner h1 strong { color: #b57d54; }
+.home #banner span.newbannerheader strong { color: #b57d54; }
 
 #banner-subtitle { color: #2970e2; font-size: 19px; line-height: 1; text-align: center; text-transform: uppercase; margin: 0 auto 25px; max-width: 800px; width: 100%; letter-spacing: 2px; font-weight: 700; position: relative; height: 20px; }
 
@@ -625,7 +621,7 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
 .infiniteUp { -webkit-animation: scroll-up 3s infinite; animation: scroll-up 3s infinite; }
 
 @media (max-width: 1499px) { .home #banner-text { padding: 68px 0 90px; }
-  .home #banner h1 { font-size: 87.58px; margin: 0 auto 50px; }
+  .home #banner span.newbannerheader { font-size: 87.58px; margin: 0 auto 50px; }
   #banner-subtitle { font-size: 13px; }
   #banner-subtitle span { padding: 0 19px 0 12px; font-size: 13px; }
   #banner-subtitle span:after { width: 5px; height: 5px; margin: -2.5px 0 0 0; }
@@ -637,9 +633,9 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
 
 @media (max-width: 1099px) { #banner { padding-right: 0; margin-top: 74px; }
   .home #banner-text { padding: 115px 0 70px; }
-  #banner h1 { font-size: 71.26px; }
-  .home #banner h1 { font-size: 71.26px; margin: 0 0 60px; }
-  body.page-template-page-home #banner h1 span { opacity: 1; }
+  #banner span.newbannerheader { font-size: 71.26px; }
+  .home #banner span.newbannerheader { font-size: 71.26px; margin: 0 0 60px; }
+  body.page-template-page-home #banner span.newbannerheader span { opacity: 1; }
   body.page-template-page-home #banner.visible h1 span.top_line { -webkit-animation-name: none; animation-name: none; }
   body.page-template-page-home #banner.visible h1 span.middle_line { -webkit-animation-name: none; animation-name: none; }
   body.page-template-page-home #banner.visible h1 span.bottom_line { -webkit-animation-name: none; animation-name: none; color: #b57d54; }
@@ -661,11 +657,11 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
   .home #banner { padding: 0; }
   #banner-text { padding: 84px 0px 60px; }
   .home #banner-text { padding: 84px 0px 60px; }
-  #banner h1 { font-size: 53.39px; line-height: 55.02px; }
-  #banner h1 span { padding: 0; }
-  #banner h1 span b { padding: 0; }
-  #banner h1 span b i { padding: 0; }
-  .home #banner h1 { font-size: 53.39px; line-height: 55.02px; margin: 0 0 30px; }
+  #banner span.newbannerheader { font-size: 53.39px; line-height: 55.02px; }
+  #banner span.newbannerheader span { padding: 0; }
+  #banner span.newbannerheader span b { padding: 0; }
+  #banner span.newbannerheader span b i { padding: 0; }
+  .home #banner span.newbannerheader { font-size: 53.39px; line-height: 55.02px; margin: 0 0 30px; }
   #banner-subtitle { margin-bottom: 10px; }
   #banner-subtitle span { font-size: 10px; padding: 0 6px 0 0px; letter-spacing: 1px; }
   #banner-subtitle span:after { width: 3px; height: 3px; margin: -2px 0 0 0; }

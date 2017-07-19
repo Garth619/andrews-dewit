@@ -44,7 +44,7 @@ get_header(); ?>
 					<span><a href="mailto:<?php the_field('email');?>">Email me</a></span>
 				<?php endif; ?>
 			</div>
-          </h1>
+          
           <div id="attorney-bio">
 	          <div id="attorney-image-mobile">
 		          

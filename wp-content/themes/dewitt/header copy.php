@@ -157,12 +157,20 @@
 							<div id="banner-title">
 								
 								
-					
+<!--
+								
+								<?php if(is_page_template( 'page-contact.php') ):?>
+								
+									<h1>Use the contact form below to <strong>make an appointment</strong></h1>
+									
+								<?php endif;?>
+-->
+									
 									
 								<?php if(is_page_template( 'page-home.php')): ?>	
 									
 															
-									<span class="newbannerheader">
+									<h1>
 										
 										
 										<span class="top_line">The personal</span>
@@ -170,15 +178,61 @@
 										<span class="middle_line">injury law firm where</span> 
 										
 										
-										<span class="bottom_line"><strong>you come first</strong></span>
-										
-										
-									</span><!-- newbannerheader -->
+										<span class="bottom_line"><strong>you come first</strong></span></h1>
 								
 								
 								<?php endif;?>
 								
 								
+<!--
+								<?php if( is_page_template( 'page-practice-areas.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
+									
+															
+									
+										
+								<h1>The personal injury law firm where <strong>you come first</strong></h1>
+										
+										
+									
+								
+								<?php endif;?>
+								
+								
+								<?php $classes = get_body_class();
+									
+									if (in_array('page-template-default',$classes)):?>
+   
+								
+									<h1>The personal injury law firm where <strong>you come first</strong></h1>
+									
+									
+									
+									<?php endif;?> 
+									
+									
+									<?php if(is_home() || is_single()):?>
+									
+									
+										<h1>personal injury blog</h1>
+									
+									
+									<?php endif;?>
+									
+									
+									
+									
+									
+									<?php if(is_archive()):?>
+									
+										<h1 class="mycat"><?php single_cat_title();?></h1>
+										
+										<h1 class="myarchive">Archive</h1>
+									
+									<?php endif;?>
+									
+									
+									
+-->
 								
 
 								

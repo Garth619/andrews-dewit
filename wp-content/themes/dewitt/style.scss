@@ -1071,6 +1071,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 
 
 
+/*
 body:not(.page-template-page-home) {
 	
 	#main {
@@ -1099,6 +1100,7 @@ body:not(.page-template-page-home) {
 		}
 	}
 }
+*/
 
 
 
@@ -1121,6 +1123,7 @@ body:not(.page-template-page-home) {
 
 
 
+/*
 body.blog, body.single {
 	#banner {
 		min-height: auto;
@@ -1134,6 +1137,7 @@ body.blog, body.single {
 		
 	}
 }
+*/
 
 
 body.date {
@@ -1142,6 +1146,7 @@ body.date {
 	}
 }
 
+/*
 body.archive {
 	#banner {
 		min-height: auto;
@@ -1155,6 +1160,7 @@ body.archive {
 		
 	}
 }
+*/
 
 
 body.category {
@@ -1168,6 +1174,7 @@ body.category {
 @media screen and (max-width: 1099px) {
 	
 	
+/*
 	body:not(.page-template-page-home) #banner {
 		min-height:auto;
 		#banner-text {
@@ -1179,7 +1186,9 @@ body.category {
 	#banner {
 	
 	}
+*/
 	
+/*
 	
 	body.blog, body.archive {
 	#banner {
@@ -1194,6 +1203,7 @@ body.category {
 	}
 }
 	
+*/
 	
 	
 
@@ -1269,7 +1279,7 @@ body.category {
 } /* Media Query */
 
 
-body.page-template-page-home #banner h1 span {
+body.page-template-page-home #banner span.newbannerheader span {
 	opacity: 0;
 }
 
@@ -1279,7 +1289,7 @@ span.letter-span {
 
 
 
-body.page-template-page-home #banner.visible h1 span.top_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line {
 	animation-name: letter-steps-top-line, title-move-top-line, title_opactiy-top-line;
 	animation-duration: 2000ms, 1800ms, 1000ms;
   animation-fill-mode: both;
@@ -1287,7 +1297,7 @@ body.page-template-page-home #banner.visible h1 span.top_line {
 }
 
 
-body.page-template-page-home #banner.visible h1 span.middle_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.middle_line {
 	animation-name: letter-steps-top-line, title-move-middle-line, title_opactiy-top-line;
 	animation-duration: 2000ms, 1800ms, 1000ms;
   animation-fill-mode: both;
@@ -1297,7 +1307,7 @@ body.page-template-page-home #banner.visible h1 span.middle_line {
 
 
 
-body.page-template-page-home #banner.visible h1 span.bottom_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line {
 	animation-name: letter-steps-top-line, title-move-bottom-line, title_opactiy-top-line;
 	animation-duration: 2000ms, 1800ms, 1000ms;
   animation-fill-mode: both;
@@ -1307,21 +1317,21 @@ body.page-template-page-home #banner.visible h1 span.bottom_line {
 
 
 
-body.page-template-page-home #banner.visible h1 span.top_line span.letter-span {
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line span.letter-span {
 	animation-name: single-letters, color-top-line;
 	animation-duration: 300ms, 1050ms;
   animation-fill-mode: both;
   animation-timing-function:linear;
  }
  
-body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-span {
+body.page-template-page-home  #banner.visible span.newbannerheader span.middle_line span.letter-span {
 	animation-name: single-letters, color-top-line;
 	animation-duration: 300ms, 1050ms;
   animation-fill-mode: both;
   animation-timing-function:linear;
  }
  
- body.page-template-page-home #banner.visible h1 span.bottom_line span.letter-span {
+ body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line span.letter-span {
 	animation-name: single-letters, color-bottom-line;
 	animation-duration: 300ms, 1050ms;
   animation-fill-mode: both;
@@ -1332,19 +1342,19 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(1) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(1) {
 	
 	animation-delay: 200ms;
   
  }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(2) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(2) {
 	
 	animation-delay: 225ms;
   
  }
  
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(3) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(3) {
 	
 	animation-delay: 250ms;
   
@@ -1353,7 +1363,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(4) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(4) {
 	
 	animation-delay: 275ms;
   
@@ -1362,7 +1372,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(5) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(5) {
 	
 	animation-delay: 300ms;
   
@@ -1371,7 +1381,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(6) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(6) {
 	
 	animation-delay: 325ms;
   
@@ -1380,35 +1390,35 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(7) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(7) {
 	
 	animation-delay: 350ms;
   
 
 }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(8) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(8) {
 	
 	animation-delay: 375ms;
   
 
 }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(9) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(9) {
 	
 	animation-delay: 400ms;
   
 
 }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(10) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(10) {
 	
 	animation-delay: 425ms;
   
 
 }
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(11) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(11) {
 	
 	animation-delay: 450ms;
   
@@ -1416,7 +1426,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.top_line span.letter-span:nth-of-type(12) {
+#banner.visible span.newbannerheader span.top_line span.letter-span:nth-of-type(12) {
 	
 	animation-delay: 475ms;
  
@@ -1426,19 +1436,19 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 // Middle
 
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(1) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(1) {
 	
 	animation-delay: 500ms;
   
  }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(2) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(2) {
 	
 	animation-delay: 525ms;
   
  }
  
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(3) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(3) {
 	
 	animation-delay: 550ms;
   
@@ -1447,7 +1457,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(4) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(4) {
 	
 	animation-delay: 575ms;
   
@@ -1456,7 +1466,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(5) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(5) {
 	
 	animation-delay: 600ms;
   
@@ -1465,7 +1475,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(6) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(6) {
 	
 	animation-delay: 625ms;
   
@@ -1474,35 +1484,35 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(7) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(7) {
 	
 	animation-delay: 650ms;
   
 
 }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(8) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(8) {
 	
 	animation-delay: 675ms;
   
 
 }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(9) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(9) {
 	
 	animation-delay: 700ms;
   
 
 }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(10) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(10) {
 	
 	animation-delay: 725ms;
   
 
 }
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(11) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(11) {
 	
 	animation-delay: 750ms;
   
@@ -1510,67 +1520,67 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.middle_line span.letter-span:nth-of-type(12) {
+#banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(12) {
 	
 	animation-delay: 775ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(13) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(13) {
 	
 	animation-delay: 800ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(14) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(14) {
 	
 	animation-delay: 825ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(15) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(15) {
 	
 	animation-delay: 850ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(16) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(16) {
 	
 	animation-delay: 875ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(17) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(17) {
 	
 	animation-delay: 900ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(18) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(18) {
 	
 	animation-delay: 925ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(19) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(19) {
 	
 	animation-delay: 950ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(20) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(20) {
 	
 	animation-delay: 1000ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(21) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(21) {
 	
 	animation-delay: 1025ms;
  
  }
  
- #banner.visible h1 span.middle_line span.letter-span:nth-of-type(22) {
+ #banner.visible span.newbannerheader span.middle_line span.letter-span:nth-of-type(22) {
 	
 	animation-delay: 1050ms;
  
@@ -1580,19 +1590,19 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
  // Bottom
  
  
- #banner.visible h1 span.bottom_line span.letter-span:nth-of-type(1) {
+ #banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(1) {
 	
 	animation-delay: 900ms;
   
  }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(2) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(2) {
 	
 	animation-delay: 925ms;
   
  }
  
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(3) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(3) {
 	
 	animation-delay: 950ms;
   
@@ -1601,7 +1611,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(4) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(4) {
 	
 	animation-delay: 975ms;
   
@@ -1610,7 +1620,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(5) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(5) {
 	
 	animation-delay: 1000ms;
   
@@ -1619,7 +1629,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(6) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(6) {
 	
 	animation-delay: 1025ms;
   
@@ -1628,21 +1638,21 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
  
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(7) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(7) {
 	
 	animation-delay: 1050ms;
   
 
 }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(8) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(8) {
 	
 	animation-delay: 1075ms;
   
 
 }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(9) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(9) {
 	
 	animation-delay: 2000ms;
   
@@ -1650,14 +1660,14 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(10) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(10) {
 	
 	animation-delay: 1025ms;
   
 
 }
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(11) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(11) {
 	
 	animation-delay: 1050ms;
   
@@ -1665,7 +1675,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(12) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(12) {
 	
 	animation-delay: 1075ms;
   
@@ -1673,7 +1683,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(13) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(13) {
 	
 	animation-delay: 1080ms;
   
@@ -1681,7 +1691,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 
 
-#banner.visible h1 span.bottom_line span.letter-span:nth-of-type(14) {
+#banner.visible span.newbannerheader span.bottom_line span.letter-span:nth-of-type(14) {
 	
 	animation-delay: 1085ms;
   
@@ -1834,7 +1844,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 }
 #banner-mask {
 }
-#banner h1 {
+#banner span.newbannerheader {
 	font-size: 88.51px;
 	letter-spacing: 0px;
 	margin: 0 0 50px;
@@ -1844,8 +1854,9 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 	text-transform: none;
 	font-weight: 400;
 	position: relative;
+	font-family: "Vidaloka",serif;    
 }
-.home #banner h1 {
+.home #banner span.newbannerheader {
 	font-size: 127.99px;
 	letter-spacing: 0px;
 	margin: 0 auto 70px;
@@ -1859,14 +1870,14 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 	overflow: hidden;
 	padding-bottom:20px;
 }
-#banner h1 > span {
+#banner span.newbannerheader > span {
 	display: block;
 	position: relative;
 
 // 	opacity:1;
 
 }
-#banner h1 b {
+#banner span.newbannerheader b {
 	font-weight: 400;
     display: block;
     position: relative;
@@ -1874,7 +1885,7 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
     height: 100%;
     
 }
-#banner h1 b i {
+#banner span.newbannerheader b i {
 	display: block;
     position: relative;
     width: 100%;
@@ -1883,25 +1894,25 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 	padding:0 0 8px;
 
 }
-#banner h1 span.active {
+#banner span.newbannerheader span.active {
 // 	opacity:1;
 	overflow:visible;
 }
-#banner h1 .active b {
+#banner span.newbannerheader .active b {
 	opacity:1;
 	transform: matrix(1, 0, 0, 1, 0, 0);
 	overflow:visible;
 }
-#banner h1 .active b i {
+#banner span.newbannerheader .active b i {
 	opacity:1;
 	transform: matrix(1, 0, 0, 1, 0, 0);
 	overflow:visible;
 }
-#banner h1 strong {
+#banner span.newbannerheader strong {
 	color: #b57d54;
 	font-weight: 400;
 }
-.home #banner h1 strong {
+.home #banner span.newbannerheader strong {
 	color: #b57d54;
 }
 #banner-subtitle {
@@ -2328,7 +2339,7 @@ opacity: 0;
 }
 #banner h1 {
 }
-.home #banner h1 {
+.home #banner span.newbannerheader {
 	font-size: 87.58px;
 	margin: 0 auto 50px;
 }
@@ -2385,16 +2396,16 @@ opacity: 0;
 .home #banner-text {
 	padding: 115px 0 70px;
 }
-#banner h1 {
+#banner span.newbannerheader {
 	font-size: 71.26px;
 }
-.home #banner h1 {
+.home #banner span.newbannerheader {
 	font-size: 71.26px;
 	margin: 0 0 60px;
 }
 
 
-body.page-template-page-home #banner h1 span {
+body.page-template-page-home #banner span.newbannerheader span {
 	opacity: 1;
 }
 
@@ -2542,20 +2553,20 @@ body.page-template-page-home #banner-button {
 	padding: 84px 0px 60px;
 	
 }
-#banner h1 {
+#banner span.newbannerheader {
 	font-size: 53.39px;
     line-height: 55.02px;
 }
-#banner h1 span {
+#banner span.newbannerheader span {
 	padding:0;
 }
-#banner h1 span b {
+#banner span.newbannerheader span b {
 	padding:0;
 }
-#banner h1 span b i {
+#banner span.newbannerheader span b i {
 	padding:0;
 }	
-.home #banner h1 {
+.home #banner span.newbannerheader {
 	font-size: 53.39px;
 	line-height: 55.02px;
 	margin: 0 0 30px;
