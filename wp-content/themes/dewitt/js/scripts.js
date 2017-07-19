@@ -257,7 +257,7 @@ $('#section1-selling-points').on('init', function(event, slick){
 			  
 			  var myTitle = $( this ).find('.selling-point-title').text();
 			  var myNumber = myNum +1;
-			  $('#section1-selling-points .slick-dots li:nth-child('+myNumber+')').append('<span class="slick-title hidden-sm hidden-xs">'+myTitle+'</span>');
+			  $('#section1-selling-points .slick-dots li:nth-child('+myNumber+')').append('<span class="slick-title">'+myTitle+'</span>');
 			  myNum++;
 			});
 		});
@@ -392,6 +392,14 @@ $('#section1-selling-points').on('init', function(event, slick){
 		  fade: false,
 // 		  cssEase: 'linear',
 			responsive: [
+				{
+				  breakpoint: 1585,
+				  settings: {
+					slidesToShow: 2,
+					slidesToScroll: 1,
+					
+				  }
+				},
 				{
 				  breakpoint: 1099,
 				  settings: {

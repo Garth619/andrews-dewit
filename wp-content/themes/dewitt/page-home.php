@@ -241,7 +241,7 @@ get_header(); ?>
 			
 			<?php endwhile; ?>
 		 </div>
-		 <a href="<?php echo site_url(); ?>/case-results/" class="button">View All Case Results</a>
+		 <a href="<?php bloginfo('url');?>/verdicts-settlements" class="button">View All Case Results</a>
 	</div>
 		
 </section>
@@ -349,7 +349,7 @@ get_header(); ?>
 			
 			<div id="section6-title" class="content-title">	
 
-				<h2><?php the_field('section6_title');?></h2>
+				<span><?php the_field('section6_title');?></span>
 		
 			</div><!-- section6-title -->
 				

@@ -9,7 +9,7 @@
 		
 		<div class="inner_form">
 			
-			<?php gravity_form(2, false, false, false, '', true, 12); ?>
+			<?php gravity_form(2, false, false, false, '', true, 50); ?>
 			
 		</div><!-- inner_form -->
 		

@@ -630,7 +630,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 
 #main-nav {
 	margin: 0;
-	padding: 33px 45px 0 0;
+	padding: 33px 23px 0 0;
 	/* float: left; */
 	height: 115px;
 	position: relative;
@@ -2719,6 +2719,7 @@ body.page-template-page-home #banner-button {
 		text-transform: uppercase;
 		transition: all 1s linear;
 		position: relative;
+		display:block;
 	}
 	#footer-form-title:after {
 		content: '';
@@ -2901,7 +2902,7 @@ body.page-template-page-home #banner-button {
     opacity: 1;
 //     transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#footer-form-text h4 {
+#footer-form-text span.footer_intro {
 	padding: 0 0 0 78px;
 	font-family: "Heebo", san-serif;
 	color: #b57d54;
@@ -2911,6 +2912,7 @@ body.page-template-page-home #banner-button {
 	line-height: 28px;
 	max-width: 570px;
 	letter-spacing: 0;
+	display: block;
 }
 #footer-form-text p {
 	color: #FFF;
@@ -2943,7 +2945,7 @@ body.page-template-page-home #banner-button {
 			font-size: 90px;
 			line-height: 90px;
 		}
-		h4 {
+		span.footer_intro {
 			padding-left:0;
 			padding-right:20px;
 		}
@@ -2987,7 +2989,7 @@ body.page-template-page-home #banner-button {
 	#footer-form-text {
 		width:100%;
 		float:none;
-		h4 {
+		span.footer_intro {
 			padding-left:70px;
 			max-width: 690px;
 		}
@@ -3277,7 +3279,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 			line-height: 65px;
 			margin-bottom:26px;
 		}
-		h4 {
+		span.footer_intro {
 			font-size:17px;
 			padding-left:0;
 			line-height: 23px;
@@ -3401,7 +3403,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	float: left;
 	width: 52%;
 }
-#footer-contact h2 {
+#footer-contact span.newtitle {
 	float: left;
 	width: 38%;
 	color: #FFF;
@@ -3411,8 +3413,9 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	margin: 0;
 	padding: 45px 0 0 0;
 	position:relative;
+	font-family: 'Vidaloka', serif;
 }
-#footer-contact h2:before {
+#footer-contact span.newtitle:before {
 	content:'';
 	width:52px;
 	height:52px;
@@ -3455,7 +3458,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 		text-decoration: none;
 	}
 }
-#footer-location h2 {
+#footer-location span.newtitle {
 	float: left;
 	width: 27%;
 	color: #FFF;
@@ -3466,8 +3469,9 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 	position:relative;
 	padding: 45px 0 0 0;
 	transition: opacity 1.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+	font-family: "Vidaloka",serif;
 }
-#footer-location h2:before {
+#footer-location span.newtitle:before {
 	content:'';
 	width:52px;
 	height:52px;
@@ -3482,7 +3486,7 @@ ul#gform_fields_1 li ::-webkit-input-placeholder {
 
 
 
-#footer-main.visible #footer-location h2:before, #footer-main.visible #footer-contact h2:before {
+#footer-main.visible #footer-location span.newtitle:before, #footer-main.visible #footer-contact span.newtitle:before {
 	
 /*
 	animation-name: svgicon_fade;
@@ -3660,7 +3664,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 	
 	
 	
-	#footer-location h2 {
+	#footer-location span.newtitle {
 		width:38%;
 	}
 	
@@ -3677,7 +3681,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 #footer-location {
 	width: 100%;
 }
-#footer-contact h2 {
+#footer-contact span.newtitle {
 	width:38%;
 }
 #footer-contact-info {
@@ -3696,7 +3700,7 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 }
 .footer-location {
 	
-	h2 {
+	span.newtitle {
 		width:38%;
 	}
 }
@@ -3751,17 +3755,17 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 }
 #footer-location {
 }
-#footer-contact h2 {
+#footer-contact span.newtitle {
 	width: 100%;
 	text-align: center;
 	background-position: top center;
 }
-#footer-contact h2:before {
+#footer-contact span.newtitle:before {
 	left: 50%;
     margin: 0 0 0 -26px;
 }
 #footer-contact-info {
-    padding: 40px 40px 0;
+    padding: 40px 30px 0;
     width: 100%;
     float: none;
     margin: 40px auto 0;
@@ -3776,13 +3780,14 @@ div#footer-contact div#footer-contact-info div.footer-number span a {
 }
 #footer-contact-info .footer-number span {
 	font-size: 15px;
+	float:right;
 }
-#footer-location h2 {
+#footer-location span.newtitle {
 	width: 100%;
 	text-align: center;
 	background-position: top center;
 }
-#footer-location h2:before {
+#footer-location span.newtitle:before {
 	left: 50%;
     margin: 0 0 0 -26px;
 }
@@ -5216,6 +5221,50 @@ opacity: 0;
 
 
 
+@media screen and (max-width: 1920px) {
+	
+	
+#section1-text {
+
+	padding: 110px 5.6%;
+	
+	
+}
+	
+	
+} /* Media Query */
+
+@media screen and (max-width: 1740px) {
+	
+	
+#section1-text {
+
+	padding: 110px 3.6%;
+	
+	
+}
+	
+	
+} /* Media Query */
+
+
+
+@media screen and (max-width: 1619px) {
+	
+	
+#section1-selling-points .slick-dots li .slick-title {
+	display: none;
+	
+}
+
+
+#section1-selling-points .slick-dots {
+	text-align: right;
+	padding-top: 58px;
+}
+	
+	
+} /* Media Query */
 
 
 
@@ -5434,6 +5483,11 @@ opacity: 0;
 		text-align: right;
 		padding-top:58px;
 		
+	}
+	
+	
+	#section1-selling-points .slick-dots li .slick-title {
+		display: none;
 	}
 	
 } /* Media Query */
@@ -6853,6 +6907,19 @@ width:88%;
 	
 		
 	
+	
+	
+} /* Media Query */
+
+
+@media screen and (max-width: 550px) {
+	
+	
+	
+	.section2_left h1 {
+		font-size: 45px;
+		line-height: 45px;
+	}
 	
 	
 } /* Media Query */
@@ -8952,9 +9019,9 @@ float:right;
 }
 #section6-posts {
 // 	padding: 0 31.3% 0 0;
-width:78%;
+width:67%;
 float:left;
-margin-left: -230px;
+// margin-left: -230px;
 }
 #section6-title p {
 	font-size: 20px;
@@ -9063,12 +9130,13 @@ margin-left: -230px;
 
 
 
-#section6-title h2 {
+#section6-title span {
 	font-size: 92.3px;
 	color: #2970e2;
 	line-height: 82px;
 	margin: 0;
 	letter-spacing: 0px;
+	font-family: "Vidaloka",serif;
 }
 #section6-slider {
 }
@@ -9176,7 +9244,7 @@ margin-left: -230px;
 }
 
 @media(max-width:1499px) {
-#section6-title h2 {
+#section6-title span {
 	font-size: 70.3px;
 	line-height: 82px;
 }
@@ -9194,7 +9262,7 @@ margin-left: -230px;
 	#section6-title p strong {
 
 	}
-	#section6-title h2 {font-size: 78.86px;}
+	#section6-title span {font-size: 78.86px;}
 	#section6-slider {
 		width:100%;
 	}
@@ -9293,11 +9361,12 @@ animation-name: none;
 	#section6-title p strong {
 
 	}
-	#section6-title h2 {
+	#section6-title span {
 		font-size: 57px;
 		line-height: 55px;
 		padding: 0 0 25px;
 		text-align: center;
+		display: inherit;
 	}
 	#section6-slider {
 
@@ -13001,6 +13070,8 @@ body.page-template-page-contact {
 			font-size:45px;
 			padding-left:5px !important;
 			line-height:44px;
+			background-image: linear-gradient(-45deg, #2970e2 20%, #b57d54 50%);
+		background-image: -webkit-linear-gradient(-45deg, #2970e2 20%, #b57d54 50%);
 			span {
 // 				display: block;
 			}
@@ -13369,5 +13440,28 @@ body.page-template-default {
 li#field_1_8 , li#field_2_8{
 	display: none;
 }
+
+
+
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    
+
+.new_header_wrapper h1.new_titles {
+	background: none;
+	color: #2970e2;
+}
+
+
+.inner_form_wrapper span.large_header {
+
+    color: #2970e2;
+  }
+
+
+
+
+
+} /* IE Hack */
 
 

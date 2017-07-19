@@ -21,13 +21,13 @@
 		<div id="footer-form-content">
 	       <div class="footer_form_wrapper">
 	       
-	       	<h2 id="footer-form-title">Free Case Evaluation</h2>
+	       	<span id="footer-form-title">Free Case Evaluation</span>
 	      
 	       </div><!--footer_form_wrapper -->
 	       
 			<div id="footer-form-text">
 				<?php the_field( 'footer_verbiage_title','option' ); ?>
-				<h4>Our cases are taken on a contingency fee basis, which means you do not pay attorney fees unless we obtain compensation for you.</h4>
+				<span class="footer_intro">Our cases are taken on a contingency fee basis, which means you do not pay attorney fees unless we obtain compensation for you.</span>
 				<p>When you are dealing with your own health issues or the loss of a family member, you may not feel ready to handle the legal complexities of pursuing an injury or wrongful death claim. Nor should you ever try to do this on your own. A skilled, professional, and compassionate personal injury attorney can relieve you of the burden and stress of handling a legal action, while offering you the best likelihood of seeing a significantly larger damage award than you would typically get by attempting to negotiate your claim directly with the insurance company.</p>
 			</div>
 			<div id="footer-form-fields">
@@ -43,7 +43,7 @@
 			    
 			    
 			    
-			    <h2>Contact Us</h2>
+			    <span class="newtitle">Contact Us</span>
 			    <div id="footer-contact-info">
 			    
 						<div class="footer-number">
@@ -66,7 +66,7 @@
 			    </div>
 		    </div>
 		    <div id="footer-location">
-			    <h2>Visit Us</h2>
+			    <span class="newtitle">Visit Us</span>
 			    <div id="footer-location-info">
 			    	<?php if( get_field('address_1', 'options') ): ?>
 						<div class="footer-location">

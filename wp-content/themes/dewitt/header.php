@@ -157,12 +157,14 @@
 							<div id="banner-title">
 								
 								
+<!--
 								
 								<?php if(is_page_template( 'page-contact.php') ):?>
 								
 									<h1>Use the contact form below to <strong>make an appointment</strong></h1>
 									
 								<?php endif;?>
+-->
 									
 									
 								<?php if(is_page_template( 'page-home.php')): ?>	
@@ -182,6 +184,7 @@
 								<?php endif;?>
 								
 								
+<!--
 								<?php if( is_page_template( 'page-practice-areas.php') || is_page_template( 'page-case-results.php') || is_page_template( 'page-about.php') || is_page_template( 'page-attorney.php') || is_page_template( 'page-attorneys.php')): ?>	
 									
 															
@@ -229,6 +232,7 @@
 									
 									
 									
+-->
 								
 
 								
