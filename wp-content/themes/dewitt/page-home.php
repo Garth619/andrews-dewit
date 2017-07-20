@@ -359,135 +359,32 @@ get_header(); ?>
 			
 			
 			
-			<article class="entry post" dir="ltr">
+			<?php $mymain_query = new WP_Query( array( 'post_type' => 'post','posts_per_page' => '9', 'order' => 'DSC' ) ); while($mymain_query->have_posts()) : $mymain_query->the_post(); ?>
+        
+       
+       <article class="entry post" dir="ltr">
 				<div class="entry-content">
-					<h3 class="entry-title">What contributes to construction accidents?</h3>
-					<div class="entry-date">February 24, 2017</div>
+					<h3 class="entry-title"><?php the_title();?></h3>
+					<div class="entry-date"><?php the_time('F j, Y'); ?></div>
 					<div class="entry-excerpt hidden-xs">
-						<p>It's no secret that construction work can be dangerous - even deadly. Roughly one out of every five work-related deaths involves construction, according to the Occupational Safety and Health Administration. And, in 2015, construction workers in California had the third-highest fatality rate across all industries.</p>
+						<p><?php echo wp_trim_words( get_the_content(), 55, '...' );?></p>
 					</div>
-					<a href="#" class="button">Read Full Post</a>
+					<a href="<?php the_permalink();?>" class="button">Read Full Post</a>
 				</div>
 			</article>
+       
+       
+       
+       
+       <?php endwhile; ?>
+      <?php wp_reset_postdata(); // reset the query ?>
 			
 			
 			
 			
 			
 			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Motorcycle safety: How to ride fast without putting your life on the line</h3>
-					<div class="entry-date">February 24, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>Among those who don't ride, bikers have a reputation for risk-taking. And biking, like virtually any activity, involves some risk. Yet that doesn't mean bikers have a death wish. Experienced riders learn how to manage the risk by using good judgment and proper riding techniques.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
-					<div class="entry-date">March 2, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>If you live in California, the answer to the question posed in the headline is yes. You can pursue financial damages for an accident in which you were hurt even if you were partly to blame for the accident.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">What contributes to construction accidents?</h3>
-					<div class="entry-date">February 24, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>It's no secret that construction work can be dangerous - even deadly. Roughly one out of every five work-related deaths involves construction, according to the Occupational Safety and Health Administration. And, in 2015, construction workers in California had the third-highest fatality rate across all industries.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Motorcycle safety: How to ride fast without putting your life on the line</h3>
-					<div class="entry-date">February 24, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>Among those who don't ride, bikers have a reputation for risk-taking. And biking, like virtually any activity, involves some risk. Yet that doesn't mean bikers have a death wish. Experienced riders learn how to manage the risk by using good judgment and proper riding techniques.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
-					<div class="entry-date">March 2, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>If you live in California, the answer to the question posed in the headline is yes. You can pursue financial damages for an accident in which you were hurt even if you were partly to blame for the accident.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">What contributes to construction accidents?</h3>
-					<div class="entry-date">February 24, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>It's no secret that construction work can be dangerous - even deadly. Roughly one out of every five work-related deaths involves construction, according to the Occupational Safety and Health Administration. And, in 2015, construction workers in California had the third-highest fatality rate across all industries.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Motorcycle safety: How to ride fast without putting your life on the line</h3>
-					<div class="entry-date">February 24, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>Among those who don't ride, bikers have a reputation for risk-taking. And biking, like virtually any activity, involves some risk. Yet that doesn't mean bikers have a death wish. Experienced riders learn how to manage the risk by using good judgment and proper riding techniques.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
-			
-			
-			
-			<article class="entry post" dir="ltr">
-				<div class="entry-content">
-					<h3 class="entry-title">Can I collect damages even if I contributed to an accident?</h3>
-					<div class="entry-date">March 2, 2017</div>
-					<div class="entry-excerpt hidden-xs">
-						<p>If you live in California, the answer to the question posed in the headline is yes. You can pursue financial damages for an accident in which you were hurt even if you were partly to blame for the accident.</p>
-					</div>
-					<a href="#" class="button">Read Full Post</a>
-				</div>
-			</article>
-			
-			
+						
 			
 			
 			
