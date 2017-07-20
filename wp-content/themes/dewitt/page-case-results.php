@@ -11,6 +11,13 @@ get_header(); ?>
 	<h1 class="new_titles">Verdicts & <span>Settlements</span></h1>
 	
 	
+	<div class="results_intro">
+		
+		<span class="results_intro_text">Over <span class="new_blue">$100 Million dollars</span> recovered in the last 5 years</span>
+		
+		
+	</div><!-- results_intro -->
+	
 	
 </div><!-- new_header_wrapper -->
 

@@ -14,39 +14,33 @@ get_header(); ?>
 
 <div class="news_wrapper">
 	
-	<div class="news_single">
-		
-		<h2>2020</h2>
-		
-		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-	</div><!-- news_single -->
 	
-	<div class="news_single">
+	<?php if(get_field('news_repeater')): ?>
+	 
+		<?php while(has_sub_field('news_repeater')): ?>
+	 
+			
+			
+			<div class="news_single">
 		
-		<h2>2020</h2>
+				<h2><?php the_sub_field('year_news');?></h2>
+				
+				<?php if(get_sub_field('sub_title_news')):?>
+				
+					<span class="new_subtitle"><strong><?php the_sub_field('sub_title_news');?></span><!-- new_subtitle -->
+				
+				<?php endif;?>
 		
-		<span class="new_subtitle"><strong>Sub Title</strong></span><!-- new_subtitle -->
+				<?php the_sub_field('content_news');?>
 		
-		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-	</div><!-- news_single -->
+		</div><!-- news_single -->
+	    
+		<?php endwhile; ?>
+	 
+	<?php endif; ?>
 	
-	<div class="news_single">
-		
-		<h2>2020</h2>
-		
-		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-	</div><!-- news_single -->
 	
-	<div class="news_single">
-		
-		<h2>2020</h2>
-		
-		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-	</div><!-- news_single -->
+
 	
 </div><!-- news_wrapper -->
 

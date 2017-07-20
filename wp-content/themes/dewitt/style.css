@@ -120,7 +120,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] { -
 
 #header-mobile { background: #15182b; border: 0px; height: 74px; margin: 0; position: relative; border-radius: 0px; }
 
-#mobile-logo { position: absolute; width: 340px; left: 30px; top: 0px; height: 74px; line-height: 74px; }
+#mobile-logo { position: absolute; width: 340px; left: 30px; top: 13px; height: 74px; line-height: 74px; }
 
 #mobile-logo a { height: 74px; line-height: 74px; display: block; float: left; }
 
@@ -3075,7 +3075,7 @@ body.page-template-page-case-results .new_header_wrapper { margin-bottom: 35px; 
   body.page-template-page-case-results .new_header_wrapper { margin-bottom: 0px; } }
 
 /* Media Query */
-@media screen and (max-width: 555px) { .new_header_wrapper h1.new_titles { max-width: 300px; }
+@media screen and (max-width: 555px) { .new_header_wrapper h1.new_titles { max-width: 320px; }
   body.page-template-page-attorney .new_header_wrapper h1.new_titles { max-width: 300px; } }
 
 /* Media Query */
@@ -3157,6 +3157,26 @@ li#field_1_8, li#field_2_8 { display: none; }
 
 /* Media Query */
 @media screen and (max-width: 760px) { body.page-template-page-news #primary { padding-top: 0; } }
+
+/* Media Query */
+.results_intro { background: #efefef; float: right; padding: 53px 95px 53px 70px; max-width: 766px; }
+
+.results_intro span.results_intro_text { font-family: "Vidaloka",serif; max-width: 594px; font-size: 40px; color: #15182b; line-height: 44px; display: block; }
+
+.results_intro span.results_intro_text span.new_blue { color: #2970e2; }
+
+@media screen and (max-width: 1685px) { .results_intro { float: none; overflow: hidden; display: block; max-width: 55%; padding: 53px 53px 53px 0%; margin-top: 200px; }
+  .results_intro span.results_intro_text { max-width: 490px; float: right; } }
+
+/* Media Query */
+@media screen and (max-width: 1341px) { .results_intro { width: 100%; max-width: 620px; text-align: center; padding: 48px 53px; margin: 270px auto 17px; }
+  .results_intro span.results_intro_text { float: none; } }
+
+/* Media Query */
+@media screen and (max-width: 1099px) { .results_intro { margin: 210px auto 17px; } }
+
+/* Media Query */
+@media screen and (max-width: 767px) { .results_intro { width: 90%; margin: 170px auto 17px; padding: 35px; } }
 
 /* Media Query */
 /*# sourceMappingURL=style.css.map */
