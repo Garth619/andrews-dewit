@@ -165,12 +165,12 @@
 									<span class="newbannerheader">
 										
 										
-										<span class="top_line">The personal</span>
+<!-- 										<span class="top_line">The personal</span> -->
 										
-										<span class="middle_line">injury law firm where</span> 
+										<span class="middle_line">Winning</span> 
 										
 										
-										<span class="bottom_line"><strong>you come first</strong></span>
+										<span class="bottom_line"><strong>for you</strong></span>
 										
 										
 									</span><!-- newbannerheader -->

@@ -345,7 +345,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	float: left;
 }
 #mobile-logo img {
-	margin: 12px 0 0 0;
+	margin: 0px 0 0 0;
 	width: auto;
 }
 #mobile-phone {
@@ -425,7 +425,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 }
 #mobile-logo img {
 	display: inline-block;
-	margin-top: 8px;
+	margin-top: 23px;
 }
 #mobile-phone {
 	top:-16px !important;
@@ -1827,7 +1827,7 @@ body.page-template-page-home  #banner.visible span.newbannerheader span.middle_l
 	text-align: center;
 }
 .home #banner-text {
-	padding: 161px 0 180px;
+	padding: 140px 0 138px;
 	// float: left;
 	width: 100%;
 	margin: 0;
@@ -1849,10 +1849,10 @@ body.page-template-page-home  #banner.visible span.newbannerheader span.middle_l
 	font-family: "Vidaloka",serif;    
 }
 .home #banner span.newbannerheader {
-	font-size: 127.99px;
+	font-size: 191px;
 	letter-spacing: 0px;
 	margin: 0 auto 70px;
-	line-height: 1.01;
+	line-height: 170px;
 	color: #FFF;
 	text-align: center;
 	text-transform: none;
@@ -1860,7 +1860,7 @@ body.page-template-page-home  #banner.visible span.newbannerheader span.middle_l
 	height: 100%;
 	display: block;
 	overflow: hidden;
-	padding-bottom:20px;
+	padding-bottom:35px;
 }
 #banner span.newbannerheader > span {
 	display: block;
@@ -1913,7 +1913,7 @@ body.page-template-page-home  #banner.visible span.newbannerheader span.middle_l
 	line-height: 1;
 	text-align: center;
 	text-transform: uppercase;
-	margin: 0 auto 25px;
+	margin: 0 auto 55px;
 	max-width: 800px;
 	width: 100%;
 	letter-spacing: 2px;
@@ -2332,7 +2332,8 @@ opacity: 0;
 #banner h1 {
 }
 .home #banner span.newbannerheader {
-	font-size: 87.58px;
+	font-size: 140px;
+	line-height: 121px;
 	margin: 0 auto 50px;
 }
 #banner-subtitle {
@@ -2386,14 +2387,15 @@ opacity: 0;
 #banner-text {
 }
 .home #banner-text {
-	padding: 115px 0 70px;
+	padding: 127px 0 70px;
 }
 #banner span.newbannerheader {
-	font-size: 71.26px;
+	font-size: 126px;
+	line-height: 110px;
 }
 .home #banner span.newbannerheader {
-	font-size: 71.26px;
-	margin: 0 0 60px;
+	font-size: 126px;
+	line-height: 110px;
 }
 
 
@@ -2402,33 +2404,33 @@ body.page-template-page-home #banner span.newbannerheader span {
 }
 
 
-body.page-template-page-home #banner.visible h1 span.top_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line {
 	animation-name: none;
 }
 
 
-body.page-template-page-home #banner.visible h1 span.middle_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.middle_line {
 	animation-name: none;
  }
 
 
 
-body.page-template-page-home #banner.visible h1 span.bottom_line {
+body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line {
 	animation-name: none;
 	color:#b57d54;
  }
 
 
 
-body.page-template-page-home #banner.visible h1 span.top_line span.letter-span {
+body.page-template-page-home #banner.visible span.newbannerheader span.top_line span.letter-span {
 	animation-name: none;
  }
  
-body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-span {
+body.page-template-page-home  #banner.visible span.newbannerheader span.middle_line span.letter-span {
 	animation-name: none;
  }
  
- body.page-template-page-home #banner.visible h1 span.bottom_line span.letter-span {
+ body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line span.letter-span {
 	animation-name: none;
 
  }
@@ -2436,7 +2438,9 @@ body.page-template-page-home  #banner.visible h1 span.middle_line span.letter-sp
 
 
 
-
+#banner-subtitle {
+	margin: 0 auto 15px;
+}
 
 
 
@@ -2515,7 +2519,7 @@ body.page-template-page-home #banner-button {
 	
 	
 #banner-title {
-		padding:0 60px;
+		padding:0 10px;
 
 		max-width:600px;
 		margin-left:auto;
@@ -2559,16 +2563,15 @@ body.page-template-page-home #banner-button {
 	padding:0;
 }	
 .home #banner span.newbannerheader {
-	font-size: 53.39px;
-	line-height: 55.02px;
+	font-size: 76px;
+	line-height: 66px;
 	margin: 0 0 30px;
 }
 
 
 #banner-subtitle {
-	margin-bottom:10px;
+	margin-bottom:25px;
 }
-
 
 #banner-subtitle span {
 	font-size: 10px;
@@ -2596,8 +2599,12 @@ body.page-template-page-home #banner-button {
 
 	width: 100%;
 }
+body.page-template-page-home #banner-button {
+	top:0;
+}
 #banner-button .button {
 	width: 100%;
+	margin-top:0px;
 // 	max-width: 315px;
 }
 #banner-subtitle {
@@ -2622,7 +2629,7 @@ body.page-template-page-home #banner-button {
 @media screen and (max-width: 590px) {
 	
 	#banner-title {
-		padding:0 30px;
+// 		padding:0 30px;
 		max-width:420px;
 		margin-left:auto;
 		margin-right:auto;

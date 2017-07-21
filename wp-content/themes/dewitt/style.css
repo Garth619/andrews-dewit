@@ -124,7 +124,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] { -
 
 #mobile-logo a { height: 74px; line-height: 74px; display: block; float: left; }
 
-#mobile-logo img { margin: 12px 0 0 0; width: auto; }
+#mobile-logo img { margin: 0px 0 0 0; width: auto; }
 
 #mobile-phone { position: absolute; font-size: 24px; letter-spacing: 0; right: 85px; padding: 0; height: 74px; line-height: 74px; top: 0px; }
 
@@ -142,7 +142,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] { -
 
 @media (max-width: 760px) { #header-mobile { border: 0px; margin: 0; position: relative; }
   #mobile-logo { position: absolute; left: 15px; top: 0px; width: 240px; }
-  #mobile-logo img { display: inline-block; margin-top: 8px; }
+  #mobile-logo img { display: inline-block; margin-top: 23px; }
   #mobile-phone { top: -16px !important; /* font-size: 29.71px; position: absolute; top: 84px; left: auto; right: 20px; padding: 0; height: auto; line-height: 1; width: auto; bottom: auto; letter-spacing: 1px; text-align: center; */ }
   .mytablet-phone { display: none; right: 0; }
   .banner-phone { display: block; right: 25px !important; top: 0 !important; }
@@ -505,11 +505,11 @@ body.page-template-page-home #banner.visible span.newbannerheader span.bottom_li
 
 #banner-text { padding: 100px 0 88px; /* float: left; */ width: 100%; margin: 0; text-align: center; }
 
-.home #banner-text { padding: 161px 0 180px; width: 100%; margin: 0; }
+.home #banner-text { padding: 140px 0 138px; width: 100%; margin: 0; }
 
 #banner span.newbannerheader { font-size: 88.51px; letter-spacing: 0px; margin: 0 0 50px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; position: relative; font-family: "Vidaloka",serif; }
 
-.home #banner span.newbannerheader { font-size: 127.99px; letter-spacing: 0px; margin: 0 auto 70px; line-height: 1.01; color: #FFF; text-align: center; text-transform: none; font-weight: 400; height: 100%; display: block; overflow: hidden; padding-bottom: 20px; }
+.home #banner span.newbannerheader { font-size: 191px; letter-spacing: 0px; margin: 0 auto 70px; line-height: 170px; color: #FFF; text-align: center; text-transform: none; font-weight: 400; height: 100%; display: block; overflow: hidden; padding-bottom: 35px; }
 
 #banner span.newbannerheader > span { display: block; position: relative; }
 
@@ -527,7 +527,7 @@ body.page-template-page-home #banner.visible span.newbannerheader span.bottom_li
 
 .home #banner span.newbannerheader strong { color: #b57d54; }
 
-#banner-subtitle { color: #2970e2; font-size: 19px; line-height: 1; text-align: center; text-transform: uppercase; margin: 0 auto 25px; max-width: 800px; width: 100%; letter-spacing: 2px; font-weight: 700; position: relative; height: 20px; }
+#banner-subtitle { color: #2970e2; font-size: 19px; line-height: 1; text-align: center; text-transform: uppercase; margin: 0 auto 55px; max-width: 800px; width: 100%; letter-spacing: 2px; font-weight: 700; position: relative; height: 20px; }
 
 #banner-subtitle-mask { /* height: 20px; position: absolute; top: 0px; left: 0px; transition: width 1s 0.5s cubic-bezier(0.77, 0, 0.175, 1); */ }
 
@@ -632,7 +632,7 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
 .infiniteUp { -webkit-animation: scroll-up 3s infinite; animation: scroll-up 3s infinite; }
 
 @media (max-width: 1499px) { .home #banner-text { padding: 68px 0 90px; }
-  .home #banner span.newbannerheader { font-size: 87.58px; margin: 0 auto 50px; }
+  .home #banner span.newbannerheader { font-size: 140px; line-height: 121px; margin: 0 auto 50px; }
   #banner-subtitle { font-size: 13px; }
   #banner-subtitle span { padding: 0 19px 0 12px; font-size: 13px; }
   #banner-subtitle span:after { width: 5px; height: 5px; margin: -2.5px 0 0 0; }
@@ -643,16 +643,17 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
   #banner-button .button { height: 50px; line-height: 40px; font-size: 11px; width: 310px; } }
 
 @media (max-width: 1099px) { #banner { padding-right: 0; margin-top: 74px; }
-  .home #banner-text { padding: 115px 0 70px; }
-  #banner span.newbannerheader { font-size: 71.26px; }
-  .home #banner span.newbannerheader { font-size: 71.26px; margin: 0 0 60px; }
+  .home #banner-text { padding: 127px 0 70px; }
+  #banner span.newbannerheader { font-size: 126px; line-height: 110px; }
+  .home #banner span.newbannerheader { font-size: 126px; line-height: 110px; }
   body.page-template-page-home #banner span.newbannerheader span { opacity: 1; }
-  body.page-template-page-home #banner.visible h1 span.top_line { -webkit-animation-name: none; animation-name: none; }
-  body.page-template-page-home #banner.visible h1 span.middle_line { -webkit-animation-name: none; animation-name: none; }
-  body.page-template-page-home #banner.visible h1 span.bottom_line { -webkit-animation-name: none; animation-name: none; color: #b57d54; }
-  body.page-template-page-home #banner.visible h1 span.top_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
-  body.page-template-page-home #banner.visible h1 span.middle_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
-  body.page-template-page-home #banner.visible h1 span.bottom_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.top_line { -webkit-animation-name: none; animation-name: none; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.middle_line { -webkit-animation-name: none; animation-name: none; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line { -webkit-animation-name: none; animation-name: none; color: #b57d54; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.top_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.middle_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
+  body.page-template-page-home #banner.visible span.newbannerheader span.bottom_line span.letter-span { -webkit-animation-name: none; animation-name: none; }
+  #banner-subtitle { margin: 0 auto 15px; }
   #banner-subtitle span { font-size: 11.97px; margin: 0 0 28px; }
   #banner-subtitle span { -webkit-animation-name: none; animation-name: none; }
   #banner-subtitle span:after { -webkit-animation-name: none; animation-name: none; }
@@ -662,7 +663,7 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
   body.page-template-page-home #banner-button { -webkit-animation-name: none; animation-name: none; position: relative; top: -30px; }
   #banner-side { background: transparent; } }
 
-@media (max-width: 767px) { #banner-title { padding: 0 60px; max-width: 600px; margin-left: auto; margin-right: auto; }
+@media (max-width: 767px) { #banner-title { padding: 0 10px; max-width: 600px; margin-left: auto; margin-right: auto; }
   body.page-template-page-home #banner.visible h1 span.top_line, body.page-template-page-home #banner.visible h1 span.middle_line, body.page-template-page-home #banner.visible h1 span.bottom_line { display: inline; }
   #banner { padding: 0; }
   .home #banner { padding: 0; }
@@ -672,18 +673,19 @@ body.page-template-page-home #banner-button { -webkit-animation-name: button_fad
   #banner span.newbannerheader span { padding: 0; }
   #banner span.newbannerheader span b { padding: 0; }
   #banner span.newbannerheader span b i { padding: 0; }
-  .home #banner span.newbannerheader { font-size: 53.39px; line-height: 55.02px; margin: 0 0 30px; }
-  #banner-subtitle { margin-bottom: 10px; }
+  .home #banner span.newbannerheader { font-size: 76px; line-height: 66px; margin: 0 0 30px; }
+  #banner-subtitle { margin-bottom: 25px; }
   #banner-subtitle span { font-size: 10px; padding: 0 6px 0 0px; letter-spacing: 1px; }
   #banner-subtitle span:after { width: 3px; height: 3px; margin: -2px 0 0 0; }
   #banner-subtitle span:last-child { padding: 0 4px; }
   #banner-button { max-width: 315px; width: 100%; position: relative; top: -15px; }
   #banner-button-mask { width: 100%; }
   #banner-button.active #banner-button-mask { width: 100%; }
-  #banner-button .button { width: 100%; }
+  body.page-template-page-home #banner-button { top: 0; }
+  #banner-button .button { width: 100%; margin-top: 0px; }
   #banner-subtitle-text { width: 100%; } }
 
-@media screen and (max-width: 590px) { #banner-title { padding: 0 30px; max-width: 420px; margin-left: auto; margin-right: auto; } }
+@media screen and (max-width: 590px) { #banner-title { max-width: 420px; margin-left: auto; margin-right: auto; } }
 
 /* Media Query */
 /* ===== MAIN ===== */
