@@ -8,12 +8,12 @@ get_header(); ?>
 	
 	
 	<span class="new_line"></span><!-- new_line -->
-	<h1 class="new_titles">Verdicts & <span>Settlements</span></h1>
+	<h1 class="new_titles"><?php the_title();?></h1>
 	
 	
 	<div class="results_intro">
 		
-		<span class="results_intro_text">Over <span class="new_blue">$100 Million dollars</span> recovered in the last 5 years</span>
+		<span class="results_intro_text"><?php the_field( 'case_results_intro' ); ?></span>
 		
 		
 	</div><!-- results_intro -->
@@ -22,6 +22,13 @@ get_header(); ?>
 </div><!-- new_header_wrapper -->
 
 <section id="page-content">
+    
+
+    
+    
+    
+    
+    
     <?php wp_reset_query(); if (have_posts()) : while (have_posts()) : the_post(); ?>
     
 
@@ -30,7 +37,7 @@ get_header(); ?>
     
     
     
-    <?php the_content(); ?>
+
     
     <div id="case-results">
     	<?php $c=0; while ( have_rows('case_results') ) : the_row(); ?>
