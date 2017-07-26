@@ -35,10 +35,15 @@ get_header(); ?>
 	
 	
 	<div class="about_content_right">
+		
+	<script src="https://fast.wistia.com/embed/medias/<?php the_field( 'wistia_about_video_code' ); ?>.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 	
 			<div class="about_video_wrapper">
 			 	
 			 	<div class="video_title"><span>Press play to learn</span> Success is no Accident</div><!-- video_title -->
+			 	
+			 	<span class="wistia_embed wistia_async_<?php the_field( 'wistia_about_video_code' ); ?> popover=true popoverContent=link" style="display:inline"><a href="#">
+			 	
 			 	
 			 	<div class="video_image_wrapper">
 				 	
@@ -65,6 +70,8 @@ get_header(); ?>
 				 	</div><!-- new_play_button -->
 				 	
 			 	</div><!-- video_image_wrapper -->
+			 	
+			 	</a></span>
 			 	
 		 	</div><!-- about_video_wrapper -->
 

@@ -17,7 +17,14 @@
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 <link href="https://fonts.googleapis.com/css?family=Heebo:100,300,400,500,700,800,900" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Vidaloka" rel="stylesheet">
+
+
+<?php if(is_page_template( 'page-contact.php' )):?>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUjs9tA9xiKurLHDH9KsTkIKlYLqmNgrg"></script>
+<?php endif;?>
+
+
+
 <?php wp_head(); ?>
 <?php the_field('header_tags', 'option');?>
 </head>

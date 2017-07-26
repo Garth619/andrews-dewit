@@ -61,9 +61,18 @@ get_header(); ?>
 	 	
 	 	<div class="section2_right">
 		 	
+		 	<script src="https://fast.wistia.com/embed/medias/<?php the_field( 'wistia_viedo_code' ); ?>.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+		 	
 		 	<div class="section2_video_wrapper">
 			 	
 			 	<div class="video_title"><?php the_field( 'video_caption' ); ?></div><!-- video_title -->
+			 	
+			 	
+			 	
+			 	
+			 	<span class="wistia_embed wistia_async_<?php the_field( 'wistia_viedo_code' ); ?> popover=true popoverContent=link" style="display:inline"><a href="#">
+			 	
+			 	
 			 	
 			 	<div class="video_image_wrapper">
 				 	
@@ -96,6 +105,9 @@ get_header(); ?>
 				 	</div><!-- new_play_button -->
 				 	
 			 	</div><!-- video_image_wrapper -->
+			 	
+			 	</a></span><!-- wistia -->
+			 	
 			 	
 		 	</div><!-- section2_video_wrapper -->
 		 	

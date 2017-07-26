@@ -9,30 +9,58 @@
 
 
 //jQuery Insert From Google
+
 if (!is_admin()) add_action("wp_enqueue_scripts", "my_jquery_enqueue", 11);
 function my_jquery_enqueue() {
    wp_deregister_script('jquery');
-   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js", false, null);
+   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js", false, null, true);
    wp_enqueue_script('jquery');
 }
 
 
  function load_my_styles_scripts() {
     
-     wp_enqueue_style( 'bootstrap.css', get_template_directory_uri() . '/css/bootstrap.min.css' );
-		 wp_enqueue_style( 'slick.css', get_template_directory_uri() . '/css/slick.css' );
-		 wp_enqueue_style( 'animate.css', get_template_directory_uri() . '/css/animate.css' );
+     // wp_enqueue_style( 'bootstrap.css', get_template_directory_uri() . '/css/bootstrap.min.css' );
+		 // wp_enqueue_style( 'slick.css', get_template_directory_uri() . '/css/slick.css' );
+		 // wp_enqueue_style( 'animate.css', get_template_directory_uri() . '/css/animate.css' );
      wp_enqueue_style( 'styles', get_stylesheet_uri(), '', 9, 'all' ); 
 
-     wp_enqueue_script( 'waypoints.js', get_template_directory_uri() . '/js/waypoints/lib/jquery.waypoints.min.js' );
-     wp_enqueue_script( 'bootstrap.js', get_template_directory_uri() . '/js/bootstrap.min.js', array('jquery') );
-     wp_enqueue_script( 'slick.js', get_template_directory_uri() . '/js/slick.min.js', array('jquery') );
-     wp_enqueue_script( 'matchheight.js', get_template_directory_uri() . '/js/jquery.matchHeight-min.js', array('jquery') );
-     wp_enqueue_script( 'jquery-addon', get_template_directory_uri() . '/js/scripts.js', array('jquery'));
+     // wp_enqueue_script( 'waypoints.js', get_template_directory_uri() . '/js/waypoints/lib/jquery.waypoints.min.js' );
+     // wp_enqueue_script( 'bootstrap.js', get_template_directory_uri() . '/js/bootstrap.min.js', array('jquery') );
+     // wp_enqueue_script( 'slick.js', get_template_directory_uri() . '/js/slick.min.js', array('jquery') );
+     // wp_enqueue_script( 'matchheight.js', get_template_directory_uri() . '/js/jquery.matchHeight-min.js', array('jquery') );
+     wp_enqueue_script( 'myscripts', get_template_directory_uri() . '/js/scripts-min.js', array('jquery'), '', true );
+     
+     
+    
+     
+     
  }
  
  add_action( 'wp_enqueue_scripts', 'load_my_styles_scripts', 20 );
 
+
+
+
+
+// Force Gravity Forms to init scripts in the footer and ensure that the DOM is loaded before scripts are executed
+add_filter( 'gform_init_scripts_footer', '__return_true' );
+add_filter( 'gform_cdata_open', 'wrap_gform_cdata_open', 1 );
+function wrap_gform_cdata_open( $content = '' ) {
+if ( ( defined('DOING_AJAX') && DOING_AJAX ) || isset( $_POST['gform_ajax'] ) ) {
+return $content;
+}
+$content = 'document.addEventListener( "DOMContentLoaded", function() { ';
+return $content;
+}
+add_filter( 'gform_cdata_close', 'wrap_gform_cdata_close', 99 );
+function wrap_gform_cdata_close( $content = '' ) {
+if ( ( defined('DOING_AJAX') && DOING_AJAX ) || isset( $_POST['gform_ajax'] ) ) {
+return $content;
+}
+$content = ' }, false );';
+return $content;
+}
 
 
 
